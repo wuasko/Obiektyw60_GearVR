@@ -1,6 +1,7 @@
-
+Temp/*
 Library/metadata/*
 Library/ShaderCache/*
+Library/PlayerDataCache/*
 .vs/Obiektyw60plus/v15/.suo
 *.csproj
 *.sln
