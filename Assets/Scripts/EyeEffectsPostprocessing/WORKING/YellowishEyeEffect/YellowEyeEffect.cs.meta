@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 40cb59882a2dcc744be5f6c1975487e1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - yellEyeShader: {fileID: 4800000, guid: 39899d8a4d0e679439ce8aa2602fde36, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

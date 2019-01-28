@@ -1,0 +1,8 @@
+
+Library/metadata/*
+Library/ShaderCache/*
+.vs/Obiektyw60plus/v15/.suo
+*.csproj
+*.sln
+*.cache
+*.log

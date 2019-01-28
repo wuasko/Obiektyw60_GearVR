@@ -1,0 +1,3501 @@
+fileFormatVersion: 2
+guid: 6114fdf19448a014ebf5846149f68d08
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: $$$DUMMY.fabric
+    100002: //RootNode
+    100004: 1:1:6
+    100006: 1:1:6.001
+    100008: 1:2:6
+    100010: 1:2:6.001
+    100012: 1:3:6
+    100014: 1:4:6
+    100016: 1:4:6.001
+    100018: 2:10:6
+    100020: 2:1:6
+    100022: 2:1:6.001
+    100024: 2:2:6
+    100026: 2:2:6.001
+    100028: 2:3:6
+    100030: 2:4:6
+    100032: 2:5:6
+    100034: 2:6:6
+    100036: 2:7:6
+    100038: 2:8:6
+    100040: 3:1:6
+    100042: 3:2:6
+    100044: 3:4:6
+    100046: armrest.004
+    100048: armrest.005
+    100050: armrest.007
+    100052: backrest.004
+    100054: backrest.005
+    100056: backrest.006
+    100058: backrest.008
+    100060: backrest_2.004
+    100062: backrest_2.005
+    100064: backrest_2.007
+    100066: bottom
+    100068: Camera
+    100070: Camera.001
+    100072: Camera.002
+    100074: Camera.003
+    100076: Camera.004
+    100078: Camera.005
+    100080: Camera.006
+    100082: Camera.007
+    100084: Camera.008
+    100086: Camera.009
+    100088: Camera.010
+    100090: Camera.011
+    100092: Camera.012
+    100094: Camera.013
+    100096: Camera.014
+    100098: "ca\u0142o\u015B\u0107.lewa"
+    100100: "ca\u0142o\u015B\u0107.prawa"
+    100102: Circle
+    100104: Circle.001
+    100106: Circle.002
+    100108: Circle.003
+    100110: Circle.004
+    100112: Circle.005
+    100114: Circle.006
+    100116: Circle.007
+    100118: Circle.008
+    100120: Circle.009
+    100122: Circle.010
+    100124: Circle.011
+    100126: Circle.012
+    100128: Circle.013
+    100130: Circle.014
+    100132: Circle.015
+    100134: Circle.016
+    100136: Circle.017
+    100138: Circle.018
+    100140: Circle.019
+    100142: Circle.020
+    100144: Circle.021
+    100146: Circle.022
+    100148: Circle.023
+    100150: Circle.024
+    100152: Circle.025
+    100154: Circle.026
+    100156: Circle.027
+    100158: Circle.028
+    100160: Circle.029
+    100162: Circle.030
+    100164: Circle.031
+    100166: Circle.032
+    100168: Circle.033
+    100170: Circle.034
+    100172: Circle.035
+    100174: Circle.036
+    100176: Circle.037
+    100178: Circle.038
+    100180: Circle.039
+    100182: Circle.040
+    100184: Circle.041
+    100186: Circle.042
+    100188: Circle.043
+    100190: Circle.044
+    100192: Circle.045
+    100194: Circle.046
+    100196: Circle.047
+    100198: Circle.048
+    100200: Circle.049
+    100202: Circle.050
+    100204: Circle.051
+    100206: Circle.052
+    100208: Circle.053
+    100210: Circle.054
+    100212: Circle.055
+    100214: Circle.056
+    100216: Circle.057
+    100218: Circle.058
+    100220: Circle.059
+    100222: Circle.060
+    100224: Circle.061
+    100226: Circle.062
+    100228: Circle.063
+    100230: Circle.064
+    100232: Circle.065
+    100234: Circle.066
+    100236: Circle.067
+    100238: Circle.068
+    100240: Circle.069
+    100242: Circle.070
+    100244: Circle.072
+    100246: Circle.073
+    100248: Circle.074
+    100250: Circle.075
+    100252: Circle.076
+    100254: Circle.077
+    100256: Circle.078
+    100258: Circle.079
+    100260: Circle.080
+    100262: Circle.081
+    100264: Circle.082
+    100266: Circle.083
+    100268: Circle.084
+    100270: Circle.085
+    100272: Circle.086
+    100274: Circle.087
+    100276: Circle.088
+    100278: Circle.089
+    100280: Circle.090
+    100282: Circle.091
+    100284: Circle.092
+    100286: Circle.093
+    100288: Circle.094
+    100290: Circle.095
+    100292: Circle.096
+    100294: Circle.097
+    100296: Circle.098
+    100298: Circle.099
+    100300: Circle.100
+    100302: Circle.103
+    100304: Circle.105
+    100306: Circle.106
+    100308: Circle.107
+    100310: Circle.108
+    100312: Circle.109
+    100314: Circle.110
+    100316: Circle.114
+    100318: Circle.115
+    100320: Circle.116
+    100322: Circle.117
+    100324: Circle.118
+    100326: Circle.119
+    100328: Circle.120
+    100330: Circle.121
+    100332: Circle.122
+    100334: Circle.123
+    100336: Circle.124
+    100338: Circle.125
+    100340: Circle.126
+    100342: Circle.127
+    100344: Circle.128
+    100346: Circle.129
+    100348: Circle.130
+    100350: Circle.131
+    100352: Circle.132
+    100354: Circle.133
+    100356: Circle.134
+    100358: Circle.135
+    100360: Circle.136
+    100362: Circle.137
+    100364: Circle.138
+    100366: Circle.139
+    100368: Circle.140
+    100370: Circle.141
+    100372: Circle.142
+    100374: Circle.143
+    100376: Circle.144
+    100378: Circle.145
+    100380: Circle.146
+    100382: Circle.147
+    100384: Circle.148
+    100386: Circle.149
+    100388: Circle.150
+    100390: Circle.151
+    100392: Circle.152
+    100394: Circle.153
+    100396: Circle.154
+    100398: Circle.155
+    100400: Circle.156
+    100402: Circle.157
+    100404: Circle.158
+    100406: Circle.159
+    100408: Circle.160
+    100410: Circle.161
+    100412: Circle.162
+    100414: Circle.163
+    100416: Circle.164
+    100418: Circle.165
+    100420: Circle.166
+    100422: Circle.167
+    100424: Circle.168
+    100426: Circle.169
+    100428: Circle.170
+    100430: Circle.171
+    100432: Circle.172
+    100434: Circle.173
+    100436: Circle.174
+    100438: Circle.175
+    100440: Circle.176
+    100442: Circle.177
+    100444: Circle.178
+    100446: Circle.179
+    100448: Circle.180
+    100450: Circle.181
+    100452: Circle.182
+    100454: Circle.183
+    100456: Circle.184
+    100458: Circle.185
+    100460: Circle.186
+    100462: Circle.187
+    100464: Circle.188
+    100466: Circle.189
+    100468: Circle.190
+    100470: Circle.191
+    100472: Circle.192
+    100474: Circle.193
+    100476: Circle.194
+    100478: Circle.195
+    100480: Circle.196
+    100482: Circle.197
+    100484: Circle.198
+    100486: Circle.199
+    100488: Circle.200
+    100490: Circle.201
+    100492: Circle.202
+    100494: Circle.203
+    100496: Circle.204
+    100498: Circle.205
+    100500: Circle.206
+    100502: Circle.207
+    100504: Circle.208
+    100506: Circle.209
+    100508: Circle.210
+    100510: Circle.211
+    100512: Circle.212
+    100514: Circle.213
+    100516: Circle.214
+    100518: Circle.215
+    100520: Circle.216
+    100522: Circle.217
+    100524: Circle.218
+    100526: Circle.219
+    100528: Circle.220
+    100530: Circle.221
+    100532: Circle.222
+    100534: Circle.223
+    100536: Circle.224
+    100538: Circle.225
+    100540: Circle.226
+    100542: Circle.227
+    100544: Circle.228
+    100546: Circle.229
+    100548: Circle.230
+    100550: Circle.231
+    100552: Circle.232
+    100554: Circle.233
+    100556: Circle.234
+    100558: Circle.235
+    100560: Circle.236
+    100562: Circle.237
+    100564: Circle.238
+    100566: Circle.239
+    100568: Circle.240
+    100570: Circle.241
+    100572: Circle.242
+    100574: Circle.243
+    100576: Circle.244
+    100578: Circle.245
+    100580: Circle.246
+    100582: Circle.247
+    100584: Circle.248
+    100586: Circle.249
+    100588: Circle.250
+    100590: Circle.251
+    100592: Circle.252
+    100594: Circle.253
+    100596: Circle.254
+    100598: Circle.255
+    100600: Circle.256
+    100602: Circle.257
+    100604: Circle.258
+    100606: Circle.259
+    100608: Circle.260
+    100610: Circle.261
+    100612: Circle.262
+    100614: Circle.263
+    100616: Circle.264
+    100618: Circle.265
+    100620: Circle.266
+    100622: Circle.267
+    100624: Circle.268
+    100626: Circle.269
+    100628: Circle.270
+    100630: Circle.271
+    100632: Circle.272
+    100634: Circle.273
+    100636: Circle.274
+    100638: Circle.275
+    100640: Circle.276
+    100642: Circle.277
+    100644: Circle.278
+    100646: Circle.279
+    100648: Circle.280
+    100650: Circle.281
+    100652: Circle.282
+    100654: Circle.283
+    100656: Circle.284
+    100658: Circle.285
+    100660: Circle.286
+    100662: Circle.287
+    100664: Circle.288
+    100666: Circle.289
+    100668: Circle.290
+    100670: Circle.291
+    100672: Circle.292
+    100674: Circle.293
+    100676: Circle.294
+    100678: Circle.295
+    100680: Circle.296
+    100682: Circle.297
+    100684: Circle.298
+    100686: Circle.299
+    100688: Circle.300
+    100690: Circle.301
+    100692: Circle.302
+    100694: Circle.303
+    100696: Circle.304
+    100698: Circle.305
+    100700: Circle.306
+    100702: Circle.307
+    100704: Circle.308
+    100706: Circle.309
+    100708: Circle.310
+    100710: Circle.311
+    100712: Circle.312
+    100714: Circle.313
+    100716: Circle.314
+    100718: Circle.315
+    100720: Circle.316
+    100722: Circle.317
+    100724: Circle.318
+    100726: Circle.319
+    100728: Circle.320
+    100730: Circle.321
+    100732: Circle.322
+    100734: Circle.323
+    100736: Circle.324
+    100738: Circle.325
+    100740: Circle.326
+    100742: Circle.327
+    100744: Circle.328
+    100746: Circle.329
+    100748: Circle.330
+    100750: Circle.331
+    100752: Circle.332
+    100754: Circle.333
+    100756: Circle.334
+    100758: Circle.335
+    100760: Circle.336
+    100762: Circle.337
+    100764: Circle.338
+    100766: Circle.339
+    100768: Circle.340
+    100770: Circle.341
+    100772: Circle.342
+    100774: Circle.343
+    100776: Circle.344
+    100778: Circle.345
+    100780: Circle.346
+    100782: Circle.347
+    100784: Circle.348
+    100786: Circle.349
+    100788: Circle.350
+    100790: Circle.351
+    100792: Circle.352
+    100794: Circle.353
+    100796: Circle.354
+    100798: Circle.355
+    100800: Circle.356
+    100802: Circle.357
+    100804: Circle.358
+    100806: Circle.359
+    100808: Circle.360
+    100810: Circle.361
+    100812: Circle.362
+    100814: Circle.363
+    100816: Circle.364
+    100818: Circle.365
+    100820: Circle.366
+    100822: Circle.367
+    100824: Circle.368
+    100826: Circle.369
+    100828: Circle.370
+    100830: Circle.371
+    100832: Circle.372
+    100834: Circle.373
+    100836: Circle.374
+    100838: Circle.375
+    100840: Circle.376
+    100842: Circle.377
+    100844: Circle.378
+    100846: Circle.379
+    100848: Circle.380
+    100850: Circle.381
+    100852: Circle.382
+    100854: Circle.383
+    100856: Circle.384
+    100858: Circle.385
+    100860: Circle.386
+    100862: Circle.387
+    100864: Circle.388
+    100866: Circle.389
+    100868: Circle.390
+    100870: Circle.391
+    100872: Circle.392
+    100874: Circle.393
+    100876: Circle.394
+    100878: Circle.395
+    100880: Circle.396
+    100882: Circle.397
+    100884: Circle.398
+    100886: Circle.399
+    100888: Circle.400
+    100890: Circle.401
+    100892: Circle.402
+    100894: Circle.403
+    100896: Circle.404
+    100898: Circle.405
+    100900: Circle.406
+    100902: Circle.407
+    100904: Circle.408
+    100906: Circle.409
+    100908: Circle.410
+    100910: Circle.411
+    100912: Circle.412
+    100914: Circle.413
+    100916: Circle.414
+    100918: Circle.415
+    100920: Circle.416
+    100922: Circle.417
+    100924: Circle.418
+    100926: Circle.419
+    100928: Circle.420
+    100930: Circle.421
+    100932: Circle.422
+    100934: Circle.423
+    100936: Circle.424
+    100938: Circle.425
+    100940: Circle.426
+    100942: Circle.427
+    100944: Circle.428
+    100946: Circle.429
+    100948: Circle.430
+    100950: Circle.431
+    100952: Circle.432
+    100954: Circle.433
+    100956: Circle.434
+    100958: Circle.435
+    100960: Circle.436
+    100962: Circle.437
+    100964: Circle.438
+    100966: Circle.439
+    100968: Circle.440
+    100970: Circle.441
+    100972: Circle.442
+    100974: Circle.443
+    100976: Circle.444
+    100978: Circle.445
+    100980: Cube
+    100982: Cube.001
+    100984: Cube.002
+    100986: Cube.003
+    100988: Cube.004
+    100990: Cube.005
+    100992: Cube.006
+    100994: Cube.008
+    100996: Cube.009
+    100998: Cube.010
+    101000: Cube.011
+    101002: curtain
+    101004: curtain.001
+    101006: curtain.002
+    101008: curtain_2
+    101010: curtain_2.001
+    101012: curtain_2.002
+    101014: curtain_2.003
+    101016: curtain_2.004
+    101018: Cylinder
+    101020: Cylinder.005
+    101022: Cylinder.006
+    101024: Cylinder.007
+    101026: Cylinder.008
+    101028: "Du\u017Ce.ko\u0142o"
+    101030: "Du\u017Ce.ko\u0142o.001"
+    101032: "Du\u017Ce.ko\u0142o.lewe"
+    101034: "Du\u017Ce.ko\u0142o.lewe.001"
+    101036: "Du\u017Ce.ko\u0142o.obr\u0119cz"
+    101038: "Du\u017Ce.ko\u0142o.obr\u0119cz.001"
+    101040: "Du\u017Ce.ko\u0142o.obr\u0119cz.przyleg\u0142a"
+    101042: "Du\u017Ce.ko\u0142o.obr\u0119cz.przyleg\u0142a.001"
+    101044: Empty
+    101046: Empty.szprycha
+    101048: Empty.szprycha.001
+    101050: Empty.szprycha001
+    101052: Empty.szprycha001.001
+    101054: karniz001
+    101056: karniz001.001
+    101058: karniz001.002
+    101060: leg
+    101062: legs.005
+    101064: legs.007
+    101066: legs.008
+    101068: legs.010
+    101070: legs.011
+    101072: "ma\u0142e.k\xF3\u0142ko"
+    101074: "ma\u0142e.k\xF3\u0142ko.001"
+    101076: "Ma\u0142e.k\xF3\u0142ko.os\u0142onka"
+    101078: "Ma\u0142e.k\xF3\u0142ko.os\u0142onka.001"
+    101080: "ma\u0142e.k\xF3\u0142ko.\u015Brodek"
+    101082: "ma\u0142e.k\xF3\u0142ko.\u015Brodek.001"
+    101084: me1.000
+    101086: me1.002
+    101088: me1.003
+    101090: me1.004
+    101092: me1.1
+    101094: me10.000
+    101096: me10.10
+    101098: me11.000
+    101100: me11.11
+    101102: me12.000
+    101104: me12.12
+    101106: me13.000
+    101108: me13.13
+    101110: me14.14
+    101112: me15.15
+    101114: me16.16
+    101116: me2.000
+    101118: me2.001
+    101120: me2.003
+    101122: me2.2
+    101124: me3.000
+    101126: me3.002
+    101128: me3.3
+    101130: me4.000
+    101132: me4.4
+    101134: me5.5
+    101136: me6.000
+    101138: me6.6
+    101140: me7.7
+    101142: me8.000
+    101144: me8.8
+    101146: me9.000
+    101148: me9.9
+    101150: "modu\u0142.box"
+    101152: "modu\u0142.box.001"
+    101154: "modu\u0142.box.002"
+    101156: "modu\u0142.box.003"
+    101158: "modu\u0142.box.004"
+    101160: "modu\u0142.box.005"
+    101162: "modu\u0142.box.006"
+    101164: "modu\u0142.box.007"
+    101166: "modu\u0142.box.008"
+    101168: "modu\u0142.box.009"
+    101170: "modu\u0142.box.010"
+    101172: "modu\u0142.box.011"
+    101174: "modu\u0142.box.012"
+    101176: "modu\u0142.box.013"
+    101178: "modu\u0142.box.014"
+    101180: "modu\u0142.box.015"
+    101182: "modu\u0142.panel \u015Bcienny"
+    101184: "modu\u0142.panel \u015Bcienny.001"
+    101186: "modu\u0142.panel \u015Bcienny.002"
+    101188: "modu\u0142.szuflada. d\xF3\u0142"
+    101190: "modu\u0142.szuflada. d\xF3\u0142.002"
+    101192: "modu\u0142.szuflada. d\xF3\u0142.006"
+    101194: "modu\u0142.szuflada. d\xF3\u0142.009"
+    101196: "modu\u0142.szuflada. d\xF3\u0142.010"
+    101198: "modu\u0142.szuflada. d\xF3\u0142.013"
+    101200: "modu\u0142.szuflada. d\xF3\u0142.014"
+    101202: "modu\u0142.szuflada. d\xF3\u0142.015"
+    101204: "modu\u0142.szuflada.gora"
+    101206: "modu\u0142.szuflada.gora.002"
+    101208: "modu\u0142.szuflada.gora.006"
+    101210: "modu\u0142.szuflada.gora.009"
+    101212: "modu\u0142.szuflada.gora.010"
+    101214: "modu\u0142.szuflada.gora.013"
+    101216: "modu\u0142.szuflada.gora.014"
+    101218: "modu\u0142.szuflada.gora.015"
+    101220: Obj_000049
+    101222: pads
+    101224: panel.na.noge
+    101226: panel.na.noge.001
+    101228: Plane
+    101230: Plane.001
+    101232: Plane.002
+    101234: Plane.003
+    101236: Plane.004
+    101238: Plane.005
+    101240: Plane.006
+    101242: Plane.007
+    101244: Plane.008
+    101246: Plane.009
+    101248: Plane.010
+    101250: Plane.011
+    101252: Plane.012
+    101254: Plane.013
+    101256: Plane.014
+    101258: Plane.015
+    101260: Plane.016
+    101262: Plane.020
+    101264: Plane.021
+    101266: Plane.022
+    101268: Plane.023
+    101270: Plane.024
+    101272: Plane.025
+    101274: Plane.026
+    101276: Plane.027
+    101278: podajnik papieru
+    101280: "pod\u0142oga prysznic"
+    101282: "pod\u0142oga sypialnia"
+    101284: "pod\u0142oga \u0142azienka"
+    101286: "pod\u0142oga.kuchnia"
+    101288: "pod\u0142oga.salon"
+    101290: "pod\u0142okietnik.lewy"
+    101292: "pod\u0142okietnik.lewy.001"
+    101294: "pod\u0142okietnik.poduszka.lewa"
+    101296: "pod\u0142okietnik.poduszka.prawa"
+    101298: "przedpok\xF3j szafa"
+    101300: "p\xF3\u0142ka"
+    101302: "p\xF3\u0142ka.001"
+    101304: "p\xF3\u0142ka.002"
+    101306: "p\xF3\u0142ka.003"
+    101308: "p\xF3\u0142ka.004"
+    101310: "p\xF3\u0142ka.005"
+    101312: "p\xF3\u0142ka.006"
+    101314: "p\xF3\u0142ka.007"
+    101316: "p\xF3\u0142ka.008"
+    101318: "p\xF3\u0142ka.009"
+    101320: "p\xF3\u0142ka.010"
+    101322: "p\xF3\u0142ka.011"
+    101324: RenderStuf
+    101326: "rurka.do.ma\u0142ego"
+    101328: "rurka.do.ma\u0142ego.001"
+    101330: "rurka.g\xF3rna"
+    101332: "rurka.g\xF3rna.001"
+    101334: "rurka.prz\xF3d"
+    101336: "rurka.prz\xF3d.001"
+    101338: rurka.tyl
+    101340: rurka.tyl.001
+    101342: "salon krzes\u0142o.001"
+    101344: "salon krzes\u0142o.002"
+    101346: "salon krzes\u0142o.003"
+    101348: salon pawlacz
+    101350: salon pawlacz.001
+    101352: salon pawlacz.002
+    101354: salon sofa
+    101356: salon stoliczek
+    101358: "salon st\xF3\u0142 jadalny"
+    101360: salon szafka .000
+    101362: salon szafka .001
+    101364: salon szafka .002
+    101366: salon szafka .003
+    101368: salon szafka .004
+    101370: salon szafka .005
+    101372: salon szafka .006
+    101374: salon szafka .007
+    101376: salon szafka .008
+    101378: salon szafka .009
+    101380: salon szafka .010
+    101382: salon szafka .011
+    101384: salon szafka .012
+    101386: salon szafka .013
+    101388: salon szafka .014
+    101390: salon szafka .015
+    101392: salon szafka .016
+    101394: salon szafka .018
+    101396: salon szafka .019
+    101398: salon szafka .020
+    101400: salon szafka .021
+    101402: salon szafka .blat
+    101404: salon szafka .blat.001
+    101406: "salon szafka modu\u0142owa przesuwna"
+    101408: "salon zas\u0142ony"
+    101410: "salon zas\u0142ony.001"
+    101412: "salon zas\u0142ony.002"
+    101414: salon.szafka.rtv
+    101416: sciany mieszkania
+    101418: sciany mieszkania.kuchnia
+    101420: sciany mieszkania.lazienka
+    101422: sciany mieszkania.lazienka.001
+    101424: "sciany mieszkania.przedpok\xF3"
+    101426: sciany mieszkania.salon
+    101428: sciany mieszkania.salon.001
+    101430: sciany mieszkania.sypialnia
+    101432: sciany mieszkania.sypialnia.001
+    101434: seat.004
+    101436: seat.005
+    101438: seat.006
+    101440: seat.008
+    101442: siedzenie
+    101444: siedzenie.001
+    101446: "siedzenie.d\xF3\u0142"
+    101448: "siedzenie.d\xF3\u0142.001"
+    101450: "siedzenie.g\xF3ra"
+    101452: "siedzenie.g\xF3ra.001"
+    101454: Sphere
+    101456: Spot
+    101458: Spot.001
+    101460: Spot.002
+    101462: Spot.003
+    101464: Spot.004
+    101466: Spot.005
+    101468: Spot.006
+    101470: Spot.007
+    101472: Spot.008
+    101474: Spot.009
+    101476: Spot.010
+    101478: Spot.011
+    101480: sub02
+    101482: sub02.001
+    101484: sub02.002
+    101486: sub02.003
+    101488: sub02.004
+    101490: sufit
+    101492: Sun
+    101494: Sun.001
+    101496: Sun.002
+    101498: support.005
+    101500: support.007
+    101502: support.008
+    101504: support.009
+    101506: support.011
+    101508: support.012
+    101510: sypialnia szafa
+    101512: "sypialnia \u0142\xF3zko"
+    101514: "szafa drzwi lewe g\xF3rne"
+    101516: "szafa drzwi lewe g\xF3rne.001"
+    101518: szafa drzwi prawe
+    101520: "szafa drzwi prawe.g\xF3rne"
+    101522: "szafa drzwi prawe.g\xF3rne.001"
+    101524: "szafa przedpok\xF3j.000"
+    101526: "szafa przedpok\xF3j.001"
+    101528: "szafa przedpok\xF3j.002"
+    101530: "szafa przedpok\xF3j.003"
+    101532: "szafa przedpok\xF3j.004"
+    101534: "szafa przedpok\xF3j.005"
+    101536: "szafa przedpok\xF3j.006"
+    101538: "szafa przedpok\xF3j.007"
+    101540: "szafa przedpok\xF3j.008"
+    101542: "szafa przedpok\xF3j.009"
+    101544: "szafa przedpok\xF3j.010"
+    101546: "szafa przedpok\xF3j.011"
+    101548: "szafa przedpok\xF3j.012"
+    101550: "szafa przedpok\xF3j.013"
+    101552: "szafa przedpok\xF3j.014"
+    101554: Szprycha
+    101556: Szprycha.001
+    101558: Szprycha.002
+    101560: Szprycha.003
+    101562: tabletop.002
+    101564: tabletop.003
+    101566: "uchwyt.ty\u0142"
+    101568: "uchwyt.ty\u0142.001"
+    101570: "\u0142azienka  umywalka"
+    101572: "\u0142azienka dr\u0105\u017Cek zas\u0142ony prysznicowaej"
+    101574: "\u0142azienka krzese\u0142kopod prysznic"
+    101576: "\u0142azienka lustro"
+    101578: "\u0142azienka oparcie przy toalecie"
+    101580: "\u0142azienka prysznic pochwyty"
+    101582: "\u0142azienka szczotka toaletowa"
+    101584: "\u0142azienka toilet"
+    101586: "\u0142azienka uchwyt boczny L"
+    101588: "\u0142azienka uchwyt pionowy"
+    400000: $$$DUMMY.fabric
+    400002: //RootNode
+    400004: 1:1:6
+    400006: 1:1:6.001
+    400008: 1:2:6
+    400010: 1:2:6.001
+    400012: 1:3:6
+    400014: 1:4:6
+    400016: 1:4:6.001
+    400018: 2:10:6
+    400020: 2:1:6
+    400022: 2:1:6.001
+    400024: 2:2:6
+    400026: 2:2:6.001
+    400028: 2:3:6
+    400030: 2:4:6
+    400032: 2:5:6
+    400034: 2:6:6
+    400036: 2:7:6
+    400038: 2:8:6
+    400040: 3:1:6
+    400042: 3:2:6
+    400044: 3:4:6
+    400046: armrest.004
+    400048: armrest.005
+    400050: armrest.007
+    400052: backrest.004
+    400054: backrest.005
+    400056: backrest.006
+    400058: backrest.008
+    400060: backrest_2.004
+    400062: backrest_2.005
+    400064: backrest_2.007
+    400066: bottom
+    400068: Camera
+    400070: Camera.001
+    400072: Camera.002
+    400074: Camera.003
+    400076: Camera.004
+    400078: Camera.005
+    400080: Camera.006
+    400082: Camera.007
+    400084: Camera.008
+    400086: Camera.009
+    400088: Camera.010
+    400090: Camera.011
+    400092: Camera.012
+    400094: Camera.013
+    400096: Camera.014
+    400098: "ca\u0142o\u015B\u0107.lewa"
+    400100: "ca\u0142o\u015B\u0107.prawa"
+    400102: Circle
+    400104: Circle.001
+    400106: Circle.002
+    400108: Circle.003
+    400110: Circle.004
+    400112: Circle.005
+    400114: Circle.006
+    400116: Circle.007
+    400118: Circle.008
+    400120: Circle.009
+    400122: Circle.010
+    400124: Circle.011
+    400126: Circle.012
+    400128: Circle.013
+    400130: Circle.014
+    400132: Circle.015
+    400134: Circle.016
+    400136: Circle.017
+    400138: Circle.018
+    400140: Circle.019
+    400142: Circle.020
+    400144: Circle.021
+    400146: Circle.022
+    400148: Circle.023
+    400150: Circle.024
+    400152: Circle.025
+    400154: Circle.026
+    400156: Circle.027
+    400158: Circle.028
+    400160: Circle.029
+    400162: Circle.030
+    400164: Circle.031
+    400166: Circle.032
+    400168: Circle.033
+    400170: Circle.034
+    400172: Circle.035
+    400174: Circle.036
+    400176: Circle.037
+    400178: Circle.038
+    400180: Circle.039
+    400182: Circle.040
+    400184: Circle.041
+    400186: Circle.042
+    400188: Circle.043
+    400190: Circle.044
+    400192: Circle.045
+    400194: Circle.046
+    400196: Circle.047
+    400198: Circle.048
+    400200: Circle.049
+    400202: Circle.050
+    400204: Circle.051
+    400206: Circle.052
+    400208: Circle.053
+    400210: Circle.054
+    400212: Circle.055
+    400214: Circle.056
+    400216: Circle.057
+    400218: Circle.058
+    400220: Circle.059
+    400222: Circle.060
+    400224: Circle.061
+    400226: Circle.062
+    400228: Circle.063
+    400230: Circle.064
+    400232: Circle.065
+    400234: Circle.066
+    400236: Circle.067
+    400238: Circle.068
+    400240: Circle.069
+    400242: Circle.070
+    400244: Circle.072
+    400246: Circle.073
+    400248: Circle.074
+    400250: Circle.075
+    400252: Circle.076
+    400254: Circle.077
+    400256: Circle.078
+    400258: Circle.079
+    400260: Circle.080
+    400262: Circle.081
+    400264: Circle.082
+    400266: Circle.083
+    400268: Circle.084
+    400270: Circle.085
+    400272: Circle.086
+    400274: Circle.087
+    400276: Circle.088
+    400278: Circle.089
+    400280: Circle.090
+    400282: Circle.091
+    400284: Circle.092
+    400286: Circle.093
+    400288: Circle.094
+    400290: Circle.095
+    400292: Circle.096
+    400294: Circle.097
+    400296: Circle.098
+    400298: Circle.099
+    400300: Circle.100
+    400302: Circle.103
+    400304: Circle.105
+    400306: Circle.106
+    400308: Circle.107
+    400310: Circle.108
+    400312: Circle.109
+    400314: Circle.110
+    400316: Circle.114
+    400318: Circle.115
+    400320: Circle.116
+    400322: Circle.117
+    400324: Circle.118
+    400326: Circle.119
+    400328: Circle.120
+    400330: Circle.121
+    400332: Circle.122
+    400334: Circle.123
+    400336: Circle.124
+    400338: Circle.125
+    400340: Circle.126
+    400342: Circle.127
+    400344: Circle.128
+    400346: Circle.129
+    400348: Circle.130
+    400350: Circle.131
+    400352: Circle.132
+    400354: Circle.133
+    400356: Circle.134
+    400358: Circle.135
+    400360: Circle.136
+    400362: Circle.137
+    400364: Circle.138
+    400366: Circle.139
+    400368: Circle.140
+    400370: Circle.141
+    400372: Circle.142
+    400374: Circle.143
+    400376: Circle.144
+    400378: Circle.145
+    400380: Circle.146
+    400382: Circle.147
+    400384: Circle.148
+    400386: Circle.149
+    400388: Circle.150
+    400390: Circle.151
+    400392: Circle.152
+    400394: Circle.153
+    400396: Circle.154
+    400398: Circle.155
+    400400: Circle.156
+    400402: Circle.157
+    400404: Circle.158
+    400406: Circle.159
+    400408: Circle.160
+    400410: Circle.161
+    400412: Circle.162
+    400414: Circle.163
+    400416: Circle.164
+    400418: Circle.165
+    400420: Circle.166
+    400422: Circle.167
+    400424: Circle.168
+    400426: Circle.169
+    400428: Circle.170
+    400430: Circle.171
+    400432: Circle.172
+    400434: Circle.173
+    400436: Circle.174
+    400438: Circle.175
+    400440: Circle.176
+    400442: Circle.177
+    400444: Circle.178
+    400446: Circle.179
+    400448: Circle.180
+    400450: Circle.181
+    400452: Circle.182
+    400454: Circle.183
+    400456: Circle.184
+    400458: Circle.185
+    400460: Circle.186
+    400462: Circle.187
+    400464: Circle.188
+    400466: Circle.189
+    400468: Circle.190
+    400470: Circle.191
+    400472: Circle.192
+    400474: Circle.193
+    400476: Circle.194
+    400478: Circle.195
+    400480: Circle.196
+    400482: Circle.197
+    400484: Circle.198
+    400486: Circle.199
+    400488: Circle.200
+    400490: Circle.201
+    400492: Circle.202
+    400494: Circle.203
+    400496: Circle.204
+    400498: Circle.205
+    400500: Circle.206
+    400502: Circle.207
+    400504: Circle.208
+    400506: Circle.209
+    400508: Circle.210
+    400510: Circle.211
+    400512: Circle.212
+    400514: Circle.213
+    400516: Circle.214
+    400518: Circle.215
+    400520: Circle.216
+    400522: Circle.217
+    400524: Circle.218
+    400526: Circle.219
+    400528: Circle.220
+    400530: Circle.221
+    400532: Circle.222
+    400534: Circle.223
+    400536: Circle.224
+    400538: Circle.225
+    400540: Circle.226
+    400542: Circle.227
+    400544: Circle.228
+    400546: Circle.229
+    400548: Circle.230
+    400550: Circle.231
+    400552: Circle.232
+    400554: Circle.233
+    400556: Circle.234
+    400558: Circle.235
+    400560: Circle.236
+    400562: Circle.237
+    400564: Circle.238
+    400566: Circle.239
+    400568: Circle.240
+    400570: Circle.241
+    400572: Circle.242
+    400574: Circle.243
+    400576: Circle.244
+    400578: Circle.245
+    400580: Circle.246
+    400582: Circle.247
+    400584: Circle.248
+    400586: Circle.249
+    400588: Circle.250
+    400590: Circle.251
+    400592: Circle.252
+    400594: Circle.253
+    400596: Circle.254
+    400598: Circle.255
+    400600: Circle.256
+    400602: Circle.257
+    400604: Circle.258
+    400606: Circle.259
+    400608: Circle.260
+    400610: Circle.261
+    400612: Circle.262
+    400614: Circle.263
+    400616: Circle.264
+    400618: Circle.265
+    400620: Circle.266
+    400622: Circle.267
+    400624: Circle.268
+    400626: Circle.269
+    400628: Circle.270
+    400630: Circle.271
+    400632: Circle.272
+    400634: Circle.273
+    400636: Circle.274
+    400638: Circle.275
+    400640: Circle.276
+    400642: Circle.277
+    400644: Circle.278
+    400646: Circle.279
+    400648: Circle.280
+    400650: Circle.281
+    400652: Circle.282
+    400654: Circle.283
+    400656: Circle.284
+    400658: Circle.285
+    400660: Circle.286
+    400662: Circle.287
+    400664: Circle.288
+    400666: Circle.289
+    400668: Circle.290
+    400670: Circle.291
+    400672: Circle.292
+    400674: Circle.293
+    400676: Circle.294
+    400678: Circle.295
+    400680: Circle.296
+    400682: Circle.297
+    400684: Circle.298
+    400686: Circle.299
+    400688: Circle.300
+    400690: Circle.301
+    400692: Circle.302
+    400694: Circle.303
+    400696: Circle.304
+    400698: Circle.305
+    400700: Circle.306
+    400702: Circle.307
+    400704: Circle.308
+    400706: Circle.309
+    400708: Circle.310
+    400710: Circle.311
+    400712: Circle.312
+    400714: Circle.313
+    400716: Circle.314
+    400718: Circle.315
+    400720: Circle.316
+    400722: Circle.317
+    400724: Circle.318
+    400726: Circle.319
+    400728: Circle.320
+    400730: Circle.321
+    400732: Circle.322
+    400734: Circle.323
+    400736: Circle.324
+    400738: Circle.325
+    400740: Circle.326
+    400742: Circle.327
+    400744: Circle.328
+    400746: Circle.329
+    400748: Circle.330
+    400750: Circle.331
+    400752: Circle.332
+    400754: Circle.333
+    400756: Circle.334
+    400758: Circle.335
+    400760: Circle.336
+    400762: Circle.337
+    400764: Circle.338
+    400766: Circle.339
+    400768: Circle.340
+    400770: Circle.341
+    400772: Circle.342
+    400774: Circle.343
+    400776: Circle.344
+    400778: Circle.345
+    400780: Circle.346
+    400782: Circle.347
+    400784: Circle.348
+    400786: Circle.349
+    400788: Circle.350
+    400790: Circle.351
+    400792: Circle.352
+    400794: Circle.353
+    400796: Circle.354
+    400798: Circle.355
+    400800: Circle.356
+    400802: Circle.357
+    400804: Circle.358
+    400806: Circle.359
+    400808: Circle.360
+    400810: Circle.361
+    400812: Circle.362
+    400814: Circle.363
+    400816: Circle.364
+    400818: Circle.365
+    400820: Circle.366
+    400822: Circle.367
+    400824: Circle.368
+    400826: Circle.369
+    400828: Circle.370
+    400830: Circle.371
+    400832: Circle.372
+    400834: Circle.373
+    400836: Circle.374
+    400838: Circle.375
+    400840: Circle.376
+    400842: Circle.377
+    400844: Circle.378
+    400846: Circle.379
+    400848: Circle.380
+    400850: Circle.381
+    400852: Circle.382
+    400854: Circle.383
+    400856: Circle.384
+    400858: Circle.385
+    400860: Circle.386
+    400862: Circle.387
+    400864: Circle.388
+    400866: Circle.389
+    400868: Circle.390
+    400870: Circle.391
+    400872: Circle.392
+    400874: Circle.393
+    400876: Circle.394
+    400878: Circle.395
+    400880: Circle.396
+    400882: Circle.397
+    400884: Circle.398
+    400886: Circle.399
+    400888: Circle.400
+    400890: Circle.401
+    400892: Circle.402
+    400894: Circle.403
+    400896: Circle.404
+    400898: Circle.405
+    400900: Circle.406
+    400902: Circle.407
+    400904: Circle.408
+    400906: Circle.409
+    400908: Circle.410
+    400910: Circle.411
+    400912: Circle.412
+    400914: Circle.413
+    400916: Circle.414
+    400918: Circle.415
+    400920: Circle.416
+    400922: Circle.417
+    400924: Circle.418
+    400926: Circle.419
+    400928: Circle.420
+    400930: Circle.421
+    400932: Circle.422
+    400934: Circle.423
+    400936: Circle.424
+    400938: Circle.425
+    400940: Circle.426
+    400942: Circle.427
+    400944: Circle.428
+    400946: Circle.429
+    400948: Circle.430
+    400950: Circle.431
+    400952: Circle.432
+    400954: Circle.433
+    400956: Circle.434
+    400958: Circle.435
+    400960: Circle.436
+    400962: Circle.437
+    400964: Circle.438
+    400966: Circle.439
+    400968: Circle.440
+    400970: Circle.441
+    400972: Circle.442
+    400974: Circle.443
+    400976: Circle.444
+    400978: Circle.445
+    400980: Cube
+    400982: Cube.001
+    400984: Cube.002
+    400986: Cube.003
+    400988: Cube.004
+    400990: Cube.005
+    400992: Cube.006
+    400994: Cube.008
+    400996: Cube.009
+    400998: Cube.010
+    401000: Cube.011
+    401002: curtain
+    401004: curtain.001
+    401006: curtain.002
+    401008: curtain_2
+    401010: curtain_2.001
+    401012: curtain_2.002
+    401014: curtain_2.003
+    401016: curtain_2.004
+    401018: Cylinder
+    401020: Cylinder.005
+    401022: Cylinder.006
+    401024: Cylinder.007
+    401026: Cylinder.008
+    401028: "Du\u017Ce.ko\u0142o"
+    401030: "Du\u017Ce.ko\u0142o.001"
+    401032: "Du\u017Ce.ko\u0142o.lewe"
+    401034: "Du\u017Ce.ko\u0142o.lewe.001"
+    401036: "Du\u017Ce.ko\u0142o.obr\u0119cz"
+    401038: "Du\u017Ce.ko\u0142o.obr\u0119cz.001"
+    401040: "Du\u017Ce.ko\u0142o.obr\u0119cz.przyleg\u0142a"
+    401042: "Du\u017Ce.ko\u0142o.obr\u0119cz.przyleg\u0142a.001"
+    401044: Empty
+    401046: Empty.szprycha
+    401048: Empty.szprycha.001
+    401050: Empty.szprycha001
+    401052: Empty.szprycha001.001
+    401054: karniz001
+    401056: karniz001.001
+    401058: karniz001.002
+    401060: leg
+    401062: legs.005
+    401064: legs.007
+    401066: legs.008
+    401068: legs.010
+    401070: legs.011
+    401072: "ma\u0142e.k\xF3\u0142ko"
+    401074: "ma\u0142e.k\xF3\u0142ko.001"
+    401076: "Ma\u0142e.k\xF3\u0142ko.os\u0142onka"
+    401078: "Ma\u0142e.k\xF3\u0142ko.os\u0142onka.001"
+    401080: "ma\u0142e.k\xF3\u0142ko.\u015Brodek"
+    401082: "ma\u0142e.k\xF3\u0142ko.\u015Brodek.001"
+    401084: me1.000
+    401086: me1.002
+    401088: me1.003
+    401090: me1.004
+    401092: me1.1
+    401094: me10.000
+    401096: me10.10
+    401098: me11.000
+    401100: me11.11
+    401102: me12.000
+    401104: me12.12
+    401106: me13.000
+    401108: me13.13
+    401110: me14.14
+    401112: me15.15
+    401114: me16.16
+    401116: me2.000
+    401118: me2.001
+    401120: me2.003
+    401122: me2.2
+    401124: me3.000
+    401126: me3.002
+    401128: me3.3
+    401130: me4.000
+    401132: me4.4
+    401134: me5.5
+    401136: me6.000
+    401138: me6.6
+    401140: me7.7
+    401142: me8.000
+    401144: me8.8
+    401146: me9.000
+    401148: me9.9
+    401150: "modu\u0142.box"
+    401152: "modu\u0142.box.001"
+    401154: "modu\u0142.box.002"
+    401156: "modu\u0142.box.003"
+    401158: "modu\u0142.box.004"
+    401160: "modu\u0142.box.005"
+    401162: "modu\u0142.box.006"
+    401164: "modu\u0142.box.007"
+    401166: "modu\u0142.box.008"
+    401168: "modu\u0142.box.009"
+    401170: "modu\u0142.box.010"
+    401172: "modu\u0142.box.011"
+    401174: "modu\u0142.box.012"
+    401176: "modu\u0142.box.013"
+    401178: "modu\u0142.box.014"
+    401180: "modu\u0142.box.015"
+    401182: "modu\u0142.panel \u015Bcienny"
+    401184: "modu\u0142.panel \u015Bcienny.001"
+    401186: "modu\u0142.panel \u015Bcienny.002"
+    401188: "modu\u0142.szuflada. d\xF3\u0142"
+    401190: "modu\u0142.szuflada. d\xF3\u0142.002"
+    401192: "modu\u0142.szuflada. d\xF3\u0142.006"
+    401194: "modu\u0142.szuflada. d\xF3\u0142.009"
+    401196: "modu\u0142.szuflada. d\xF3\u0142.010"
+    401198: "modu\u0142.szuflada. d\xF3\u0142.013"
+    401200: "modu\u0142.szuflada. d\xF3\u0142.014"
+    401202: "modu\u0142.szuflada. d\xF3\u0142.015"
+    401204: "modu\u0142.szuflada.gora"
+    401206: "modu\u0142.szuflada.gora.002"
+    401208: "modu\u0142.szuflada.gora.006"
+    401210: "modu\u0142.szuflada.gora.009"
+    401212: "modu\u0142.szuflada.gora.010"
+    401214: "modu\u0142.szuflada.gora.013"
+    401216: "modu\u0142.szuflada.gora.014"
+    401218: "modu\u0142.szuflada.gora.015"
+    401220: Obj_000049
+    401222: pads
+    401224: panel.na.noge
+    401226: panel.na.noge.001
+    401228: Plane
+    401230: Plane.001
+    401232: Plane.002
+    401234: Plane.003
+    401236: Plane.004
+    401238: Plane.005
+    401240: Plane.006
+    401242: Plane.007
+    401244: Plane.008
+    401246: Plane.009
+    401248: Plane.010
+    401250: Plane.011
+    401252: Plane.012
+    401254: Plane.013
+    401256: Plane.014
+    401258: Plane.015
+    401260: Plane.016
+    401262: Plane.020
+    401264: Plane.021
+    401266: Plane.022
+    401268: Plane.023
+    401270: Plane.024
+    401272: Plane.025
+    401274: Plane.026
+    401276: Plane.027
+    401278: podajnik papieru
+    401280: "pod\u0142oga prysznic"
+    401282: "pod\u0142oga sypialnia"
+    401284: "pod\u0142oga \u0142azienka"
+    401286: "pod\u0142oga.kuchnia"
+    401288: "pod\u0142oga.salon"
+    401290: "pod\u0142okietnik.lewy"
+    401292: "pod\u0142okietnik.lewy.001"
+    401294: "pod\u0142okietnik.poduszka.lewa"
+    401296: "pod\u0142okietnik.poduszka.prawa"
+    401298: "przedpok\xF3j szafa"
+    401300: "p\xF3\u0142ka"
+    401302: "p\xF3\u0142ka.001"
+    401304: "p\xF3\u0142ka.002"
+    401306: "p\xF3\u0142ka.003"
+    401308: "p\xF3\u0142ka.004"
+    401310: "p\xF3\u0142ka.005"
+    401312: "p\xF3\u0142ka.006"
+    401314: "p\xF3\u0142ka.007"
+    401316: "p\xF3\u0142ka.008"
+    401318: "p\xF3\u0142ka.009"
+    401320: "p\xF3\u0142ka.010"
+    401322: "p\xF3\u0142ka.011"
+    401324: RenderStuf
+    401326: "rurka.do.ma\u0142ego"
+    401328: "rurka.do.ma\u0142ego.001"
+    401330: "rurka.g\xF3rna"
+    401332: "rurka.g\xF3rna.001"
+    401334: "rurka.prz\xF3d"
+    401336: "rurka.prz\xF3d.001"
+    401338: rurka.tyl
+    401340: rurka.tyl.001
+    401342: "salon krzes\u0142o.001"
+    401344: "salon krzes\u0142o.002"
+    401346: "salon krzes\u0142o.003"
+    401348: salon pawlacz
+    401350: salon pawlacz.001
+    401352: salon pawlacz.002
+    401354: salon sofa
+    401356: salon stoliczek
+    401358: "salon st\xF3\u0142 jadalny"
+    401360: salon szafka .000
+    401362: salon szafka .001
+    401364: salon szafka .002
+    401366: salon szafka .003
+    401368: salon szafka .004
+    401370: salon szafka .005
+    401372: salon szafka .006
+    401374: salon szafka .007
+    401376: salon szafka .008
+    401378: salon szafka .009
+    401380: salon szafka .010
+    401382: salon szafka .011
+    401384: salon szafka .012
+    401386: salon szafka .013
+    401388: salon szafka .014
+    401390: salon szafka .015
+    401392: salon szafka .016
+    401394: salon szafka .018
+    401396: salon szafka .019
+    401398: salon szafka .020
+    401400: salon szafka .021
+    401402: salon szafka .blat
+    401404: salon szafka .blat.001
+    401406: "salon szafka modu\u0142owa przesuwna"
+    401408: "salon zas\u0142ony"
+    401410: "salon zas\u0142ony.001"
+    401412: "salon zas\u0142ony.002"
+    401414: salon.szafka.rtv
+    401416: sciany mieszkania
+    401418: sciany mieszkania.kuchnia
+    401420: sciany mieszkania.lazienka
+    401422: sciany mieszkania.lazienka.001
+    401424: "sciany mieszkania.przedpok\xF3"
+    401426: sciany mieszkania.salon
+    401428: sciany mieszkania.salon.001
+    401430: sciany mieszkania.sypialnia
+    401432: sciany mieszkania.sypialnia.001
+    401434: seat.004
+    401436: seat.005
+    401438: seat.006
+    401440: seat.008
+    401442: siedzenie
+    401444: siedzenie.001
+    401446: "siedzenie.d\xF3\u0142"
+    401448: "siedzenie.d\xF3\u0142.001"
+    401450: "siedzenie.g\xF3ra"
+    401452: "siedzenie.g\xF3ra.001"
+    401454: Sphere
+    401456: Spot
+    401458: Spot.001
+    401460: Spot.002
+    401462: Spot.003
+    401464: Spot.004
+    401466: Spot.005
+    401468: Spot.006
+    401470: Spot.007
+    401472: Spot.008
+    401474: Spot.009
+    401476: Spot.010
+    401478: Spot.011
+    401480: sub02
+    401482: sub02.001
+    401484: sub02.002
+    401486: sub02.003
+    401488: sub02.004
+    401490: sufit
+    401492: Sun
+    401494: Sun.001
+    401496: Sun.002
+    401498: support.005
+    401500: support.007
+    401502: support.008
+    401504: support.009
+    401506: support.011
+    401508: support.012
+    401510: sypialnia szafa
+    401512: "sypialnia \u0142\xF3zko"
+    401514: "szafa drzwi lewe g\xF3rne"
+    401516: "szafa drzwi lewe g\xF3rne.001"
+    401518: szafa drzwi prawe
+    401520: "szafa drzwi prawe.g\xF3rne"
+    401522: "szafa drzwi prawe.g\xF3rne.001"
+    401524: "szafa przedpok\xF3j.000"
+    401526: "szafa przedpok\xF3j.001"
+    401528: "szafa przedpok\xF3j.002"
+    401530: "szafa przedpok\xF3j.003"
+    401532: "szafa przedpok\xF3j.004"
+    401534: "szafa przedpok\xF3j.005"
+    401536: "szafa przedpok\xF3j.006"
+    401538: "szafa przedpok\xF3j.007"
+    401540: "szafa przedpok\xF3j.008"
+    401542: "szafa przedpok\xF3j.009"
+    401544: "szafa przedpok\xF3j.010"
+    401546: "szafa przedpok\xF3j.011"
+    401548: "szafa przedpok\xF3j.012"
+    401550: "szafa przedpok\xF3j.013"
+    401552: "szafa przedpok\xF3j.014"
+    401554: Szprycha
+    401556: Szprycha.001
+    401558: Szprycha.002
+    401560: Szprycha.003
+    401562: tabletop.002
+    401564: tabletop.003
+    401566: "uchwyt.ty\u0142"
+    401568: "uchwyt.ty\u0142.001"
+    401570: "\u0142azienka  umywalka"
+    401572: "\u0142azienka dr\u0105\u017Cek zas\u0142ony prysznicowaej"
+    401574: "\u0142azienka krzese\u0142kopod prysznic"
+    401576: "\u0142azienka lustro"
+    401578: "\u0142azienka oparcie przy toalecie"
+    401580: "\u0142azienka prysznic pochwyty"
+    401582: "\u0142azienka szczotka toaletowa"
+    401584: "\u0142azienka toilet"
+    401586: "\u0142azienka uchwyt boczny L"
+    401588: "\u0142azienka uchwyt pionowy"
+    2000000: Camera
+    2000002: Camera.001
+    2000004: Camera.002
+    2000006: Camera.003
+    2000008: Camera.004
+    2000010: Camera.005
+    2000012: Camera.006
+    2000014: Camera.007
+    2000016: Camera.008
+    2000018: Camera.009
+    2000020: Camera.010
+    2000022: Camera.011
+    2000024: Camera.012
+    2000026: Camera.013
+    2000028: Camera.014
+    2100000: swiatlo.000
+    2100002: SAL1.001
+    2100004: Material.022
+    2100006: Material.021
+    2100008: Material.020
+    2100010: No Name
+    2100012: Material.003
+    2100014: Material.002
+    2100016: kuchnia
+    2100018: kuchnia.002
+    2100020: kuchnia.003
+    2100022: SAL1
+    2100024: swiatlo.005
+    2100026: ma3
+    2100028: SAL7
+    2100030: LAZ1
+    2100032: LAZ11
+    2100034: SYP3
+    2100036: LAZ4
+    2100038: SAL3.zasl.000
+    2100040: standart_metal
+    2100042: wood solid.019
+    2100044: mat48.001
+    2100046: ma1
+    2100048: 1.006
+    2100050: GDLM8_M_6779aa96.001
+    2100052: metal
+    2100054: ma1.004
+    2100056: SAL1.003
+    2100058: Material.007
+    2100060: Material
+    2100062: SAL8
+    2100064: "pod\u0142oga.001"
+    2100066: "pod\u0142oga.000"
+    2100068: wood solid.000
+    2100070: Material.001
+    2100072: SAL4
+    2100074: 4.003
+    2100076: ma1.006
+    2100078: GDLM3_M_a47e9eef.002
+    2100080: ma2.004
+    2100082: GDLM4_M_67fd8eb2.001
+    2100084: GDLM3_M_a47e9eef.001
+    2100086: GDLM2_M_39357554.001
+    2100088: ma1.003
+    2100090: GDLM2_M_af10d2a7
+    2100092: ma3.001
+    2100094: ma1.001
+    2100096: ma2.001
+    2100098: GDLM2_M_af10d2a7.001
+    2100100: obicie.000
+    2100102: metal.001
+    2100104: misc
+    2100106: SAL2
+    2100108: SAL3.zasl.001
+    2100110: standart_metal.001
+    2100112: standart_metal.002
+    2100114: "swiat\u0142o2.000"
+    2100116: Material.004
+    2100118: Material.006
+    2100120: Material.017
+    2100122: Material.011
+    2100124: Material.012
+    2100126: SAL1.002
+    2100128: swiatlo.001
+    2300000: 1:1:6
+    2300002: 1:1:6.001
+    2300004: 1:2:6
+    2300006: 1:2:6.001
+    2300008: 1:3:6
+    2300010: 1:4:6
+    2300012: 1:4:6.001
+    2300014: 2:10:6
+    2300016: 2:1:6
+    2300018: 2:1:6.001
+    2300020: 2:2:6
+    2300022: 2:2:6.001
+    2300024: 2:3:6
+    2300026: 2:4:6
+    2300028: 2:5:6
+    2300030: 2:6:6
+    2300032: 2:7:6
+    2300034: 2:8:6
+    2300036: 3:1:6
+    2300038: 3:2:6
+    2300040: 3:4:6
+    2300042: armrest.004
+    2300044: armrest.005
+    2300046: armrest.007
+    2300048: backrest.004
+    2300050: backrest.005
+    2300052: backrest.006
+    2300054: backrest.008
+    2300056: backrest_2.004
+    2300058: backrest_2.005
+    2300060: backrest_2.007
+    2300062: bottom
+    2300064: "ca\u0142o\u015B\u0107.lewa"
+    2300066: "ca\u0142o\u015B\u0107.prawa"
+    2300068: Circle
+    2300070: Circle.001
+    2300072: Circle.002
+    2300074: Circle.003
+    2300076: Circle.004
+    2300078: Circle.005
+    2300080: Circle.006
+    2300082: Circle.007
+    2300084: Circle.008
+    2300086: Circle.009
+    2300088: Circle.010
+    2300090: Circle.011
+    2300092: Circle.012
+    2300094: Circle.013
+    2300096: Circle.014
+    2300098: Circle.015
+    2300100: Circle.016
+    2300102: Circle.017
+    2300104: Circle.018
+    2300106: Circle.019
+    2300108: Circle.020
+    2300110: Circle.021
+    2300112: Circle.022
+    2300114: Circle.023
+    2300116: Circle.024
+    2300118: Circle.025
+    2300120: Circle.026
+    2300122: Circle.027
+    2300124: Circle.028
+    2300126: Circle.029
+    2300128: Circle.030
+    2300130: Circle.031
+    2300132: Circle.032
+    2300134: Circle.033
+    2300136: Circle.034
+    2300138: Circle.035
+    2300140: Circle.036
+    2300142: Circle.037
+    2300144: Circle.038
+    2300146: Circle.039
+    2300148: Circle.040
+    2300150: Circle.041
+    2300152: Circle.042
+    2300154: Circle.043
+    2300156: Circle.044
+    2300158: Circle.045
+    2300160: Circle.046
+    2300162: Circle.047
+    2300164: Circle.048
+    2300166: Circle.049
+    2300168: Circle.050
+    2300170: Circle.051
+    2300172: Circle.052
+    2300174: Circle.053
+    2300176: Circle.054
+    2300178: Circle.055
+    2300180: Circle.056
+    2300182: Circle.057
+    2300184: Circle.058
+    2300186: Circle.059
+    2300188: Circle.060
+    2300190: Circle.061
+    2300192: Circle.062
+    2300194: Circle.063
+    2300196: Circle.064
+    2300198: Circle.065
+    2300200: Circle.066
+    2300202: Circle.067
+    2300204: Circle.068
+    2300206: Circle.069
+    2300208: Circle.070
+    2300210: Circle.072
+    2300212: Circle.073
+    2300214: Circle.074
+    2300216: Circle.075
+    2300218: Circle.076
+    2300220: Circle.077
+    2300222: Circle.078
+    2300224: Circle.079
+    2300226: Circle.080
+    2300228: Circle.081
+    2300230: Circle.082
+    2300232: Circle.083
+    2300234: Circle.084
+    2300236: Circle.085
+    2300238: Circle.086
+    2300240: Circle.087
+    2300242: Circle.088
+    2300244: Circle.089
+    2300246: Circle.090
+    2300248: Circle.091
+    2300250: Circle.092
+    2300252: Circle.093
+    2300254: Circle.094
+    2300256: Circle.095
+    2300258: Circle.096
+    2300260: Circle.097
+    2300262: Circle.098
+    2300264: Circle.099
+    2300266: Circle.100
+    2300268: Circle.103
+    2300270: Circle.105
+    2300272: Circle.106
+    2300274: Circle.107
+    2300276: Circle.108
+    2300278: Circle.109
+    2300280: Circle.110
+    2300282: Circle.114
+    2300284: Circle.115
+    2300286: Circle.116
+    2300288: Circle.117
+    2300290: Circle.118
+    2300292: Circle.119
+    2300294: Circle.120
+    2300296: Circle.121
+    2300298: Circle.122
+    2300300: Circle.123
+    2300302: Circle.124
+    2300304: Circle.125
+    2300306: Circle.126
+    2300308: Circle.127
+    2300310: Circle.128
+    2300312: Circle.129
+    2300314: Circle.130
+    2300316: Circle.131
+    2300318: Circle.132
+    2300320: Circle.133
+    2300322: Circle.134
+    2300324: Circle.135
+    2300326: Circle.136
+    2300328: Circle.137
+    2300330: Circle.138
+    2300332: Circle.139
+    2300334: Circle.140
+    2300336: Circle.141
+    2300338: Circle.142
+    2300340: Circle.143
+    2300342: Circle.144
+    2300344: Circle.145
+    2300346: Circle.146
+    2300348: Circle.147
+    2300350: Circle.148
+    2300352: Circle.149
+    2300354: Circle.150
+    2300356: Circle.151
+    2300358: Circle.152
+    2300360: Circle.153
+    2300362: Circle.154
+    2300364: Circle.155
+    2300366: Circle.156
+    2300368: Circle.157
+    2300370: Circle.158
+    2300372: Circle.159
+    2300374: Circle.160
+    2300376: Circle.161
+    2300378: Circle.162
+    2300380: Circle.163
+    2300382: Circle.164
+    2300384: Circle.165
+    2300386: Circle.166
+    2300388: Circle.167
+    2300390: Circle.168
+    2300392: Circle.169
+    2300394: Circle.170
+    2300396: Circle.171
+    2300398: Circle.172
+    2300400: Circle.173
+    2300402: Circle.174
+    2300404: Circle.175
+    2300406: Circle.176
+    2300408: Circle.177
+    2300410: Circle.178
+    2300412: Circle.179
+    2300414: Circle.180
+    2300416: Circle.181
+    2300418: Circle.182
+    2300420: Circle.183
+    2300422: Circle.184
+    2300424: Circle.185
+    2300426: Circle.186
+    2300428: Circle.187
+    2300430: Circle.188
+    2300432: Circle.189
+    2300434: Circle.190
+    2300436: Circle.191
+    2300438: Circle.192
+    2300440: Circle.193
+    2300442: Circle.194
+    2300444: Circle.195
+    2300446: Circle.196
+    2300448: Circle.197
+    2300450: Circle.198
+    2300452: Circle.199
+    2300454: Circle.200
+    2300456: Circle.201
+    2300458: Circle.202
+    2300460: Circle.203
+    2300462: Circle.204
+    2300464: Circle.205
+    2300466: Circle.206
+    2300468: Circle.207
+    2300470: Circle.208
+    2300472: Circle.209
+    2300474: Circle.210
+    2300476: Circle.211
+    2300478: Circle.212
+    2300480: Circle.213
+    2300482: Circle.214
+    2300484: Circle.215
+    2300486: Circle.216
+    2300488: Circle.217
+    2300490: Circle.218
+    2300492: Circle.219
+    2300494: Circle.220
+    2300496: Circle.221
+    2300498: Circle.222
+    2300500: Circle.223
+    2300502: Circle.224
+    2300504: Circle.225
+    2300506: Circle.226
+    2300508: Circle.227
+    2300510: Circle.228
+    2300512: Circle.229
+    2300514: Circle.230
+    2300516: Circle.231
+    2300518: Circle.232
+    2300520: Circle.233
+    2300522: Circle.234
+    2300524: Circle.235
+    2300526: Circle.236
+    2300528: Circle.237
+    2300530: Circle.238
+    2300532: Circle.239
+    2300534: Circle.240
+    2300536: Circle.241
+    2300538: Circle.242
+    2300540: Circle.243
+    2300542: Circle.244
+    2300544: Circle.245
+    2300546: Circle.246
+    2300548: Circle.247
+    2300550: Circle.248
+    2300552: Circle.249
+    2300554: Circle.250
+    2300556: Circle.251
+    2300558: Circle.252
+    2300560: Circle.253
+    2300562: Circle.254
+    2300564: Circle.255
+    2300566: Circle.256
+    2300568: Circle.257
+    2300570: Circle.258
+    2300572: Circle.259
+    2300574: Circle.260
+    2300576: Circle.261
+    2300578: Circle.262
+    2300580: Circle.263
+    2300582: Circle.264
+    2300584: Circle.265
+    2300586: Circle.266
+    2300588: Circle.267
+    2300590: Circle.268
+    2300592: Circle.269
+    2300594: Circle.270
+    2300596: Circle.271
+    2300598: Circle.272
+    2300600: Circle.273
+    2300602: Circle.274
+    2300604: Circle.275
+    2300606: Circle.276
+    2300608: Circle.277
+    2300610: Circle.278
+    2300612: Circle.279
+    2300614: Circle.280
+    2300616: Circle.281
+    2300618: Circle.282
+    2300620: Circle.283
+    2300622: Circle.284
+    2300624: Circle.285
+    2300626: Circle.286
+    2300628: Circle.287
+    2300630: Circle.288
+    2300632: Circle.289
+    2300634: Circle.290
+    2300636: Circle.291
+    2300638: Circle.292
+    2300640: Circle.293
+    2300642: Circle.294
+    2300644: Circle.295
+    2300646: Circle.296
+    2300648: Circle.297
+    2300650: Circle.298
+    2300652: Circle.299
+    2300654: Circle.300
+    2300656: Circle.301
+    2300658: Circle.302
+    2300660: Circle.303
+    2300662: Circle.304
+    2300664: Circle.305
+    2300666: Circle.306
+    2300668: Circle.307
+    2300670: Circle.308
+    2300672: Circle.309
+    2300674: Circle.310
+    2300676: Circle.311
+    2300678: Circle.312
+    2300680: Circle.313
+    2300682: Circle.314
+    2300684: Circle.315
+    2300686: Circle.316
+    2300688: Circle.317
+    2300690: Circle.318
+    2300692: Circle.319
+    2300694: Circle.320
+    2300696: Circle.321
+    2300698: Circle.322
+    2300700: Circle.323
+    2300702: Circle.324
+    2300704: Circle.325
+    2300706: Circle.326
+    2300708: Circle.327
+    2300710: Circle.328
+    2300712: Circle.329
+    2300714: Circle.330
+    2300716: Circle.331
+    2300718: Circle.332
+    2300720: Circle.333
+    2300722: Circle.334
+    2300724: Circle.335
+    2300726: Circle.336
+    2300728: Circle.337
+    2300730: Circle.338
+    2300732: Circle.339
+    2300734: Circle.340
+    2300736: Circle.341
+    2300738: Circle.342
+    2300740: Circle.343
+    2300742: Circle.344
+    2300744: Circle.345
+    2300746: Circle.346
+    2300748: Circle.347
+    2300750: Circle.348
+    2300752: Circle.349
+    2300754: Circle.350
+    2300756: Circle.351
+    2300758: Circle.352
+    2300760: Circle.353
+    2300762: Circle.354
+    2300764: Circle.355
+    2300766: Circle.356
+    2300768: Circle.357
+    2300770: Circle.358
+    2300772: Circle.359
+    2300774: Circle.360
+    2300776: Circle.361
+    2300778: Circle.362
+    2300780: Circle.363
+    2300782: Circle.364
+    2300784: Circle.365
+    2300786: Circle.366
+    2300788: Circle.367
+    2300790: Circle.368
+    2300792: Circle.369
+    2300794: Circle.370
+    2300796: Circle.371
+    2300798: Circle.372
+    2300800: Circle.373
+    2300802: Circle.374
+    2300804: Circle.375
+    2300806: Circle.376
+    2300808: Circle.377
+    2300810: Circle.378
+    2300812: Circle.379
+    2300814: Circle.380
+    2300816: Circle.381
+    2300818: Circle.382
+    2300820: Circle.383
+    2300822: Circle.384
+    2300824: Circle.385
+    2300826: Circle.386
+    2300828: Circle.387
+    2300830: Circle.388
+    2300832: Circle.389
+    2300834: Circle.390
+    2300836: Circle.391
+    2300838: Circle.392
+    2300840: Circle.393
+    2300842: Circle.394
+    2300844: Circle.395
+    2300846: Circle.396
+    2300848: Circle.397
+    2300850: Circle.398
+    2300852: Circle.399
+    2300854: Circle.400
+    2300856: Circle.401
+    2300858: Circle.402
+    2300860: Circle.403
+    2300862: Circle.404
+    2300864: Circle.405
+    2300866: Circle.406
+    2300868: Circle.407
+    2300870: Circle.408
+    2300872: Circle.409
+    2300874: Circle.410
+    2300876: Circle.411
+    2300878: Circle.412
+    2300880: Circle.413
+    2300882: Circle.414
+    2300884: Circle.415
+    2300886: Circle.416
+    2300888: Circle.417
+    2300890: Circle.418
+    2300892: Circle.419
+    2300894: Circle.420
+    2300896: Circle.421
+    2300898: Circle.422
+    2300900: Circle.423
+    2300902: Circle.424
+    2300904: Circle.425
+    2300906: Circle.426
+    2300908: Circle.427
+    2300910: Circle.428
+    2300912: Circle.429
+    2300914: Circle.430
+    2300916: Circle.431
+    2300918: Circle.432
+    2300920: Circle.433
+    2300922: Circle.434
+    2300924: Circle.435
+    2300926: Circle.436
+    2300928: Circle.437
+    2300930: Circle.438
+    2300932: Circle.439
+    2300934: Circle.440
+    2300936: Circle.441
+    2300938: Circle.442
+    2300940: Circle.443
+    2300942: Circle.444
+    2300944: Circle.445
+    2300946: Cube
+    2300948: Cube.001
+    2300950: Cube.002
+    2300952: Cube.003
+    2300954: Cube.004
+    2300956: Cube.005
+    2300958: Cube.006
+    2300960: Cube.008
+    2300962: Cube.009
+    2300964: Cube.010
+    2300966: Cube.011
+    2300968: curtain
+    2300970: curtain.001
+    2300972: curtain.002
+    2300974: curtain_2
+    2300976: curtain_2.001
+    2300978: curtain_2.002
+    2300980: curtain_2.003
+    2300982: curtain_2.004
+    2300984: Cylinder
+    2300986: Cylinder.005
+    2300988: Cylinder.006
+    2300990: Cylinder.007
+    2300992: Cylinder.008
+    2300994: "Du\u017Ce.ko\u0142o"
+    2300996: "Du\u017Ce.ko\u0142o.001"
+    2300998: "Du\u017Ce.ko\u0142o.lewe"
+    2301000: "Du\u017Ce.ko\u0142o.lewe.001"
+    2301002: "Du\u017Ce.ko\u0142o.obr\u0119cz"
+    2301004: "Du\u017Ce.ko\u0142o.obr\u0119cz.001"
+    2301006: "Du\u017Ce.ko\u0142o.obr\u0119cz.przyleg\u0142a"
+    2301008: "Du\u017Ce.ko\u0142o.obr\u0119cz.przyleg\u0142a.001"
+    2301010: karniz001
+    2301012: karniz001.001
+    2301014: karniz001.002
+    2301016: leg
+    2301018: legs.005
+    2301020: legs.007
+    2301022: legs.008
+    2301024: legs.010
+    2301026: legs.011
+    2301028: "ma\u0142e.k\xF3\u0142ko"
+    2301030: "ma\u0142e.k\xF3\u0142ko.001"
+    2301032: "Ma\u0142e.k\xF3\u0142ko.os\u0142onka"
+    2301034: "Ma\u0142e.k\xF3\u0142ko.os\u0142onka.001"
+    2301036: "ma\u0142e.k\xF3\u0142ko.\u015Brodek"
+    2301038: "ma\u0142e.k\xF3\u0142ko.\u015Brodek.001"
+    2301040: me1.000
+    2301042: me1.002
+    2301044: me1.003
+    2301046: me1.004
+    2301048: me1.1
+    2301050: me10.000
+    2301052: me10.10
+    2301054: me11.000
+    2301056: me11.11
+    2301058: me12.000
+    2301060: me12.12
+    2301062: me13.000
+    2301064: me13.13
+    2301066: me14.14
+    2301068: me15.15
+    2301070: me16.16
+    2301072: me2.000
+    2301074: me2.001
+    2301076: me2.003
+    2301078: me2.2
+    2301080: me3.000
+    2301082: me3.002
+    2301084: me3.3
+    2301086: me4.000
+    2301088: me4.4
+    2301090: me5.5
+    2301092: me6.000
+    2301094: me6.6
+    2301096: me7.7
+    2301098: me8.000
+    2301100: me8.8
+    2301102: me9.000
+    2301104: me9.9
+    2301106: "modu\u0142.box"
+    2301108: "modu\u0142.box.001"
+    2301110: "modu\u0142.box.002"
+    2301112: "modu\u0142.box.003"
+    2301114: "modu\u0142.box.004"
+    2301116: "modu\u0142.box.005"
+    2301118: "modu\u0142.box.006"
+    2301120: "modu\u0142.box.007"
+    2301122: "modu\u0142.box.008"
+    2301124: "modu\u0142.box.009"
+    2301126: "modu\u0142.box.010"
+    2301128: "modu\u0142.box.011"
+    2301130: "modu\u0142.box.012"
+    2301132: "modu\u0142.box.013"
+    2301134: "modu\u0142.box.014"
+    2301136: "modu\u0142.box.015"
+    2301138: "modu\u0142.panel \u015Bcienny"
+    2301140: "modu\u0142.panel \u015Bcienny.001"
+    2301142: "modu\u0142.panel \u015Bcienny.002"
+    2301144: "modu\u0142.szuflada. d\xF3\u0142"
+    2301146: "modu\u0142.szuflada. d\xF3\u0142.002"
+    2301148: "modu\u0142.szuflada. d\xF3\u0142.006"
+    2301150: "modu\u0142.szuflada. d\xF3\u0142.009"
+    2301152: "modu\u0142.szuflada. d\xF3\u0142.010"
+    2301154: "modu\u0142.szuflada. d\xF3\u0142.013"
+    2301156: "modu\u0142.szuflada. d\xF3\u0142.014"
+    2301158: "modu\u0142.szuflada. d\xF3\u0142.015"
+    2301160: "modu\u0142.szuflada.gora"
+    2301162: "modu\u0142.szuflada.gora.002"
+    2301164: "modu\u0142.szuflada.gora.006"
+    2301166: "modu\u0142.szuflada.gora.009"
+    2301168: "modu\u0142.szuflada.gora.010"
+    2301170: "modu\u0142.szuflada.gora.013"
+    2301172: "modu\u0142.szuflada.gora.014"
+    2301174: "modu\u0142.szuflada.gora.015"
+    2301176: Obj_000049
+    2301178: pads
+    2301180: panel.na.noge
+    2301182: panel.na.noge.001
+    2301184: Plane
+    2301186: Plane.001
+    2301188: Plane.002
+    2301190: Plane.003
+    2301192: Plane.004
+    2301194: Plane.005
+    2301196: Plane.006
+    2301198: Plane.007
+    2301200: Plane.008
+    2301202: Plane.009
+    2301204: Plane.010
+    2301206: Plane.011
+    2301208: Plane.012
+    2301210: Plane.013
+    2301212: Plane.014
+    2301214: Plane.015
+    2301216: Plane.016
+    2301218: Plane.020
+    2301220: Plane.021
+    2301222: Plane.022
+    2301224: Plane.023
+    2301226: Plane.024
+    2301228: Plane.025
+    2301230: Plane.026
+    2301232: Plane.027
+    2301234: podajnik papieru
+    2301236: "pod\u0142oga prysznic"
+    2301238: "pod\u0142oga sypialnia"
+    2301240: "pod\u0142oga \u0142azienka"
+    2301242: "pod\u0142oga.kuchnia"
+    2301244: "pod\u0142oga.salon"
+    2301246: "pod\u0142okietnik.lewy"
+    2301248: "pod\u0142okietnik.lewy.001"
+    2301250: "pod\u0142okietnik.poduszka.lewa"
+    2301252: "pod\u0142okietnik.poduszka.prawa"
+    2301254: "p\xF3\u0142ka"
+    2301256: "p\xF3\u0142ka.001"
+    2301258: "p\xF3\u0142ka.002"
+    2301260: "p\xF3\u0142ka.003"
+    2301262: "p\xF3\u0142ka.004"
+    2301264: "p\xF3\u0142ka.005"
+    2301266: "p\xF3\u0142ka.006"
+    2301268: "p\xF3\u0142ka.007"
+    2301270: "p\xF3\u0142ka.008"
+    2301272: "p\xF3\u0142ka.009"
+    2301274: "p\xF3\u0142ka.010"
+    2301276: "p\xF3\u0142ka.011"
+    2301278: RenderStuf
+    2301280: "rurka.do.ma\u0142ego"
+    2301282: "rurka.do.ma\u0142ego.001"
+    2301284: "rurka.g\xF3rna"
+    2301286: "rurka.g\xF3rna.001"
+    2301288: "rurka.prz\xF3d"
+    2301290: "rurka.prz\xF3d.001"
+    2301292: rurka.tyl
+    2301294: rurka.tyl.001
+    2301296: salon szafka .000
+    2301298: salon szafka .001
+    2301300: salon szafka .002
+    2301302: salon szafka .003
+    2301304: salon szafka .004
+    2301306: salon szafka .005
+    2301308: salon szafka .006
+    2301310: salon szafka .007
+    2301312: salon szafka .008
+    2301314: salon szafka .009
+    2301316: salon szafka .010
+    2301318: salon szafka .011
+    2301320: salon szafka .012
+    2301322: salon szafka .013
+    2301324: salon szafka .014
+    2301326: salon szafka .015
+    2301328: salon szafka .016
+    2301330: salon szafka .018
+    2301332: salon szafka .019
+    2301334: salon szafka .020
+    2301336: salon szafka .021
+    2301338: salon szafka .blat
+    2301340: salon szafka .blat.001
+    2301342: sciany mieszkania
+    2301344: sciany mieszkania.kuchnia
+    2301346: sciany mieszkania.lazienka
+    2301348: sciany mieszkania.lazienka.001
+    2301350: "sciany mieszkania.przedpok\xF3"
+    2301352: sciany mieszkania.salon
+    2301354: sciany mieszkania.salon.001
+    2301356: sciany mieszkania.sypialnia
+    2301358: sciany mieszkania.sypialnia.001
+    2301360: seat.004
+    2301362: seat.005
+    2301364: seat.006
+    2301366: seat.008
+    2301368: siedzenie
+    2301370: siedzenie.001
+    2301372: "siedzenie.d\xF3\u0142"
+    2301374: "siedzenie.d\xF3\u0142.001"
+    2301376: "siedzenie.g\xF3ra"
+    2301378: "siedzenie.g\xF3ra.001"
+    2301380: Sphere
+    2301382: sub02
+    2301384: sub02.001
+    2301386: sub02.002
+    2301388: sub02.003
+    2301390: sub02.004
+    2301392: sufit
+    2301394: support.005
+    2301396: support.007
+    2301398: support.008
+    2301400: support.009
+    2301402: support.011
+    2301404: support.012
+    2301406: "szafa drzwi lewe g\xF3rne"
+    2301408: "szafa drzwi lewe g\xF3rne.001"
+    2301410: szafa drzwi prawe
+    2301412: "szafa drzwi prawe.g\xF3rne"
+    2301414: "szafa drzwi prawe.g\xF3rne.001"
+    2301416: "szafa przedpok\xF3j.000"
+    2301418: "szafa przedpok\xF3j.001"
+    2301420: "szafa przedpok\xF3j.002"
+    2301422: "szafa przedpok\xF3j.003"
+    2301424: "szafa przedpok\xF3j.004"
+    2301426: "szafa przedpok\xF3j.005"
+    2301428: "szafa przedpok\xF3j.006"
+    2301430: "szafa przedpok\xF3j.007"
+    2301432: "szafa przedpok\xF3j.008"
+    2301434: "szafa przedpok\xF3j.009"
+    2301436: "szafa przedpok\xF3j.010"
+    2301438: "szafa przedpok\xF3j.011"
+    2301440: "szafa przedpok\xF3j.012"
+    2301442: "szafa przedpok\xF3j.013"
+    2301444: "szafa przedpok\xF3j.014"
+    2301446: Szprycha
+    2301448: Szprycha.001
+    2301450: Szprycha.002
+    2301452: Szprycha.003
+    2301454: tabletop.002
+    2301456: tabletop.003
+    2301458: "uchwyt.ty\u0142"
+    2301460: "uchwyt.ty\u0142.001"
+    2301462: "\u0142azienka  umywalka"
+    2301464: "\u0142azienka dr\u0105\u017Cek zas\u0142ony prysznicowaej"
+    2301466: "\u0142azienka krzese\u0142kopod prysznic"
+    2301468: "\u0142azienka lustro"
+    2301470: "\u0142azienka oparcie przy toalecie"
+    2301472: "\u0142azienka prysznic pochwyty"
+    2301474: "\u0142azienka szczotka toaletowa"
+    2301476: "\u0142azienka toilet"
+    2301478: "\u0142azienka uchwyt boczny L"
+    2301480: "\u0142azienka uchwyt pionowy"
+    3300000: 1:1:6
+    3300002: 1:1:6.001
+    3300004: 1:2:6
+    3300006: 1:2:6.001
+    3300008: 1:3:6
+    3300010: 1:4:6
+    3300012: 1:4:6.001
+    3300014: 2:10:6
+    3300016: 2:1:6
+    3300018: 2:1:6.001
+    3300020: 2:2:6
+    3300022: 2:2:6.001
+    3300024: 2:3:6
+    3300026: 2:4:6
+    3300028: 2:5:6
+    3300030: 2:6:6
+    3300032: 2:7:6
+    3300034: 2:8:6
+    3300036: 3:1:6
+    3300038: 3:2:6
+    3300040: 3:4:6
+    3300042: armrest.004
+    3300044: armrest.005
+    3300046: armrest.007
+    3300048: backrest.004
+    3300050: backrest.005
+    3300052: backrest.006
+    3300054: backrest.008
+    3300056: backrest_2.004
+    3300058: backrest_2.005
+    3300060: backrest_2.007
+    3300062: bottom
+    3300064: "ca\u0142o\u015B\u0107.lewa"
+    3300066: "ca\u0142o\u015B\u0107.prawa"
+    3300068: Circle
+    3300070: Circle.001
+    3300072: Circle.002
+    3300074: Circle.003
+    3300076: Circle.004
+    3300078: Circle.005
+    3300080: Circle.006
+    3300082: Circle.007
+    3300084: Circle.008
+    3300086: Circle.009
+    3300088: Circle.010
+    3300090: Circle.011
+    3300092: Circle.012
+    3300094: Circle.013
+    3300096: Circle.014
+    3300098: Circle.015
+    3300100: Circle.016
+    3300102: Circle.017
+    3300104: Circle.018
+    3300106: Circle.019
+    3300108: Circle.020
+    3300110: Circle.021
+    3300112: Circle.022
+    3300114: Circle.023
+    3300116: Circle.024
+    3300118: Circle.025
+    3300120: Circle.026
+    3300122: Circle.027
+    3300124: Circle.028
+    3300126: Circle.029
+    3300128: Circle.030
+    3300130: Circle.031
+    3300132: Circle.032
+    3300134: Circle.033
+    3300136: Circle.034
+    3300138: Circle.035
+    3300140: Circle.036
+    3300142: Circle.037
+    3300144: Circle.038
+    3300146: Circle.039
+    3300148: Circle.040
+    3300150: Circle.041
+    3300152: Circle.042
+    3300154: Circle.043
+    3300156: Circle.044
+    3300158: Circle.045
+    3300160: Circle.046
+    3300162: Circle.047
+    3300164: Circle.048
+    3300166: Circle.049
+    3300168: Circle.050
+    3300170: Circle.051
+    3300172: Circle.052
+    3300174: Circle.053
+    3300176: Circle.054
+    3300178: Circle.055
+    3300180: Circle.056
+    3300182: Circle.057
+    3300184: Circle.058
+    3300186: Circle.059
+    3300188: Circle.060
+    3300190: Circle.061
+    3300192: Circle.062
+    3300194: Circle.063
+    3300196: Circle.064
+    3300198: Circle.065
+    3300200: Circle.066
+    3300202: Circle.067
+    3300204: Circle.068
+    3300206: Circle.069
+    3300208: Circle.070
+    3300210: Circle.072
+    3300212: Circle.073
+    3300214: Circle.074
+    3300216: Circle.075
+    3300218: Circle.076
+    3300220: Circle.077
+    3300222: Circle.078
+    3300224: Circle.079
+    3300226: Circle.080
+    3300228: Circle.081
+    3300230: Circle.082
+    3300232: Circle.083
+    3300234: Circle.084
+    3300236: Circle.085
+    3300238: Circle.086
+    3300240: Circle.087
+    3300242: Circle.088
+    3300244: Circle.089
+    3300246: Circle.090
+    3300248: Circle.091
+    3300250: Circle.092
+    3300252: Circle.093
+    3300254: Circle.094
+    3300256: Circle.095
+    3300258: Circle.096
+    3300260: Circle.097
+    3300262: Circle.098
+    3300264: Circle.099
+    3300266: Circle.100
+    3300268: Circle.103
+    3300270: Circle.105
+    3300272: Circle.106
+    3300274: Circle.107
+    3300276: Circle.108
+    3300278: Circle.109
+    3300280: Circle.110
+    3300282: Circle.114
+    3300284: Circle.115
+    3300286: Circle.116
+    3300288: Circle.117
+    3300290: Circle.118
+    3300292: Circle.119
+    3300294: Circle.120
+    3300296: Circle.121
+    3300298: Circle.122
+    3300300: Circle.123
+    3300302: Circle.124
+    3300304: Circle.125
+    3300306: Circle.126
+    3300308: Circle.127
+    3300310: Circle.128
+    3300312: Circle.129
+    3300314: Circle.130
+    3300316: Circle.131
+    3300318: Circle.132
+    3300320: Circle.133
+    3300322: Circle.134
+    3300324: Circle.135
+    3300326: Circle.136
+    3300328: Circle.137
+    3300330: Circle.138
+    3300332: Circle.139
+    3300334: Circle.140
+    3300336: Circle.141
+    3300338: Circle.142
+    3300340: Circle.143
+    3300342: Circle.144
+    3300344: Circle.145
+    3300346: Circle.146
+    3300348: Circle.147
+    3300350: Circle.148
+    3300352: Circle.149
+    3300354: Circle.150
+    3300356: Circle.151
+    3300358: Circle.152
+    3300360: Circle.153
+    3300362: Circle.154
+    3300364: Circle.155
+    3300366: Circle.156
+    3300368: Circle.157
+    3300370: Circle.158
+    3300372: Circle.159
+    3300374: Circle.160
+    3300376: Circle.161
+    3300378: Circle.162
+    3300380: Circle.163
+    3300382: Circle.164
+    3300384: Circle.165
+    3300386: Circle.166
+    3300388: Circle.167
+    3300390: Circle.168
+    3300392: Circle.169
+    3300394: Circle.170
+    3300396: Circle.171
+    3300398: Circle.172
+    3300400: Circle.173
+    3300402: Circle.174
+    3300404: Circle.175
+    3300406: Circle.176
+    3300408: Circle.177
+    3300410: Circle.178
+    3300412: Circle.179
+    3300414: Circle.180
+    3300416: Circle.181
+    3300418: Circle.182
+    3300420: Circle.183
+    3300422: Circle.184
+    3300424: Circle.185
+    3300426: Circle.186
+    3300428: Circle.187
+    3300430: Circle.188
+    3300432: Circle.189
+    3300434: Circle.190
+    3300436: Circle.191
+    3300438: Circle.192
+    3300440: Circle.193
+    3300442: Circle.194
+    3300444: Circle.195
+    3300446: Circle.196
+    3300448: Circle.197
+    3300450: Circle.198
+    3300452: Circle.199
+    3300454: Circle.200
+    3300456: Circle.201
+    3300458: Circle.202
+    3300460: Circle.203
+    3300462: Circle.204
+    3300464: Circle.205
+    3300466: Circle.206
+    3300468: Circle.207
+    3300470: Circle.208
+    3300472: Circle.209
+    3300474: Circle.210
+    3300476: Circle.211
+    3300478: Circle.212
+    3300480: Circle.213
+    3300482: Circle.214
+    3300484: Circle.215
+    3300486: Circle.216
+    3300488: Circle.217
+    3300490: Circle.218
+    3300492: Circle.219
+    3300494: Circle.220
+    3300496: Circle.221
+    3300498: Circle.222
+    3300500: Circle.223
+    3300502: Circle.224
+    3300504: Circle.225
+    3300506: Circle.226
+    3300508: Circle.227
+    3300510: Circle.228
+    3300512: Circle.229
+    3300514: Circle.230
+    3300516: Circle.231
+    3300518: Circle.232
+    3300520: Circle.233
+    3300522: Circle.234
+    3300524: Circle.235
+    3300526: Circle.236
+    3300528: Circle.237
+    3300530: Circle.238
+    3300532: Circle.239
+    3300534: Circle.240
+    3300536: Circle.241
+    3300538: Circle.242
+    3300540: Circle.243
+    3300542: Circle.244
+    3300544: Circle.245
+    3300546: Circle.246
+    3300548: Circle.247
+    3300550: Circle.248
+    3300552: Circle.249
+    3300554: Circle.250
+    3300556: Circle.251
+    3300558: Circle.252
+    3300560: Circle.253
+    3300562: Circle.254
+    3300564: Circle.255
+    3300566: Circle.256
+    3300568: Circle.257
+    3300570: Circle.258
+    3300572: Circle.259
+    3300574: Circle.260
+    3300576: Circle.261
+    3300578: Circle.262
+    3300580: Circle.263
+    3300582: Circle.264
+    3300584: Circle.265
+    3300586: Circle.266
+    3300588: Circle.267
+    3300590: Circle.268
+    3300592: Circle.269
+    3300594: Circle.270
+    3300596: Circle.271
+    3300598: Circle.272
+    3300600: Circle.273
+    3300602: Circle.274
+    3300604: Circle.275
+    3300606: Circle.276
+    3300608: Circle.277
+    3300610: Circle.278
+    3300612: Circle.279
+    3300614: Circle.280
+    3300616: Circle.281
+    3300618: Circle.282
+    3300620: Circle.283
+    3300622: Circle.284
+    3300624: Circle.285
+    3300626: Circle.286
+    3300628: Circle.287
+    3300630: Circle.288
+    3300632: Circle.289
+    3300634: Circle.290
+    3300636: Circle.291
+    3300638: Circle.292
+    3300640: Circle.293
+    3300642: Circle.294
+    3300644: Circle.295
+    3300646: Circle.296
+    3300648: Circle.297
+    3300650: Circle.298
+    3300652: Circle.299
+    3300654: Circle.300
+    3300656: Circle.301
+    3300658: Circle.302
+    3300660: Circle.303
+    3300662: Circle.304
+    3300664: Circle.305
+    3300666: Circle.306
+    3300668: Circle.307
+    3300670: Circle.308
+    3300672: Circle.309
+    3300674: Circle.310
+    3300676: Circle.311
+    3300678: Circle.312
+    3300680: Circle.313
+    3300682: Circle.314
+    3300684: Circle.315
+    3300686: Circle.316
+    3300688: Circle.317
+    3300690: Circle.318
+    3300692: Circle.319
+    3300694: Circle.320
+    3300696: Circle.321
+    3300698: Circle.322
+    3300700: Circle.323
+    3300702: Circle.324
+    3300704: Circle.325
+    3300706: Circle.326
+    3300708: Circle.327
+    3300710: Circle.328
+    3300712: Circle.329
+    3300714: Circle.330
+    3300716: Circle.331
+    3300718: Circle.332
+    3300720: Circle.333
+    3300722: Circle.334
+    3300724: Circle.335
+    3300726: Circle.336
+    3300728: Circle.337
+    3300730: Circle.338
+    3300732: Circle.339
+    3300734: Circle.340
+    3300736: Circle.341
+    3300738: Circle.342
+    3300740: Circle.343
+    3300742: Circle.344
+    3300744: Circle.345
+    3300746: Circle.346
+    3300748: Circle.347
+    3300750: Circle.348
+    3300752: Circle.349
+    3300754: Circle.350
+    3300756: Circle.351
+    3300758: Circle.352
+    3300760: Circle.353
+    3300762: Circle.354
+    3300764: Circle.355
+    3300766: Circle.356
+    3300768: Circle.357
+    3300770: Circle.358
+    3300772: Circle.359
+    3300774: Circle.360
+    3300776: Circle.361
+    3300778: Circle.362
+    3300780: Circle.363
+    3300782: Circle.364
+    3300784: Circle.365
+    3300786: Circle.366
+    3300788: Circle.367
+    3300790: Circle.368
+    3300792: Circle.369
+    3300794: Circle.370
+    3300796: Circle.371
+    3300798: Circle.372
+    3300800: Circle.373
+    3300802: Circle.374
+    3300804: Circle.375
+    3300806: Circle.376
+    3300808: Circle.377
+    3300810: Circle.378
+    3300812: Circle.379
+    3300814: Circle.380
+    3300816: Circle.381
+    3300818: Circle.382
+    3300820: Circle.383
+    3300822: Circle.384
+    3300824: Circle.385
+    3300826: Circle.386
+    3300828: Circle.387
+    3300830: Circle.388
+    3300832: Circle.389
+    3300834: Circle.390
+    3300836: Circle.391
+    3300838: Circle.392
+    3300840: Circle.393
+    3300842: Circle.394
+    3300844: Circle.395
+    3300846: Circle.396
+    3300848: Circle.397
+    3300850: Circle.398
+    3300852: Circle.399
+    3300854: Circle.400
+    3300856: Circle.401
+    3300858: Circle.402
+    3300860: Circle.403
+    3300862: Circle.404
+    3300864: Circle.405
+    3300866: Circle.406
+    3300868: Circle.407
+    3300870: Circle.408
+    3300872: Circle.409
+    3300874: Circle.410
+    3300876: Circle.411
+    3300878: Circle.412
+    3300880: Circle.413
+    3300882: Circle.414
+    3300884: Circle.415
+    3300886: Circle.416
+    3300888: Circle.417
+    3300890: Circle.418
+    3300892: Circle.419
+    3300894: Circle.420
+    3300896: Circle.421
+    3300898: Circle.422
+    3300900: Circle.423
+    3300902: Circle.424
+    3300904: Circle.425
+    3300906: Circle.426
+    3300908: Circle.427
+    3300910: Circle.428
+    3300912: Circle.429
+    3300914: Circle.430
+    3300916: Circle.431
+    3300918: Circle.432
+    3300920: Circle.433
+    3300922: Circle.434
+    3300924: Circle.435
+    3300926: Circle.436
+    3300928: Circle.437
+    3300930: Circle.438
+    3300932: Circle.439
+    3300934: Circle.440
+    3300936: Circle.441
+    3300938: Circle.442
+    3300940: Circle.443
+    3300942: Circle.444
+    3300944: Circle.445
+    3300946: Cube
+    3300948: Cube.001
+    3300950: Cube.002
+    3300952: Cube.003
+    3300954: Cube.004
+    3300956: Cube.005
+    3300958: Cube.006
+    3300960: Cube.008
+    3300962: Cube.009
+    3300964: Cube.010
+    3300966: Cube.011
+    3300968: curtain
+    3300970: curtain.001
+    3300972: curtain.002
+    3300974: curtain_2
+    3300976: curtain_2.001
+    3300978: curtain_2.002
+    3300980: curtain_2.003
+    3300982: curtain_2.004
+    3300984: Cylinder
+    3300986: Cylinder.005
+    3300988: Cylinder.006
+    3300990: Cylinder.007
+    3300992: Cylinder.008
+    3300994: "Du\u017Ce.ko\u0142o"
+    3300996: "Du\u017Ce.ko\u0142o.001"
+    3300998: "Du\u017Ce.ko\u0142o.lewe"
+    3301000: "Du\u017Ce.ko\u0142o.lewe.001"
+    3301002: "Du\u017Ce.ko\u0142o.obr\u0119cz"
+    3301004: "Du\u017Ce.ko\u0142o.obr\u0119cz.001"
+    3301006: "Du\u017Ce.ko\u0142o.obr\u0119cz.przyleg\u0142a"
+    3301008: "Du\u017Ce.ko\u0142o.obr\u0119cz.przyleg\u0142a.001"
+    3301010: karniz001
+    3301012: karniz001.001
+    3301014: karniz001.002
+    3301016: leg
+    3301018: legs.005
+    3301020: legs.007
+    3301022: legs.008
+    3301024: legs.010
+    3301026: legs.011
+    3301028: "ma\u0142e.k\xF3\u0142ko"
+    3301030: "ma\u0142e.k\xF3\u0142ko.001"
+    3301032: "Ma\u0142e.k\xF3\u0142ko.os\u0142onka"
+    3301034: "Ma\u0142e.k\xF3\u0142ko.os\u0142onka.001"
+    3301036: "ma\u0142e.k\xF3\u0142ko.\u015Brodek"
+    3301038: "ma\u0142e.k\xF3\u0142ko.\u015Brodek.001"
+    3301040: me1.000
+    3301042: me1.002
+    3301044: me1.003
+    3301046: me1.004
+    3301048: me1.1
+    3301050: me10.000
+    3301052: me10.10
+    3301054: me11.000
+    3301056: me11.11
+    3301058: me12.000
+    3301060: me12.12
+    3301062: me13.000
+    3301064: me13.13
+    3301066: me14.14
+    3301068: me15.15
+    3301070: me16.16
+    3301072: me2.000
+    3301074: me2.001
+    3301076: me2.003
+    3301078: me2.2
+    3301080: me3.000
+    3301082: me3.002
+    3301084: me3.3
+    3301086: me4.000
+    3301088: me4.4
+    3301090: me5.5
+    3301092: me6.000
+    3301094: me6.6
+    3301096: me7.7
+    3301098: me8.000
+    3301100: me8.8
+    3301102: me9.000
+    3301104: me9.9
+    3301106: "modu\u0142.box"
+    3301108: "modu\u0142.box.001"
+    3301110: "modu\u0142.box.002"
+    3301112: "modu\u0142.box.003"
+    3301114: "modu\u0142.box.004"
+    3301116: "modu\u0142.box.005"
+    3301118: "modu\u0142.box.006"
+    3301120: "modu\u0142.box.007"
+    3301122: "modu\u0142.box.008"
+    3301124: "modu\u0142.box.009"
+    3301126: "modu\u0142.box.010"
+    3301128: "modu\u0142.box.011"
+    3301130: "modu\u0142.box.012"
+    3301132: "modu\u0142.box.013"
+    3301134: "modu\u0142.box.014"
+    3301136: "modu\u0142.box.015"
+    3301138: "modu\u0142.panel \u015Bcienny"
+    3301140: "modu\u0142.panel \u015Bcienny.001"
+    3301142: "modu\u0142.panel \u015Bcienny.002"
+    3301144: "modu\u0142.szuflada. d\xF3\u0142"
+    3301146: "modu\u0142.szuflada. d\xF3\u0142.002"
+    3301148: "modu\u0142.szuflada. d\xF3\u0142.006"
+    3301150: "modu\u0142.szuflada. d\xF3\u0142.009"
+    3301152: "modu\u0142.szuflada. d\xF3\u0142.010"
+    3301154: "modu\u0142.szuflada. d\xF3\u0142.013"
+    3301156: "modu\u0142.szuflada. d\xF3\u0142.014"
+    3301158: "modu\u0142.szuflada. d\xF3\u0142.015"
+    3301160: "modu\u0142.szuflada.gora"
+    3301162: "modu\u0142.szuflada.gora.002"
+    3301164: "modu\u0142.szuflada.gora.006"
+    3301166: "modu\u0142.szuflada.gora.009"
+    3301168: "modu\u0142.szuflada.gora.010"
+    3301170: "modu\u0142.szuflada.gora.013"
+    3301172: "modu\u0142.szuflada.gora.014"
+    3301174: "modu\u0142.szuflada.gora.015"
+    3301176: Obj_000049
+    3301178: pads
+    3301180: panel.na.noge
+    3301182: panel.na.noge.001
+    3301184: Plane
+    3301186: Plane.001
+    3301188: Plane.002
+    3301190: Plane.003
+    3301192: Plane.004
+    3301194: Plane.005
+    3301196: Plane.006
+    3301198: Plane.007
+    3301200: Plane.008
+    3301202: Plane.009
+    3301204: Plane.010
+    3301206: Plane.011
+    3301208: Plane.012
+    3301210: Plane.013
+    3301212: Plane.014
+    3301214: Plane.015
+    3301216: Plane.016
+    3301218: Plane.020
+    3301220: Plane.021
+    3301222: Plane.022
+    3301224: Plane.023
+    3301226: Plane.024
+    3301228: Plane.025
+    3301230: Plane.026
+    3301232: Plane.027
+    3301234: podajnik papieru
+    3301236: "pod\u0142oga prysznic"
+    3301238: "pod\u0142oga sypialnia"
+    3301240: "pod\u0142oga \u0142azienka"
+    3301242: "pod\u0142oga.kuchnia"
+    3301244: "pod\u0142oga.salon"
+    3301246: "pod\u0142okietnik.lewy"
+    3301248: "pod\u0142okietnik.lewy.001"
+    3301250: "pod\u0142okietnik.poduszka.lewa"
+    3301252: "pod\u0142okietnik.poduszka.prawa"
+    3301254: "p\xF3\u0142ka"
+    3301256: "p\xF3\u0142ka.001"
+    3301258: "p\xF3\u0142ka.002"
+    3301260: "p\xF3\u0142ka.003"
+    3301262: "p\xF3\u0142ka.004"
+    3301264: "p\xF3\u0142ka.005"
+    3301266: "p\xF3\u0142ka.006"
+    3301268: "p\xF3\u0142ka.007"
+    3301270: "p\xF3\u0142ka.008"
+    3301272: "p\xF3\u0142ka.009"
+    3301274: "p\xF3\u0142ka.010"
+    3301276: "p\xF3\u0142ka.011"
+    3301278: RenderStuf
+    3301280: "rurka.do.ma\u0142ego"
+    3301282: "rurka.do.ma\u0142ego.001"
+    3301284: "rurka.g\xF3rna"
+    3301286: "rurka.g\xF3rna.001"
+    3301288: "rurka.prz\xF3d"
+    3301290: "rurka.prz\xF3d.001"
+    3301292: rurka.tyl
+    3301294: rurka.tyl.001
+    3301296: salon szafka .000
+    3301298: salon szafka .001
+    3301300: salon szafka .002
+    3301302: salon szafka .003
+    3301304: salon szafka .004
+    3301306: salon szafka .005
+    3301308: salon szafka .006
+    3301310: salon szafka .007
+    3301312: salon szafka .008
+    3301314: salon szafka .009
+    3301316: salon szafka .010
+    3301318: salon szafka .011
+    3301320: salon szafka .012
+    3301322: salon szafka .013
+    3301324: salon szafka .014
+    3301326: salon szafka .015
+    3301328: salon szafka .016
+    3301330: salon szafka .018
+    3301332: salon szafka .019
+    3301334: salon szafka .020
+    3301336: salon szafka .021
+    3301338: salon szafka .blat
+    3301340: salon szafka .blat.001
+    3301342: sciany mieszkania
+    3301344: sciany mieszkania.kuchnia
+    3301346: sciany mieszkania.lazienka
+    3301348: sciany mieszkania.lazienka.001
+    3301350: "sciany mieszkania.przedpok\xF3"
+    3301352: sciany mieszkania.salon
+    3301354: sciany mieszkania.salon.001
+    3301356: sciany mieszkania.sypialnia
+    3301358: sciany mieszkania.sypialnia.001
+    3301360: seat.004
+    3301362: seat.005
+    3301364: seat.006
+    3301366: seat.008
+    3301368: siedzenie
+    3301370: siedzenie.001
+    3301372: "siedzenie.d\xF3\u0142"
+    3301374: "siedzenie.d\xF3\u0142.001"
+    3301376: "siedzenie.g\xF3ra"
+    3301378: "siedzenie.g\xF3ra.001"
+    3301380: Sphere
+    3301382: sub02
+    3301384: sub02.001
+    3301386: sub02.002
+    3301388: sub02.003
+    3301390: sub02.004
+    3301392: sufit
+    3301394: support.005
+    3301396: support.007
+    3301398: support.008
+    3301400: support.009
+    3301402: support.011
+    3301404: support.012
+    3301406: "szafa drzwi lewe g\xF3rne"
+    3301408: "szafa drzwi lewe g\xF3rne.001"
+    3301410: szafa drzwi prawe
+    3301412: "szafa drzwi prawe.g\xF3rne"
+    3301414: "szafa drzwi prawe.g\xF3rne.001"
+    3301416: "szafa przedpok\xF3j.000"
+    3301418: "szafa przedpok\xF3j.001"
+    3301420: "szafa przedpok\xF3j.002"
+    3301422: "szafa przedpok\xF3j.003"
+    3301424: "szafa przedpok\xF3j.004"
+    3301426: "szafa przedpok\xF3j.005"
+    3301428: "szafa przedpok\xF3j.006"
+    3301430: "szafa przedpok\xF3j.007"
+    3301432: "szafa przedpok\xF3j.008"
+    3301434: "szafa przedpok\xF3j.009"
+    3301436: "szafa przedpok\xF3j.010"
+    3301438: "szafa przedpok\xF3j.011"
+    3301440: "szafa przedpok\xF3j.012"
+    3301442: "szafa przedpok\xF3j.013"
+    3301444: "szafa przedpok\xF3j.014"
+    3301446: Szprycha
+    3301448: Szprycha.001
+    3301450: Szprycha.002
+    3301452: Szprycha.003
+    3301454: tabletop.002
+    3301456: tabletop.003
+    3301458: "uchwyt.ty\u0142"
+    3301460: "uchwyt.ty\u0142.001"
+    3301462: "\u0142azienka  umywalka"
+    3301464: "\u0142azienka dr\u0105\u017Cek zas\u0142ony prysznicowaej"
+    3301466: "\u0142azienka krzese\u0142kopod prysznic"
+    3301468: "\u0142azienka lustro"
+    3301470: "\u0142azienka oparcie przy toalecie"
+    3301472: "\u0142azienka prysznic pochwyty"
+    3301474: "\u0142azienka szczotka toaletowa"
+    3301476: "\u0142azienka toilet"
+    3301478: "\u0142azienka uchwyt boczny L"
+    3301480: "\u0142azienka uchwyt pionowy"
+    4300000: Plane.016
+    4300002: Plane.014
+    4300004: Sphere
+    4300006: Cylinder
+    4300008: Plane.012
+    4300010: sciany mieszkania.kuchnia
+    4300012: sciany mieszkania.salon.001
+    4300014: Circle.019
+    4300016: Plane.027
+    4300018: Plane.026
+    4300020: Plane.025
+    4300022: Plane.024
+    4300024: RenderStuf
+    4300026: Cube.006
+    4300028: Plane.023
+    4300030: Cube.005
+    4300032: Cube.004
+    4300034: Plane.020
+    4300036: Plane.022
+    4300038: "sciany mieszkania.przedpok\xF3"
+    4300040: sciany mieszkania.sypialnia.001
+    4300042: sciany mieszkania.lazienka.001
+    4300044: sciany mieszkania.lazienka
+    4300046: sciany mieszkania.sypialnia
+    4300048: sciany mieszkania.salon
+    4300050: Plane.011
+    4300052: curtain_2
+    4300054: curtain
+    4300056: karniz001
+    4300058: Plane.010
+    4300060: salon szafka .019
+    4300062: salon szafka .018
+    4300064: Cube.003
+    4300066: Cylinder.008
+    4300068: Obj_000049
+    4300070: salon szafka .016
+    4300072: salon szafka .blat
+    4300074: salon szafka .020
+    4300076: salon szafka .021
+    4300078: salon szafka .blat.001
+    4300080: sub02.004
+    4300082: sub02.003
+    4300084: sub02.002
+    4300086: sub02.001
+    4300088: sub02
+    4300090: salon szafka .011
+    4300092: salon szafka .010
+    4300094: Plane.005
+    4300096: salon szafka .009
+    4300098: Plane.003
+    4300100: "modu\u0142.panel \u015Bcienny"
+    4300102: "modu\u0142.box.015"
+    4300104: "modu\u0142.szuflada. d\xF3\u0142.015"
+    4300106: "modu\u0142.szuflada.gora.015"
+    4300108: "pod\u0142okietnik.poduszka.prawa"
+    4300110: "pod\u0142okietnik.lewy.001"
+    4300112: "ca\u0142o\u015B\u0107.prawa"
+    4300114: siedzenie.001
+    4300116: "uchwyt.ty\u0142.001"
+    4300118: "siedzenie.g\xF3ra.001"
+    4300120: "siedzenie.d\xF3\u0142.001"
+    4300122: rurka.tyl.001
+    4300124: "rurka.prz\xF3d.001"
+    4300126: "rurka.g\xF3rna.001"
+    4300128: "rurka.do.ma\u0142ego.001"
+    4300130: panel.na.noge.001
+    4300132: "ma\u0142e.k\xF3\u0142ko.\u015Brodek.001"
+    4300134: "Ma\u0142e.k\xF3\u0142ko.os\u0142onka.001"
+    4300136: "ma\u0142e.k\xF3\u0142ko.001"
+    4300138: "Du\u017Ce.ko\u0142o.lewe.001"
+    4300140: Szprycha.002
+    4300142: Szprycha.003
+    4300144: "Du\u017Ce.ko\u0142o.obr\u0119cz.przyleg\u0142a.001"
+    4300146: "Du\u017Ce.ko\u0142o.obr\u0119cz.001"
+    4300148: "Du\u017Ce.ko\u0142o.001"
+    4300150: "ca\u0142o\u015B\u0107.lewa"
+    4300152: "Du\u017Ce.ko\u0142o.lewe"
+    4300154: Szprycha.001
+    4300156: "Du\u017Ce.ko\u0142o"
+    4300158: Szprycha
+    4300160: "Du\u017Ce.ko\u0142o.obr\u0119cz"
+    4300162: "Du\u017Ce.ko\u0142o.obr\u0119cz.przyleg\u0142a"
+    4300164: siedzenie
+    4300166: "siedzenie.g\xF3ra"
+    4300168: Plane
+    4300170: Plane.004
+    4300172: "rurka.prz\xF3d"
+    4300174: rurka.tyl
+    4300176: "rurka.do.ma\u0142ego"
+    4300178: "siedzenie.d\xF3\u0142"
+    4300180: "rurka.g\xF3rna"
+    4300182: panel.na.noge
+    4300184: "uchwyt.ty\u0142"
+    4300186: "ma\u0142e.k\xF3\u0142ko.\u015Brodek"
+    4300188: "ma\u0142e.k\xF3\u0142ko"
+    4300190: "Ma\u0142e.k\xF3\u0142ko.os\u0142onka"
+    4300192: "pod\u0142okietnik.poduszka.lewa"
+    4300194: "pod\u0142okietnik.lewy"
+    4300196: Cube.008
+    4300198: Cube.009
+    4300200: Cube.010
+    4300202: Cube.011
+    4300204: salon szafka .013
+    4300206: "pod\u0142oga.salon"
+    4300208: "pod\u0142oga.kuchnia"
+    4300210: "pod\u0142oga sypialnia"
+    4300212: "pod\u0142oga \u0142azienka"
+    4300214: "pod\u0142oga prysznic"
+    4300216: sufit
+    4300218: "szafa przedpok\xF3j.001"
+    4300220: "szafa drzwi prawe.g\xF3rne"
+    4300222: "szafa drzwi lewe g\xF3rne"
+    4300224: "p\xF3\u0142ka.006"
+    4300226: szafa drzwi prawe
+    4300228: "p\xF3\u0142ka.005"
+    4300230: "p\xF3\u0142ka.004"
+    4300232: "p\xF3\u0142ka.003"
+    4300234: "p\xF3\u0142ka.002"
+    4300236: "p\xF3\u0142ka"
+    4300238: "\u0142azienka toilet"
+    4300240: me1.004
+    4300242: "\u0142azienka uchwyt boczny L"
+    4300244: me3.002
+    4300246: me2.003
+    4300248: me1.003
+    4300250: "\u0142azienka uchwyt pionowy"
+    4300252: 3:4:6
+    4300254: 3:2:6
+    4300256: 3:1:6
+    4300258: podajnik papieru
+    4300260: 2:2:6.001
+    4300262: 2:1:6.001
+    4300264: "\u0142azienka szczotka toaletowa"
+    4300266: 1:4:6.001
+    4300268: 1:2:6.001
+    4300270: 1:1:6
+    4300272: "\u0142azienka oparcie przy toalecie"
+    4300274: me2.001
+    4300276: me1.002
+    4300278: "\u0142azienka lustro"
+    4300280: 1:4:6
+    4300282: 1:3:6
+    4300284: 1:2:6
+    4300286: 1:1:6.001
+    4300288: "\u0142azienka dr\u0105\u017Cek zas\u0142ony prysznicowaej"
+    4300290: me13.000
+    4300292: me12.000
+    4300294: me11.000
+    4300296: me10.000
+    4300298: me9.000
+    4300300: me8.000
+    4300302: me6.000
+    4300304: me5.5
+    4300306: me4.000
+    4300308: me3.000
+    4300310: me2.000
+    4300312: me1.000
+    4300314: "\u0142azienka prysznic pochwyty"
+    4300316: 2:10:6
+    4300318: 2:8:6
+    4300320: 2:7:6
+    4300322: 2:6:6
+    4300324: 2:5:6
+    4300326: 2:4:6
+    4300328: 2:3:6
+    4300330: 2:2:6
+    4300332: 2:1:6
+    4300334: "\u0142azienka krzese\u0142kopod prysznic"
+    4300336: me16.16
+    4300338: me15.15
+    4300340: me14.14
+    4300342: me13.13
+    4300344: me12.12
+    4300346: me11.11
+    4300348: me10.10
+    4300350: me9.9
+    4300352: me8.8
+    4300354: me7.7
+    4300356: me6.6
+    4300358: me4.4
+    4300360: me3.3
+    4300362: me2.2
+    4300364: me1.1
+    4300366: "\u0142azienka  umywalka"
+    4300368: seat.004
+    4300370: legs.005
+    4300372: backrest.004
+    4300374: support.005
+    4300376: leg
+    4300378: bottom
+    4300380: tabletop.002
+    4300382: support.007
+    4300384: pads
+    4300386: sciany mieszkania
+    4300388: armrest.004
+    4300390: backrest.005
+    4300392: backrest_2.004
+    4300394: legs.007
+    4300396: seat.005
+    4300398: support.008
+    4300400: armrest.005
+    4300402: backrest.006
+    4300404: backrest_2.005
+    4300406: legs.008
+    4300408: seat.006
+    4300410: support.009
+    4300412: legs.010
+    4300414: support.011
+    4300416: tabletop.003
+    4300418: "szafa przedpok\xF3j.014"
+    4300420: "p\xF3\u0142ka.011"
+    4300422: "p\xF3\u0142ka.010"
+    4300424: "p\xF3\u0142ka.009"
+    4300426: "p\xF3\u0142ka.008"
+    4300428: "p\xF3\u0142ka.007"
+    4300430: "p\xF3\u0142ka.001"
+    4300432: "szafa drzwi lewe g\xF3rne.001"
+    4300434: "szafa drzwi prawe.g\xF3rne.001"
+    4300436: armrest.007
+    4300438: backrest.008
+    4300440: backrest_2.007
+    4300442: legs.011
+    4300444: seat.008
+    4300446: support.012
+    4300448: "modu\u0142.panel \u015Bcienny.001"
+    4300450: "modu\u0142.panel \u015Bcienny.002"
+    4300452: curtain.001
+    4300454: karniz001.001
+    4300456: curtain.002
+    4300458: curtain_2.002
+    4300460: karniz001.002
+    4300462: curtain_2.003
+    4300464: curtain_2.004
+    4300466: Plane.021
+    4300468: curtain_2.001
+    4300470: Circle.020
+    4300472: Circle.040
+    4300474: Circle.079
+    4300476: Circle.080
+    4300478: Circle.100
+    4300480: Circle.137
+    4300482: Circle.138
+    4300484: Circle.157
+    4300486: Plane.013
+    4300488: Plane.015
+    10800000: Spot
+    10800002: Spot.001
+    10800004: Spot.002
+    10800006: Spot.003
+    10800008: Spot.004
+    10800010: Spot.005
+    10800012: Spot.006
+    10800014: Spot.007
+    10800016: Spot.008
+    10800018: Spot.009
+    10800020: Spot.010
+    10800022: Spot.011
+    10800024: Sun
+    10800026: Sun.001
+    10800028: Sun.002
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

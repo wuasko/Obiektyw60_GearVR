@@ -1,0 +1,223 @@
+fileFormatVersion: 2
+guid: a3a447a33a4530542afe918001b61091
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: "modu\u0142.box"
+    100002: "modu\u0142.box.002"
+    100004: "modu\u0142.box.003"
+    100006: "modu\u0142.box.004"
+    100008: "modu\u0142.box.005"
+    100010: "modu\u0142.box.006"
+    100012: "modu\u0142.box.007"
+    100014: "modu\u0142.box.009"
+    100016: "modu\u0142.box.010"
+    100018: "modu\u0142.box.011"
+    100020: "modu\u0142.box.012"
+    100022: "modu\u0142.box.013"
+    100024: "modu\u0142.box.014"
+    100026: "modu\u0142.box.015"
+    100028: "modu\u0142.panel \u015Bcienny.001"
+    100030: "modu\u0142.szuflada. d\xF3\u0142"
+    100032: "modu\u0142.szuflada. d\xF3\u0142.002"
+    100034: "modu\u0142.szuflada. d\xF3\u0142.006"
+    100036: "modu\u0142.szuflada. d\xF3\u0142.009"
+    100038: "modu\u0142.szuflada. d\xF3\u0142.010"
+    100040: "modu\u0142.szuflada. d\xF3\u0142.013"
+    100042: "modu\u0142.szuflada. d\xF3\u0142.014"
+    100044: "modu\u0142.szuflada. d\xF3\u0142.015"
+    100046: "modu\u0142.szuflada.gora"
+    100048: "modu\u0142.szuflada.gora.002"
+    100050: "modu\u0142.szuflada.gora.006"
+    100052: "modu\u0142.szuflada.gora.009"
+    100054: "modu\u0142.szuflada.gora.010"
+    100056: "modu\u0142.szuflada.gora.013"
+    100058: "modu\u0142.szuflada.gora.014"
+    100060: "modu\u0142.szuflada.gora.015"
+    100062: //RootNode
+    400000: "modu\u0142.box"
+    400002: "modu\u0142.box.002"
+    400004: "modu\u0142.box.003"
+    400006: "modu\u0142.box.004"
+    400008: "modu\u0142.box.005"
+    400010: "modu\u0142.box.006"
+    400012: "modu\u0142.box.007"
+    400014: "modu\u0142.box.009"
+    400016: "modu\u0142.box.010"
+    400018: "modu\u0142.box.011"
+    400020: "modu\u0142.box.012"
+    400022: "modu\u0142.box.013"
+    400024: "modu\u0142.box.014"
+    400026: "modu\u0142.box.015"
+    400028: "modu\u0142.panel \u015Bcienny.001"
+    400030: "modu\u0142.szuflada. d\xF3\u0142"
+    400032: "modu\u0142.szuflada. d\xF3\u0142.002"
+    400034: "modu\u0142.szuflada. d\xF3\u0142.006"
+    400036: "modu\u0142.szuflada. d\xF3\u0142.009"
+    400038: "modu\u0142.szuflada. d\xF3\u0142.010"
+    400040: "modu\u0142.szuflada. d\xF3\u0142.013"
+    400042: "modu\u0142.szuflada. d\xF3\u0142.014"
+    400044: "modu\u0142.szuflada. d\xF3\u0142.015"
+    400046: "modu\u0142.szuflada.gora"
+    400048: "modu\u0142.szuflada.gora.002"
+    400050: "modu\u0142.szuflada.gora.006"
+    400052: "modu\u0142.szuflada.gora.009"
+    400054: "modu\u0142.szuflada.gora.010"
+    400056: "modu\u0142.szuflada.gora.013"
+    400058: "modu\u0142.szuflada.gora.014"
+    400060: "modu\u0142.szuflada.gora.015"
+    400062: //RootNode
+    2100000: drzwi
+    2100002: swiatlo.000
+    2100004: Material
+    2100006: SAL2.002
+    2100008: SAL1.001
+    2300000: "modu\u0142.box"
+    2300002: "modu\u0142.box.002"
+    2300004: "modu\u0142.box.003"
+    2300006: "modu\u0142.box.004"
+    2300008: "modu\u0142.box.005"
+    2300010: "modu\u0142.box.006"
+    2300012: "modu\u0142.box.007"
+    2300014: "modu\u0142.box.009"
+    2300016: "modu\u0142.box.010"
+    2300018: "modu\u0142.box.011"
+    2300020: "modu\u0142.box.012"
+    2300022: "modu\u0142.box.013"
+    2300024: "modu\u0142.box.014"
+    2300026: "modu\u0142.box.015"
+    2300028: "modu\u0142.panel \u015Bcienny.001"
+    2300030: "modu\u0142.szuflada. d\xF3\u0142"
+    2300032: "modu\u0142.szuflada. d\xF3\u0142.002"
+    2300034: "modu\u0142.szuflada. d\xF3\u0142.006"
+    2300036: "modu\u0142.szuflada. d\xF3\u0142.009"
+    2300038: "modu\u0142.szuflada. d\xF3\u0142.010"
+    2300040: "modu\u0142.szuflada. d\xF3\u0142.013"
+    2300042: "modu\u0142.szuflada. d\xF3\u0142.014"
+    2300044: "modu\u0142.szuflada. d\xF3\u0142.015"
+    2300046: "modu\u0142.szuflada.gora"
+    2300048: "modu\u0142.szuflada.gora.002"
+    2300050: "modu\u0142.szuflada.gora.006"
+    2300052: "modu\u0142.szuflada.gora.009"
+    2300054: "modu\u0142.szuflada.gora.010"
+    2300056: "modu\u0142.szuflada.gora.013"
+    2300058: "modu\u0142.szuflada.gora.014"
+    2300060: "modu\u0142.szuflada.gora.015"
+    3300000: "modu\u0142.box"
+    3300002: "modu\u0142.box.002"
+    3300004: "modu\u0142.box.003"
+    3300006: "modu\u0142.box.004"
+    3300008: "modu\u0142.box.005"
+    3300010: "modu\u0142.box.006"
+    3300012: "modu\u0142.box.007"
+    3300014: "modu\u0142.box.009"
+    3300016: "modu\u0142.box.010"
+    3300018: "modu\u0142.box.011"
+    3300020: "modu\u0142.box.012"
+    3300022: "modu\u0142.box.013"
+    3300024: "modu\u0142.box.014"
+    3300026: "modu\u0142.box.015"
+    3300028: "modu\u0142.panel \u015Bcienny.001"
+    3300030: "modu\u0142.szuflada. d\xF3\u0142"
+    3300032: "modu\u0142.szuflada. d\xF3\u0142.002"
+    3300034: "modu\u0142.szuflada. d\xF3\u0142.006"
+    3300036: "modu\u0142.szuflada. d\xF3\u0142.009"
+    3300038: "modu\u0142.szuflada. d\xF3\u0142.010"
+    3300040: "modu\u0142.szuflada. d\xF3\u0142.013"
+    3300042: "modu\u0142.szuflada. d\xF3\u0142.014"
+    3300044: "modu\u0142.szuflada. d\xF3\u0142.015"
+    3300046: "modu\u0142.szuflada.gora"
+    3300048: "modu\u0142.szuflada.gora.002"
+    3300050: "modu\u0142.szuflada.gora.006"
+    3300052: "modu\u0142.szuflada.gora.009"
+    3300054: "modu\u0142.szuflada.gora.010"
+    3300056: "modu\u0142.szuflada.gora.013"
+    3300058: "modu\u0142.szuflada.gora.014"
+    3300060: "modu\u0142.szuflada.gora.015"
+    4300000: "modu\u0142.box.015"
+    4300002: "modu\u0142.szuflada. d\xF3\u0142.015"
+    4300004: "modu\u0142.szuflada.gora.015"
+    4300006: "modu\u0142.panel \u015Bcienny.001"
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

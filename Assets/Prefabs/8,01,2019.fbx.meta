@@ -1,0 +1,3354 @@
+fileFormatVersion: 2
+guid: 18a794da35528374f9143bce4f5d7a09
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: $$$DUMMY.basket
+    100002: $$$DUMMY.Group010.000
+    100004: $$$DUMMY.Group010.001
+    100006: 19 Kitchen
+    100008: 1:1:6
+    100010: 1:1:6.001
+    100012: 1:2:6
+    100014: 1:3:6
+    100016: 1:4:6
+    100018: '20 Tivoli '
+    100020: 2:1
+    100022: 2:1.004
+    100024: 2:1.005
+    100026: 2:10:6
+    100028: 2:1:6
+    100030: 2:1:6.001
+    100032: 2:2:6
+    100034: 2:2:6.001
+    100036: 2:3:6
+    100038: 2:4:6
+    100040: 2:5:6
+    100042: 2:6:6
+    100044: 2:7:6
+    100046: 2:8:6
+    100048: 3:1:6
+    100050: 3:2:6
+    100052: 3:4:6
+    100054: apple01
+    100056: apple02
+    100058: apple03
+    100060: apple04
+    100062: apple05
+    100064: apple06
+    100066: apple07
+    100068: apple08
+    100070: apple09
+    100072: apple10
+    100074: apple11
+    100076: apple_003
+    100078: apple_004
+    100080: apple_005
+    100082: apple_006
+    100084: apple_007
+    100086: apple_008
+    100088: apple_009
+    100090: apple_01
+    100092: apple_010
+    100094: apple_011
+    100096: apple_012
+    100098: apple_013
+    100100: apple_014
+    100102: apple_015
+    100104: apple_016
+    100106: apple_017
+    100108: apple_018
+    100110: apple_019
+    100112: apple_02
+    100114: apple_020
+    100116: apple_023
+    100118: arch49_031
+    100120: arch49_032
+    100122: armrest.000
+    100124: armrest.001
+    100126: armrest.004
+    100128: backrest_2.000
+    100130: backrest_2.001
+    100132: backrest_2.004
+    100134: balkon
+    100136: "blat sp\xF3d.001"
+    100138: bogre1
+    100140: bogre2
+    100142: bogre3
+    100144: bogre4
+    100146: bogres tal
+    100148: bottom
+    100150: Camera
+    100152: Camera.001
+    100154: Camera.002
+    100156: Camera.003
+    100158: Camera.004
+    100160: Camera.005
+    100162: Camera.006
+    100164: Camera.007
+    100166: Camera.008
+    100168: Cube
+    100170: Cube.001
+    100172: Cube.002
+    100174: Cube.003
+    100176: Cube.004
+    100178: Cube.005
+    100180: Cube.006
+    100182: Cube.007
+    100184: Cube.008
+    100186: Cube.009
+    100188: Cube.010
+    100190: Cube.011
+    100192: cup
+    100194: Cylinder.000
+    100196: Cylinder.001
+    100198: Cylinder.002
+    100200: Cylinder.003
+    100202: Cylinder.004
+    100204: Cylinder.005
+    100206: Cylinder.006
+    100208: Cylinder.007
+    100210: Cylinder.008
+    100212: Cylinder.009
+    100214: Cylinder.010
+    100216: Cylinder.011
+    100218: Cylinder04
+    100220: Cylinder04.001
+    100222: Cylinder04.002
+    100224: drzwi.006
+    100226: drzwi.007
+    100228: drzwi.008
+    100230: drzwi.009
+    100232: drzwi.010
+    100234: drzwi.011
+    100236: etykieta.001
+    100238: etykieta.002
+    100240: fruktovnic
+    100242: kubek
+    100244: kuchenka.001
+    100246: kuchnia blat
+    100248: kuchnia cargo
+    100250: kuchnia cargo szuflada
+    100252: kuchnia cargo.001
+    100254: kuchnia cargo.002
+    100256: kuchnia cargo.003
+    100258: kuchnia deska do krojenia
+    100260: "kuchnia g\xF3rny zabudowa"
+    100262: kuchnia kubeczki
+    100264: kuchnia laterze
+    100266: "kuchnia szafka g\xF3ra.001"
+    100268: "kuchnia szafka g\xF3ra.002"
+    100270: "kuchnia szafka g\xF3rna.001"
+    100272: "kuchnia szafka wysz\u0105ca.001"
+    100274: kuchnia szafka zabudowa.001
+    100276: kuchnia szklanki
+    100278: kuchnia szklanki.001
+    100280: kuchnia szuflada.002
+    100282: kuchnia talerze
+    100284: kuchnia talerze.001
+    100286: kuchnia talerze.002
+    100288: kuchnia talerze.003
+    100290: kuchnia talerzee
+    100292: kuchnia talerzyki
+    100294: kuchnia talerzyki.001
+    100296: kuchnia talerzyki.002
+    100298: "kuchnia w\u0142\u0105cznik \u015Bwiat\u0142a"
+    100300: "kuchnia zafka g\xF3ra.003"
+    100302: kuchnia zuflada.003
+    100304: "kuchnia \u0142y\u017Cki na blat"
+    100306: //RootNode
+    100308: Layer_11zb
+    100310: leg
+    100312: legs.000
+    100314: legs.001
+    100316: legs.005
+    100318: legs.007
+    100320: legs.010
+    100322: Line016.001
+    100324: Line016.002
+    100326: Line018.001
+    100328: Line018.002
+    100330: me1.002
+    100332: me1.003
+    100334: me1.004
+    100336: me1.1
+    100338: me10.10
+    100340: me11.11
+    100342: me12.12
+    100344: me13.13
+    100346: me14.14
+    100348: me15.15
+    100350: me16.16
+    100352: me2.001
+    100354: me2.003
+    100356: me2.2
+    100358: me3.002
+    100360: me3.3
+    100362: me4.4
+    100364: me6.6
+    100366: me8.8
+    100368: me9.9
+    100370: "modu\u0142.box"
+    100372: "modu\u0142.box.002"
+    100374: "modu\u0142.box.004"
+    100376: "modu\u0142.box.005"
+    100378: "modu\u0142.box.006"
+    100380: "modu\u0142.box.007"
+    100382: "modu\u0142.box.009"
+    100384: "modu\u0142.box.011"
+    100386: "modu\u0142.box.012"
+    100388: "modu\u0142.box.013"
+    100390: "modu\u0142.box.014"
+    100392: "modu\u0142.box.015"
+    100394: "modu\u0142.panel \u015Bcienny.001"
+    100396: "modu\u0142.szuflada. d\xF3\u0142"
+    100398: "modu\u0142.szuflada. d\xF3\u0142.002"
+    100400: "modu\u0142.szuflada. d\xF3\u0142.006"
+    100402: "modu\u0142.szuflada. d\xF3\u0142.009"
+    100404: "modu\u0142.szuflada. d\xF3\u0142.013"
+    100406: "modu\u0142.szuflada. d\xF3\u0142.014"
+    100408: "modu\u0142.szuflada. d\xF3\u0142.015"
+    100410: "modu\u0142.szuflada.gora"
+    100412: "modu\u0142.szuflada.gora.002"
+    100414: "modu\u0142.szuflada.gora.006"
+    100416: "modu\u0142.szuflada.gora.009"
+    100418: "modu\u0142.szuflada.gora.013"
+    100420: "modu\u0142.szuflada.gora.014"
+    100422: "modu\u0142.szuflada.gora.015"
+    100424: Obj_000049
+    100426: Obj_000049.001
+    100428: Obj_000049.002
+    100430: Object001.001
+    100432: Object001.002
+    100434: Object01
+    100436: Object01.001
+    100438: Object01.002
+    100440: Object02
+    100442: pads
+    100444: panel.003
+    100446: panel.004
+    100448: panel.005
+    100450: piekarnik w sordku.001
+    100452: piekarnik.001
+    100454: Plane
+    100456: Plane.000
+    100458: Plane.001
+    100460: Plane.002
+    100462: Plane.003
+    100464: Plane.004
+    100466: Plane.005
+    100468: Plane.006
+    100470: Plane.007
+    100472: Plane.008
+    100474: Plane.009
+    100476: Plane.010
+    100478: Plane.011
+    100480: Plane.012
+    100482: Plane.013
+    100484: Plane.014
+    100486: Plane.015
+    100488: Plane.016
+    100490: Plane.017
+    100492: Plane.018
+    100494: Plane.019
+    100496: Plane.020
+    100498: Plane.021
+    100500: Plane.022
+    100502: Plane.023
+    100504: Plane.024
+    100506: Plane.025
+    100508: Plane.026
+    100510: Plane.027
+    100512: Plane.028
+    100514: Plane.029
+    100516: Plane.030
+    100518: Plane.031
+    100520: Plane.032
+    100522: Plane.033
+    100524: Plane.034
+    100526: Plane.053
+    100528: plate_04
+    100530: plate_04.001
+    100532: plate_04.002
+    100534: podajnik papieru
+    100536: "pod\u0142oga prysznic"
+    100538: "pod\u0142oga sypialnia"
+    100540: "pod\u0142oga \u0142azienka"
+    100542: "pod\u0142oga.kuchnia"
+    100544: "pod\u0142oga.salon"
+    100546: portfel saszetka
+    100548: "przedpok\xF3j szafa"
+    100550: "przepok\xF3j drzwi"
+    100552: "p\xF3\u0142ka"
+    100554: "p\xF3\u0142ka.001"
+    100556: "p\xF3\u0142ka.002"
+    100558: "p\xF3\u0142ka.003"
+    100560: "p\xF3\u0142ka.004"
+    100562: "p\xF3\u0142ka.005"
+    100564: "p\xF3\u0142ka.006"
+    100566: "p\xF3\u0142ka.007"
+    100568: "p\xF3\u0142ka.008"
+    100570: "p\xF3\u0142ka.009"
+    100572: "p\xF3\u0142ka.010"
+    100574: radio
+    100576: salon alembik
+    100578: salon alembik.001
+    100580: salon alembik.002
+    100582: salon alembik.003
+    100584: salon alembik.004
+    100586: salon alembik.005
+    100588: salon alembik.006
+    100590: salon alembik.007
+    100592: salon alembik.008
+    100594: salon alembik.009
+    100596: salon alembik.010
+    100598: salon alembik.011
+    100600: salon alembik.012
+    100602: salon alembik.013
+    100604: salon alembik.014
+    100606: salon alembik.015
+    100608: salon alembik.016
+    100610: salon alembik.017
+    100612: salon alembik.018
+    100614: "salon alembikokr\u0105g\u0142y"
+    100616: "salon alembikokr\u0105g\u0142y.001"
+    100618: "salon alembikokr\u0105g\u0142y.002"
+    100620: "salon alembikokr\u0105g\u0142y.003"
+    100622: "salon alembikokr\u0105g\u0142y.004"
+    100624: "salon alembikokr\u0105g\u0142y.005"
+    100626: "salon alembikokr\u0105g\u0142y.006"
+    100628: "salon alembikokr\u0105g\u0142y.007"
+    100630: "salon fili\u017Canka"
+    100632: "salon jab\u0142ka w koszu"
+    100634: "salon krzes\u0142o.000"
+    100636: "salon krzes\u0142o.001"
+    100638: "salon krzes\u0142o.002"
+    100640: "salon ksi\u0105\u017Cki"
+    100642: "salon ksi\u0105\u017Cki.001"
+    100644: salon lampa
+    100646: "salon listwa zas\u0142ony"
+    100648: salon okna tarasowe
+    100650: salon okna tarasowe.004
+    100652: salon pawlacz.000
+    100654: salon pawlacz.001
+    100656: salon pawlacz.002
+    100658: "salon rega\u0142"
+    100660: salon sofa
+    100662: salon stoliczek
+    100664: "salon st\xF3\u0142 jadalny"
+    100666: salon szafka .000
+    100668: salon szafka .001
+    100670: salon szafka .002
+    100672: salon szafka .003
+    100674: salon szafka .004
+    100676: salon szafka .005
+    100678: salon szafka .006
+    100680: salon szafka .007
+    100682: salon szafka .008
+    100684: salon szafka .009
+    100686: salon szafka .010
+    100688: salon szafka .011
+    100690: salon szafka .012
+    100692: salon szafka .013
+    100694: salon szafka .014
+    100696: salon szafka .015
+    100698: salon szafka .016
+    100700: salon szafka .017
+    100702: salon szafka .018
+    100704: salon szafka .019
+    100706: salon szafka .020
+    100708: salon szafka .021
+    100710: salon szafka .022
+    100712: salon szafka .023
+    100714: salon szafka .024
+    100716: salon szafka .025
+    100718: salon szafka .026
+    100720: salon szafka .027
+    100722: salon szafka .028
+    100724: salon szafka .029
+    100726: salon szafka .030
+    100728: salon szafka .031
+    100730: salon szafka .032
+    100732: salon szafka .blat
+    100734: salon szafka .blat.001
+    100736: salon szafka .blat.002
+    100738: salon szafka .blat.003
+    100740: salon szafka .blat.005
+    100742: salon szafka .blat.006
+    100744: salon szafka .blat.007
+    100746: "salon szafka pod rega\u0142em"
+    100748: salon tv
+    100750: "salon w\u0142\u0105cznik \u015Bwiat\u0142\u0105"
+    100752: "salon zas\u0142ony"
+    100754: "salon zas\u0142ony.001"
+    100756: "salon, zas\u0142ona za \u0142\xF3zkiem"
+    100758: salon.biurko
+    100760: salon.sufit jadalnia
+    100762: "salon.sufit, k\u0105cik nad sof\u0105"
+    100764: salon.sufit. miejsce pracy
+    100766: salon.sufit.000
+    100768: salon.sufit.002
+    100770: salon.sufit.003
+    100772: salon.sufit.004
+    100774: salon.szafka.rtv
+    100776: sciany mieszkania
+    100778: sciany mieszkania.kuchnia
+    100780: sciany mieszkania.lazienka
+    100782: sciany mieszkania.lazienka.001
+    100784: sciany mieszkania.salon
+    100786: sciany mieszkania.sypialnia
+    100788: sciany mieszkania.sypialnia.001
+    100790: seat.000
+    100792: seat.001
+    100794: seat.004
+    100796: seat.005
+    100798: spodek
+    100800: sub01
+    100802: sub02
+    100804: sub02.002
+    100806: sub02.003
+    100808: sub02.004
+    100810: sub03
+    100812: sufit
+    100814: Sun
+    100816: support.000
+    100818: support.001
+    100820: support.005
+    100822: support.007
+    100824: support.008
+    100826: support.011
+    100828: sypialnia drzwi
+    100830: sypialnia drzwi.001
+    100832: sypialnia drzwi.002
+    100834: sypialnia drzwi.003
+    100836: sypialnia drzwi.004
+    100838: sypialnia drzwi.005
+    100840: sypialnia drzwi.006
+    100842: sypialnia drzwi.007
+    100844: sypialnia drzwi.008
+    100846: sypialnia komoda
+    100848: "sypialnia ksi\u0105\u017Cki"
+    100850: sypialnia leki btelka.000
+    100852: sypialnia leki btelka.001
+    100854: sypialnia okna tarasowe.002
+    100856: sypialnia szafa
+    100858: sypialnia szafa drzwi
+    100860: sypialnia szafa drzwi.001
+    100862: sypialnia szafka nocna
+    100864: "sypialnia w\u0142\u0105cznik \u015Bwiat\u0142a"
+    100866: "sypialnia zas\u0142ony"
+    100868: "sypialnia zas\u0142ony.001"
+    100870: "sypialnia zas\u0142ony.002"
+    100872: "sypialnia \u0142\xF3zko"
+    100874: sypialnia. sufit
+    100876: sypialnia. sufit.001
+    100878: "sypialnia.panel zas\u0142on"
+    100880: sypialniaokna tarasowe.001
+    100882: "szafa drzwi lewe g\xF3rne"
+    100884: "szafa drzwi lewe g\xF3rne.001"
+    100886: szafa drzwi prawe
+    100888: "szafa drzwi prawe.g\xF3rne"
+    100890: "szafa drzwi prawe.g\xF3rne.001"
+    100892: "szafa przedpok\xF3j.001"
+    100894: "szafka wisz\u0105ca.001"
+    100896: szklanka 0
+    100898: szklanka 0.001
+    100900: szklanka 1
+    100902: szklanka 1.001
+    100904: szklanka 2
+    100906: szklanka 2.001
+    100908: szklanka 3
+    100910: szklanka 3.001
+    100912: szklanka 4
+    100914: szklanka 4.001
+    100916: szklanka 5
+    100918: szklanka 5.001
+    100920: szlanka 04
+    100922: szlanka 04.001
+    100924: szuflada .001
+    100926: szuflada okno.001
+    100928: tabletop.002
+    100930: tabletop.003
+    100932: toothbrus2
+    100934: zlew.001
+    100936: "\u0142azienka  umywalka"
+    100938: "\u0142azienka drzwi"
+    100940: "\u0142azienka drzwi.001"
+    100942: "\u0142azienka krzese\u0142ko"
+    100944: "\u0142azienka krzese\u0142kopod prysznic"
+    100946: "\u0142azienka lustro"
+    100948: "\u0142azienka okna tarasowe.003"
+    100950: "\u0142azienka oparcie przy toalecie"
+    100952: "\u0142azienka pasta"
+    100954: "\u0142azienka prysznic pochwyty"
+    100956: "\u0142azienka r\u0119cznik"
+    100958: "\u0142azienka sufit \u015Bwiat\u0142o"
+    100960: "\u0142azienka szczoteczka"
+    100962: "\u0142azienka szczotka toaletowa"
+    100964: "\u0142azienka toilet"
+    100966: "\u0142azienka uchwyt boczny L"
+    100968: "\u0142azienka uchwyt pionowy"
+    400000: $$$DUMMY.basket
+    400002: $$$DUMMY.Group010.000
+    400004: $$$DUMMY.Group010.001
+    400006: 19 Kitchen
+    400008: 1:1:6
+    400010: 1:1:6.001
+    400012: 1:2:6
+    400014: 1:3:6
+    400016: 1:4:6
+    400018: '20 Tivoli '
+    400020: 2:1
+    400022: 2:1.004
+    400024: 2:1.005
+    400026: 2:10:6
+    400028: 2:1:6
+    400030: 2:1:6.001
+    400032: 2:2:6
+    400034: 2:2:6.001
+    400036: 2:3:6
+    400038: 2:4:6
+    400040: 2:5:6
+    400042: 2:6:6
+    400044: 2:7:6
+    400046: 2:8:6
+    400048: 3:1:6
+    400050: 3:2:6
+    400052: 3:4:6
+    400054: apple01
+    400056: apple02
+    400058: apple03
+    400060: apple04
+    400062: apple05
+    400064: apple06
+    400066: apple07
+    400068: apple08
+    400070: apple09
+    400072: apple10
+    400074: apple11
+    400076: apple_003
+    400078: apple_004
+    400080: apple_005
+    400082: apple_006
+    400084: apple_007
+    400086: apple_008
+    400088: apple_009
+    400090: apple_01
+    400092: apple_010
+    400094: apple_011
+    400096: apple_012
+    400098: apple_013
+    400100: apple_014
+    400102: apple_015
+    400104: apple_016
+    400106: apple_017
+    400108: apple_018
+    400110: apple_019
+    400112: apple_02
+    400114: apple_020
+    400116: apple_023
+    400118: arch49_031
+    400120: arch49_032
+    400122: armrest.000
+    400124: armrest.001
+    400126: armrest.004
+    400128: backrest_2.000
+    400130: backrest_2.001
+    400132: backrest_2.004
+    400134: balkon
+    400136: "blat sp\xF3d.001"
+    400138: bogre1
+    400140: bogre2
+    400142: bogre3
+    400144: bogre4
+    400146: bogres tal
+    400148: bottom
+    400150: Camera
+    400152: Camera.001
+    400154: Camera.002
+    400156: Camera.003
+    400158: Camera.004
+    400160: Camera.005
+    400162: Camera.006
+    400164: Camera.007
+    400166: Camera.008
+    400168: Cube
+    400170: Cube.001
+    400172: Cube.002
+    400174: Cube.003
+    400176: Cube.004
+    400178: Cube.005
+    400180: Cube.006
+    400182: Cube.007
+    400184: Cube.008
+    400186: Cube.009
+    400188: Cube.010
+    400190: Cube.011
+    400192: cup
+    400194: Cylinder.000
+    400196: Cylinder.001
+    400198: Cylinder.002
+    400200: Cylinder.003
+    400202: Cylinder.004
+    400204: Cylinder.005
+    400206: Cylinder.006
+    400208: Cylinder.007
+    400210: Cylinder.008
+    400212: Cylinder.009
+    400214: Cylinder.010
+    400216: Cylinder.011
+    400218: Cylinder04
+    400220: Cylinder04.001
+    400222: Cylinder04.002
+    400224: drzwi.006
+    400226: drzwi.007
+    400228: drzwi.008
+    400230: drzwi.009
+    400232: drzwi.010
+    400234: drzwi.011
+    400236: etykieta.001
+    400238: etykieta.002
+    400240: fruktovnic
+    400242: kubek
+    400244: kuchenka.001
+    400246: kuchnia blat
+    400248: kuchnia cargo
+    400250: kuchnia cargo szuflada
+    400252: kuchnia cargo.001
+    400254: kuchnia cargo.002
+    400256: kuchnia cargo.003
+    400258: kuchnia deska do krojenia
+    400260: "kuchnia g\xF3rny zabudowa"
+    400262: kuchnia kubeczki
+    400264: kuchnia laterze
+    400266: "kuchnia szafka g\xF3ra.001"
+    400268: "kuchnia szafka g\xF3ra.002"
+    400270: "kuchnia szafka g\xF3rna.001"
+    400272: "kuchnia szafka wysz\u0105ca.001"
+    400274: kuchnia szafka zabudowa.001
+    400276: kuchnia szklanki
+    400278: kuchnia szklanki.001
+    400280: kuchnia szuflada.002
+    400282: kuchnia talerze
+    400284: kuchnia talerze.001
+    400286: kuchnia talerze.002
+    400288: kuchnia talerze.003
+    400290: kuchnia talerzee
+    400292: kuchnia talerzyki
+    400294: kuchnia talerzyki.001
+    400296: kuchnia talerzyki.002
+    400298: "kuchnia w\u0142\u0105cznik \u015Bwiat\u0142a"
+    400300: "kuchnia zafka g\xF3ra.003"
+    400302: kuchnia zuflada.003
+    400304: "kuchnia \u0142y\u017Cki na blat"
+    400306: //RootNode
+    400308: Layer_11zb
+    400310: leg
+    400312: legs.000
+    400314: legs.001
+    400316: legs.005
+    400318: legs.007
+    400320: legs.010
+    400322: Line016.001
+    400324: Line016.002
+    400326: Line018.001
+    400328: Line018.002
+    400330: me1.002
+    400332: me1.003
+    400334: me1.004
+    400336: me1.1
+    400338: me10.10
+    400340: me11.11
+    400342: me12.12
+    400344: me13.13
+    400346: me14.14
+    400348: me15.15
+    400350: me16.16
+    400352: me2.001
+    400354: me2.003
+    400356: me2.2
+    400358: me3.002
+    400360: me3.3
+    400362: me4.4
+    400364: me6.6
+    400366: me8.8
+    400368: me9.9
+    400370: "modu\u0142.box"
+    400372: "modu\u0142.box.002"
+    400374: "modu\u0142.box.004"
+    400376: "modu\u0142.box.005"
+    400378: "modu\u0142.box.006"
+    400380: "modu\u0142.box.007"
+    400382: "modu\u0142.box.009"
+    400384: "modu\u0142.box.011"
+    400386: "modu\u0142.box.012"
+    400388: "modu\u0142.box.013"
+    400390: "modu\u0142.box.014"
+    400392: "modu\u0142.box.015"
+    400394: "modu\u0142.panel \u015Bcienny.001"
+    400396: "modu\u0142.szuflada. d\xF3\u0142"
+    400398: "modu\u0142.szuflada. d\xF3\u0142.002"
+    400400: "modu\u0142.szuflada. d\xF3\u0142.006"
+    400402: "modu\u0142.szuflada. d\xF3\u0142.009"
+    400404: "modu\u0142.szuflada. d\xF3\u0142.013"
+    400406: "modu\u0142.szuflada. d\xF3\u0142.014"
+    400408: "modu\u0142.szuflada. d\xF3\u0142.015"
+    400410: "modu\u0142.szuflada.gora"
+    400412: "modu\u0142.szuflada.gora.002"
+    400414: "modu\u0142.szuflada.gora.006"
+    400416: "modu\u0142.szuflada.gora.009"
+    400418: "modu\u0142.szuflada.gora.013"
+    400420: "modu\u0142.szuflada.gora.014"
+    400422: "modu\u0142.szuflada.gora.015"
+    400424: Obj_000049
+    400426: Obj_000049.001
+    400428: Obj_000049.002
+    400430: Object001.001
+    400432: Object001.002
+    400434: Object01
+    400436: Object01.001
+    400438: Object01.002
+    400440: Object02
+    400442: pads
+    400444: panel.003
+    400446: panel.004
+    400448: panel.005
+    400450: piekarnik w sordku.001
+    400452: piekarnik.001
+    400454: Plane
+    400456: Plane.000
+    400458: Plane.001
+    400460: Plane.002
+    400462: Plane.003
+    400464: Plane.004
+    400466: Plane.005
+    400468: Plane.006
+    400470: Plane.007
+    400472: Plane.008
+    400474: Plane.009
+    400476: Plane.010
+    400478: Plane.011
+    400480: Plane.012
+    400482: Plane.013
+    400484: Plane.014
+    400486: Plane.015
+    400488: Plane.016
+    400490: Plane.017
+    400492: Plane.018
+    400494: Plane.019
+    400496: Plane.020
+    400498: Plane.021
+    400500: Plane.022
+    400502: Plane.023
+    400504: Plane.024
+    400506: Plane.025
+    400508: Plane.026
+    400510: Plane.027
+    400512: Plane.028
+    400514: Plane.029
+    400516: Plane.030
+    400518: Plane.031
+    400520: Plane.032
+    400522: Plane.033
+    400524: Plane.034
+    400526: Plane.053
+    400528: plate_04
+    400530: plate_04.001
+    400532: plate_04.002
+    400534: podajnik papieru
+    400536: "pod\u0142oga prysznic"
+    400538: "pod\u0142oga sypialnia"
+    400540: "pod\u0142oga \u0142azienka"
+    400542: "pod\u0142oga.kuchnia"
+    400544: "pod\u0142oga.salon"
+    400546: portfel saszetka
+    400548: "przedpok\xF3j szafa"
+    400550: "przepok\xF3j drzwi"
+    400552: "p\xF3\u0142ka"
+    400554: "p\xF3\u0142ka.001"
+    400556: "p\xF3\u0142ka.002"
+    400558: "p\xF3\u0142ka.003"
+    400560: "p\xF3\u0142ka.004"
+    400562: "p\xF3\u0142ka.005"
+    400564: "p\xF3\u0142ka.006"
+    400566: "p\xF3\u0142ka.007"
+    400568: "p\xF3\u0142ka.008"
+    400570: "p\xF3\u0142ka.009"
+    400572: "p\xF3\u0142ka.010"
+    400574: radio
+    400576: salon alembik
+    400578: salon alembik.001
+    400580: salon alembik.002
+    400582: salon alembik.003
+    400584: salon alembik.004
+    400586: salon alembik.005
+    400588: salon alembik.006
+    400590: salon alembik.007
+    400592: salon alembik.008
+    400594: salon alembik.009
+    400596: salon alembik.010
+    400598: salon alembik.011
+    400600: salon alembik.012
+    400602: salon alembik.013
+    400604: salon alembik.014
+    400606: salon alembik.015
+    400608: salon alembik.016
+    400610: salon alembik.017
+    400612: salon alembik.018
+    400614: "salon alembikokr\u0105g\u0142y"
+    400616: "salon alembikokr\u0105g\u0142y.001"
+    400618: "salon alembikokr\u0105g\u0142y.002"
+    400620: "salon alembikokr\u0105g\u0142y.003"
+    400622: "salon alembikokr\u0105g\u0142y.004"
+    400624: "salon alembikokr\u0105g\u0142y.005"
+    400626: "salon alembikokr\u0105g\u0142y.006"
+    400628: "salon alembikokr\u0105g\u0142y.007"
+    400630: "salon fili\u017Canka"
+    400632: "salon jab\u0142ka w koszu"
+    400634: "salon krzes\u0142o.000"
+    400636: "salon krzes\u0142o.001"
+    400638: "salon krzes\u0142o.002"
+    400640: "salon ksi\u0105\u017Cki"
+    400642: "salon ksi\u0105\u017Cki.001"
+    400644: salon lampa
+    400646: "salon listwa zas\u0142ony"
+    400648: salon okna tarasowe
+    400650: salon okna tarasowe.004
+    400652: salon pawlacz.000
+    400654: salon pawlacz.001
+    400656: salon pawlacz.002
+    400658: "salon rega\u0142"
+    400660: salon sofa
+    400662: salon stoliczek
+    400664: "salon st\xF3\u0142 jadalny"
+    400666: salon szafka .000
+    400668: salon szafka .001
+    400670: salon szafka .002
+    400672: salon szafka .003
+    400674: salon szafka .004
+    400676: salon szafka .005
+    400678: salon szafka .006
+    400680: salon szafka .007
+    400682: salon szafka .008
+    400684: salon szafka .009
+    400686: salon szafka .010
+    400688: salon szafka .011
+    400690: salon szafka .012
+    400692: salon szafka .013
+    400694: salon szafka .014
+    400696: salon szafka .015
+    400698: salon szafka .016
+    400700: salon szafka .017
+    400702: salon szafka .018
+    400704: salon szafka .019
+    400706: salon szafka .020
+    400708: salon szafka .021
+    400710: salon szafka .022
+    400712: salon szafka .023
+    400714: salon szafka .024
+    400716: salon szafka .025
+    400718: salon szafka .026
+    400720: salon szafka .027
+    400722: salon szafka .028
+    400724: salon szafka .029
+    400726: salon szafka .030
+    400728: salon szafka .031
+    400730: salon szafka .032
+    400732: salon szafka .blat
+    400734: salon szafka .blat.001
+    400736: salon szafka .blat.002
+    400738: salon szafka .blat.003
+    400740: salon szafka .blat.005
+    400742: salon szafka .blat.006
+    400744: salon szafka .blat.007
+    400746: "salon szafka pod rega\u0142em"
+    400748: salon tv
+    400750: "salon w\u0142\u0105cznik \u015Bwiat\u0142\u0105"
+    400752: "salon zas\u0142ony"
+    400754: "salon zas\u0142ony.001"
+    400756: "salon, zas\u0142ona za \u0142\xF3zkiem"
+    400758: salon.biurko
+    400760: salon.sufit jadalnia
+    400762: "salon.sufit, k\u0105cik nad sof\u0105"
+    400764: salon.sufit. miejsce pracy
+    400766: salon.sufit.000
+    400768: salon.sufit.002
+    400770: salon.sufit.003
+    400772: salon.sufit.004
+    400774: salon.szafka.rtv
+    400776: sciany mieszkania
+    400778: sciany mieszkania.kuchnia
+    400780: sciany mieszkania.lazienka
+    400782: sciany mieszkania.lazienka.001
+    400784: sciany mieszkania.salon
+    400786: sciany mieszkania.sypialnia
+    400788: sciany mieszkania.sypialnia.001
+    400790: seat.000
+    400792: seat.001
+    400794: seat.004
+    400796: seat.005
+    400798: spodek
+    400800: sub01
+    400802: sub02
+    400804: sub02.002
+    400806: sub02.003
+    400808: sub02.004
+    400810: sub03
+    400812: sufit
+    400814: Sun
+    400816: support.000
+    400818: support.001
+    400820: support.005
+    400822: support.007
+    400824: support.008
+    400826: support.011
+    400828: sypialnia drzwi
+    400830: sypialnia drzwi.001
+    400832: sypialnia drzwi.002
+    400834: sypialnia drzwi.003
+    400836: sypialnia drzwi.004
+    400838: sypialnia drzwi.005
+    400840: sypialnia drzwi.006
+    400842: sypialnia drzwi.007
+    400844: sypialnia drzwi.008
+    400846: sypialnia komoda
+    400848: "sypialnia ksi\u0105\u017Cki"
+    400850: sypialnia leki btelka.000
+    400852: sypialnia leki btelka.001
+    400854: sypialnia okna tarasowe.002
+    400856: sypialnia szafa
+    400858: sypialnia szafa drzwi
+    400860: sypialnia szafa drzwi.001
+    400862: sypialnia szafka nocna
+    400864: "sypialnia w\u0142\u0105cznik \u015Bwiat\u0142a"
+    400866: "sypialnia zas\u0142ony"
+    400868: "sypialnia zas\u0142ony.001"
+    400870: "sypialnia zas\u0142ony.002"
+    400872: "sypialnia \u0142\xF3zko"
+    400874: sypialnia. sufit
+    400876: sypialnia. sufit.001
+    400878: "sypialnia.panel zas\u0142on"
+    400880: sypialniaokna tarasowe.001
+    400882: "szafa drzwi lewe g\xF3rne"
+    400884: "szafa drzwi lewe g\xF3rne.001"
+    400886: szafa drzwi prawe
+    400888: "szafa drzwi prawe.g\xF3rne"
+    400890: "szafa drzwi prawe.g\xF3rne.001"
+    400892: "szafa przedpok\xF3j.001"
+    400894: "szafka wisz\u0105ca.001"
+    400896: szklanka 0
+    400898: szklanka 0.001
+    400900: szklanka 1
+    400902: szklanka 1.001
+    400904: szklanka 2
+    400906: szklanka 2.001
+    400908: szklanka 3
+    400910: szklanka 3.001
+    400912: szklanka 4
+    400914: szklanka 4.001
+    400916: szklanka 5
+    400918: szklanka 5.001
+    400920: szlanka 04
+    400922: szlanka 04.001
+    400924: szuflada .001
+    400926: szuflada okno.001
+    400928: tabletop.002
+    400930: tabletop.003
+    400932: toothbrus2
+    400934: zlew.001
+    400936: "\u0142azienka  umywalka"
+    400938: "\u0142azienka drzwi"
+    400940: "\u0142azienka drzwi.001"
+    400942: "\u0142azienka krzese\u0142ko"
+    400944: "\u0142azienka krzese\u0142kopod prysznic"
+    400946: "\u0142azienka lustro"
+    400948: "\u0142azienka okna tarasowe.003"
+    400950: "\u0142azienka oparcie przy toalecie"
+    400952: "\u0142azienka pasta"
+    400954: "\u0142azienka prysznic pochwyty"
+    400956: "\u0142azienka r\u0119cznik"
+    400958: "\u0142azienka sufit \u015Bwiat\u0142o"
+    400960: "\u0142azienka szczoteczka"
+    400962: "\u0142azienka szczotka toaletowa"
+    400964: "\u0142azienka toilet"
+    400966: "\u0142azienka uchwyt boczny L"
+    400968: "\u0142azienka uchwyt pionowy"
+    2000000: Camera
+    2000002: Camera.001
+    2000004: Camera.002
+    2000006: Camera.003
+    2000008: Camera.004
+    2000010: Camera.005
+    2000012: Camera.006
+    2000014: Camera.007
+    2000016: Camera.008
+    2100000: glass popelov
+    2100002: Leather LS
+    2100004: red.001
+    2100006: broun
+    2100008: st_wood.001
+    2100010: green.001
+    2100012: porcelana
+    2100014: No Name
+    2100016: 3iLleather White
+    2100018: w black
+    2100020: Black_Plastic_Ma
+    2100022: kuchnia.b
+    2100024: w  birch.002
+    2100026: 'Material #189'
+    2100028: 'Material #190'
+    2100030: 'Material #191'
+    2100032: _______________.001
+    2100034: 'Material #193'
+    2100036: 'Material #194'
+    2100038: 'Material #195'
+    2100040: 'Material #196'
+    2100042: 'Material #197'
+    2100044: 'Material #198'
+    2100046: 'Material #13'
+    2100048: 'Material #199'
+    2100050: 18 - Default
+    2100052: 12 - Default
+    2100054: Standard_5
+    2100056: wire_115115115
+    2100058: 'Material #41.001'
+    2100060: glass.001
+    2100062: 'Material #43.001'
+    2100064: Ceramiks y 2.001
+    2100066: 'Material #55.001'
+    2100068: cup
+    2100070: 'Material #67'
+    2100072: 'Material #68'
+    2100074: chrom5
+    2100076: Vlevet
+    2100078: Kruzki
+    2100080: green
+    2100082: standart metal.001
+    2100084: sufit
+    2100086: drewno
+    2100088: "\u0142azienka lustro"
+    2100090: "\u0142azienka \u015Bwiat\u0142o"
+    2100092: GDLM2_M_39357554.001
+    2100094: "\u0142azienka kolor"
+    2100096: "\u0142azienka porcelanka"
+    2100098: "\u0142azienka uchwyty"
+    2100100: ma2.001
+    2100102: ma1.002
+    2100104: obicie
+    2100106: metal.001
+    2100108: "zas\u0142ony"
+    2100110: "salon swiat\u0142o zimne"
+    2100112: "salon \u015Bwiat\u0142o ciep\u0142e"
+    2100114: salon lampa klosz
+    2100116: "szk\u0142o"
+    2100118: tv
+    2100120: kolor
+    2100122: Glass.003
+    2100124: Glass.002
+    2100126: Misc-Water.004
+    2100128: Glass.001
+    2100130: Glass
+    2100132: Misc-Water.003
+    2100134: books 1
+    2100136: cover 1-2
+    2100138: cover 1
+    2100140: Material
+    2100142: Glass.004
+    2100144: "\u015Bciany salon i przedpok\xF3j"
+    2100146: salon szafka rtv
+    2100148: mat48.000
+    2100150: sypialnia sufit gwiazdy
+    2100152: "swiat\u0142o sypialnia"
+    2100154: wood solid.019
+    2100156: ma1
+    2100158: mat48.001
+    2100160: "swiat\u0142o sypialnia zas\u0142ony"
+    2100162: balkon panele
+    2100164: "pod\u0142oga balkon"
+    2100166: "\u015Bciana ca\u0142o\u015B\u0107"
+    2100168: "pod\u0142oga \u0142azienka prysznic"
+    2100170: "pod\u0142oga \u0142azienka"
+    2100172: "pod\u0142oga sypialnia"
+    2100174: "pod\u0142aga kuchnia"
+    2100176: "pod\u0142oga salon"
+    2100178: "\u015Bciana sypialnia"
+    2100180: "\u015Bciany \u0142azienka"
+    2100182: "\u015Bciany sypialnia okno"
+    2100184: "\u015Bciany kuchnia"
+    2100186: drzwi uchwyty
+    2100188: mat48.002
+    2100190: books 1.001
+    2100192: cover 1-2.001
+    2100194: cover 1.001
+    2100196: side.001
+    2100198: Ceramiks y 2.002
+    2100200: 'Material #55.002'
+    2100202: 'Material #41.002'
+    2100204: 'Material #43.002'
+    2100206: glass.002
+    2100208: kuchnia.sz1.002
+    2100210: kuchnia.sz2.002
+    2100212: kuchnia.b.002
+    2300000: 19 Kitchen
+    2300002: 1:1:6
+    2300004: 1:1:6.001
+    2300006: 1:2:6
+    2300008: 1:3:6
+    2300010: 1:4:6
+    2300012: '20 Tivoli '
+    2300014: 2:1
+    2300016: 2:1.004
+    2300018: 2:1.005
+    2300020: 2:10:6
+    2300022: 2:1:6
+    2300024: 2:1:6.001
+    2300026: 2:2:6
+    2300028: 2:2:6.001
+    2300030: 2:3:6
+    2300032: 2:4:6
+    2300034: 2:5:6
+    2300036: 2:6:6
+    2300038: 2:7:6
+    2300040: 2:8:6
+    2300042: 3:1:6
+    2300044: 3:2:6
+    2300046: 3:4:6
+    2300048: apple01
+    2300050: apple02
+    2300052: apple03
+    2300054: apple04
+    2300056: apple05
+    2300058: apple06
+    2300060: apple07
+    2300062: apple08
+    2300064: apple09
+    2300066: apple10
+    2300068: apple11
+    2300070: apple_003
+    2300072: apple_004
+    2300074: apple_005
+    2300076: apple_006
+    2300078: apple_007
+    2300080: apple_008
+    2300082: apple_009
+    2300084: apple_01
+    2300086: apple_010
+    2300088: apple_011
+    2300090: apple_012
+    2300092: apple_013
+    2300094: apple_014
+    2300096: apple_015
+    2300098: apple_016
+    2300100: apple_017
+    2300102: apple_018
+    2300104: apple_019
+    2300106: apple_02
+    2300108: apple_020
+    2300110: apple_023
+    2300112: arch49_031
+    2300114: arch49_032
+    2300116: armrest.000
+    2300118: armrest.001
+    2300120: armrest.004
+    2300122: backrest_2.000
+    2300124: backrest_2.001
+    2300126: backrest_2.004
+    2300128: "blat sp\xF3d.001"
+    2300130: bogre1
+    2300132: bogre2
+    2300134: bogre3
+    2300136: bogre4
+    2300138: bogres tal
+    2300140: bottom
+    2300142: Cube
+    2300144: Cube.001
+    2300146: Cube.002
+    2300148: Cube.003
+    2300150: Cube.004
+    2300152: Cube.005
+    2300154: Cube.006
+    2300156: Cube.007
+    2300158: Cube.008
+    2300160: Cube.009
+    2300162: Cube.010
+    2300164: Cube.011
+    2300166: cup
+    2300168: Cylinder.000
+    2300170: Cylinder.001
+    2300172: Cylinder.002
+    2300174: Cylinder.003
+    2300176: Cylinder.004
+    2300178: Cylinder.005
+    2300180: Cylinder.006
+    2300182: Cylinder.007
+    2300184: Cylinder.008
+    2300186: Cylinder.009
+    2300188: Cylinder.010
+    2300190: Cylinder.011
+    2300192: Cylinder04
+    2300194: Cylinder04.001
+    2300196: Cylinder04.002
+    2300198: drzwi.006
+    2300200: drzwi.007
+    2300202: drzwi.008
+    2300204: drzwi.009
+    2300206: drzwi.010
+    2300208: drzwi.011
+    2300210: etykieta.001
+    2300212: etykieta.002
+    2300214: fruktovnic
+    2300216: kubek
+    2300218: kuchenka.001
+    2300220: kuchnia blat
+    2300222: kuchnia cargo
+    2300224: kuchnia cargo szuflada
+    2300226: kuchnia cargo.001
+    2300228: kuchnia cargo.002
+    2300230: kuchnia cargo.003
+    2300232: kuchnia deska do krojenia
+    2300234: "kuchnia g\xF3rny zabudowa"
+    2300236: kuchnia laterze
+    2300238: "kuchnia szafka g\xF3ra.001"
+    2300240: "kuchnia szafka g\xF3ra.002"
+    2300242: "kuchnia szafka g\xF3rna.001"
+    2300244: "kuchnia szafka wysz\u0105ca.001"
+    2300246: kuchnia szafka zabudowa.001
+    2300248: kuchnia szuflada.002
+    2300250: kuchnia talerze
+    2300252: kuchnia talerze.001
+    2300254: kuchnia talerze.002
+    2300256: "kuchnia w\u0142\u0105cznik \u015Bwiat\u0142a"
+    2300258: "kuchnia zafka g\xF3ra.003"
+    2300260: kuchnia zuflada.003
+    2300262: Layer_11zb
+    2300264: leg
+    2300266: legs.000
+    2300268: legs.001
+    2300270: legs.005
+    2300272: legs.007
+    2300274: legs.010
+    2300276: Line016.001
+    2300278: Line016.002
+    2300280: Line018.001
+    2300282: Line018.002
+    2300284: me1.002
+    2300286: me1.003
+    2300288: me1.004
+    2300290: me1.1
+    2300292: me10.10
+    2300294: me11.11
+    2300296: me12.12
+    2300298: me13.13
+    2300300: me14.14
+    2300302: me15.15
+    2300304: me16.16
+    2300306: me2.001
+    2300308: me2.003
+    2300310: me2.2
+    2300312: me3.002
+    2300314: me3.3
+    2300316: me4.4
+    2300318: me6.6
+    2300320: me8.8
+    2300322: me9.9
+    2300324: "modu\u0142.box"
+    2300326: "modu\u0142.box.002"
+    2300328: "modu\u0142.box.004"
+    2300330: "modu\u0142.box.005"
+    2300332: "modu\u0142.box.006"
+    2300334: "modu\u0142.box.007"
+    2300336: "modu\u0142.box.009"
+    2300338: "modu\u0142.box.011"
+    2300340: "modu\u0142.box.012"
+    2300342: "modu\u0142.box.013"
+    2300344: "modu\u0142.box.014"
+    2300346: "modu\u0142.box.015"
+    2300348: "modu\u0142.panel \u015Bcienny.001"
+    2300350: "modu\u0142.szuflada. d\xF3\u0142"
+    2300352: "modu\u0142.szuflada. d\xF3\u0142.002"
+    2300354: "modu\u0142.szuflada. d\xF3\u0142.006"
+    2300356: "modu\u0142.szuflada. d\xF3\u0142.009"
+    2300358: "modu\u0142.szuflada. d\xF3\u0142.013"
+    2300360: "modu\u0142.szuflada. d\xF3\u0142.014"
+    2300362: "modu\u0142.szuflada. d\xF3\u0142.015"
+    2300364: "modu\u0142.szuflada.gora"
+    2300366: "modu\u0142.szuflada.gora.002"
+    2300368: "modu\u0142.szuflada.gora.006"
+    2300370: "modu\u0142.szuflada.gora.009"
+    2300372: "modu\u0142.szuflada.gora.013"
+    2300374: "modu\u0142.szuflada.gora.014"
+    2300376: "modu\u0142.szuflada.gora.015"
+    2300378: Obj_000049
+    2300380: Obj_000049.001
+    2300382: Obj_000049.002
+    2300384: Object001.001
+    2300386: Object001.002
+    2300388: Object01
+    2300390: Object01.001
+    2300392: Object01.002
+    2300394: Object02
+    2300396: pads
+    2300398: panel.003
+    2300400: panel.004
+    2300402: panel.005
+    2300404: piekarnik w sordku.001
+    2300406: piekarnik.001
+    2300408: Plane
+    2300410: Plane.000
+    2300412: Plane.001
+    2300414: Plane.002
+    2300416: Plane.003
+    2300418: Plane.004
+    2300420: Plane.005
+    2300422: Plane.006
+    2300424: Plane.007
+    2300426: Plane.008
+    2300428: Plane.009
+    2300430: Plane.010
+    2300432: Plane.011
+    2300434: Plane.012
+    2300436: Plane.013
+    2300438: Plane.014
+    2300440: Plane.015
+    2300442: Plane.016
+    2300444: Plane.017
+    2300446: Plane.018
+    2300448: Plane.019
+    2300450: Plane.020
+    2300452: Plane.021
+    2300454: Plane.022
+    2300456: Plane.023
+    2300458: Plane.024
+    2300460: Plane.025
+    2300462: Plane.026
+    2300464: Plane.027
+    2300466: Plane.028
+    2300468: Plane.029
+    2300470: Plane.030
+    2300472: Plane.031
+    2300474: Plane.032
+    2300476: Plane.033
+    2300478: Plane.034
+    2300480: Plane.053
+    2300482: plate_04
+    2300484: plate_04.001
+    2300486: plate_04.002
+    2300488: podajnik papieru
+    2300490: "pod\u0142oga prysznic"
+    2300492: "pod\u0142oga sypialnia"
+    2300494: "pod\u0142oga \u0142azienka"
+    2300496: "pod\u0142oga.kuchnia"
+    2300498: "pod\u0142oga.salon"
+    2300500: portfel saszetka
+    2300502: "przepok\xF3j drzwi"
+    2300504: "p\xF3\u0142ka"
+    2300506: "p\xF3\u0142ka.001"
+    2300508: "p\xF3\u0142ka.002"
+    2300510: "p\xF3\u0142ka.003"
+    2300512: "p\xF3\u0142ka.004"
+    2300514: "p\xF3\u0142ka.005"
+    2300516: "p\xF3\u0142ka.006"
+    2300518: "p\xF3\u0142ka.007"
+    2300520: "p\xF3\u0142ka.008"
+    2300522: "p\xF3\u0142ka.009"
+    2300524: "p\xF3\u0142ka.010"
+    2300526: salon alembik
+    2300528: salon alembik.001
+    2300530: salon alembik.002
+    2300532: salon alembik.003
+    2300534: salon alembik.004
+    2300536: salon alembik.005
+    2300538: salon alembik.006
+    2300540: salon alembik.007
+    2300542: salon alembik.008
+    2300544: salon alembik.009
+    2300546: salon alembik.010
+    2300548: salon alembik.011
+    2300550: salon alembik.012
+    2300552: salon alembik.013
+    2300554: salon alembik.014
+    2300556: salon alembik.015
+    2300558: salon alembik.016
+    2300560: salon alembik.017
+    2300562: salon alembik.018
+    2300564: "salon alembikokr\u0105g\u0142y"
+    2300566: "salon alembikokr\u0105g\u0142y.001"
+    2300568: "salon alembikokr\u0105g\u0142y.002"
+    2300570: "salon alembikokr\u0105g\u0142y.003"
+    2300572: "salon alembikokr\u0105g\u0142y.004"
+    2300574: "salon alembikokr\u0105g\u0142y.005"
+    2300576: "salon alembikokr\u0105g\u0142y.006"
+    2300578: "salon alembikokr\u0105g\u0142y.007"
+    2300580: "salon ksi\u0105\u017Cki"
+    2300582: "salon ksi\u0105\u017Cki.001"
+    2300584: salon lampa
+    2300586: "salon listwa zas\u0142ony"
+    2300588: salon okna tarasowe
+    2300590: salon okna tarasowe.004
+    2300592: salon szafka .000
+    2300594: salon szafka .001
+    2300596: salon szafka .002
+    2300598: salon szafka .003
+    2300600: salon szafka .004
+    2300602: salon szafka .005
+    2300604: salon szafka .006
+    2300606: salon szafka .007
+    2300608: salon szafka .008
+    2300610: salon szafka .009
+    2300612: salon szafka .010
+    2300614: salon szafka .011
+    2300616: salon szafka .012
+    2300618: salon szafka .013
+    2300620: salon szafka .014
+    2300622: salon szafka .015
+    2300624: salon szafka .016
+    2300626: salon szafka .017
+    2300628: salon szafka .018
+    2300630: salon szafka .019
+    2300632: salon szafka .020
+    2300634: salon szafka .021
+    2300636: salon szafka .022
+    2300638: salon szafka .023
+    2300640: salon szafka .024
+    2300642: salon szafka .025
+    2300644: salon szafka .026
+    2300646: salon szafka .027
+    2300648: salon szafka .028
+    2300650: salon szafka .029
+    2300652: salon szafka .030
+    2300654: salon szafka .031
+    2300656: salon szafka .032
+    2300658: salon szafka .blat
+    2300660: salon szafka .blat.001
+    2300662: salon szafka .blat.002
+    2300664: salon szafka .blat.003
+    2300666: salon szafka .blat.005
+    2300668: salon szafka .blat.006
+    2300670: salon szafka .blat.007
+    2300672: "salon szafka pod rega\u0142em"
+    2300674: salon tv
+    2300676: "salon w\u0142\u0105cznik \u015Bwiat\u0142\u0105"
+    2300678: "salon zas\u0142ony"
+    2300680: "salon zas\u0142ony.001"
+    2300682: "salon, zas\u0142ona za \u0142\xF3zkiem"
+    2300684: salon.biurko
+    2300686: salon.sufit jadalnia
+    2300688: "salon.sufit, k\u0105cik nad sof\u0105"
+    2300690: salon.sufit. miejsce pracy
+    2300692: salon.sufit.000
+    2300694: salon.sufit.002
+    2300696: salon.sufit.003
+    2300698: salon.sufit.004
+    2300700: sciany mieszkania
+    2300702: sciany mieszkania.kuchnia
+    2300704: sciany mieszkania.lazienka
+    2300706: sciany mieszkania.lazienka.001
+    2300708: sciany mieszkania.salon
+    2300710: sciany mieszkania.sypialnia
+    2300712: sciany mieszkania.sypialnia.001
+    2300714: seat.000
+    2300716: seat.001
+    2300718: seat.004
+    2300720: seat.005
+    2300722: spodek
+    2300724: sub01
+    2300726: sub02
+    2300728: sub02.002
+    2300730: sub02.003
+    2300732: sub02.004
+    2300734: sub03
+    2300736: sufit
+    2300738: support.000
+    2300740: support.001
+    2300742: support.005
+    2300744: support.007
+    2300746: support.008
+    2300748: support.011
+    2300750: sypialnia drzwi
+    2300752: sypialnia drzwi.001
+    2300754: sypialnia drzwi.002
+    2300756: sypialnia drzwi.003
+    2300758: sypialnia drzwi.004
+    2300760: sypialnia drzwi.005
+    2300762: sypialnia drzwi.006
+    2300764: sypialnia drzwi.007
+    2300766: sypialnia drzwi.008
+    2300768: "sypialnia ksi\u0105\u017Cki"
+    2300770: sypialnia okna tarasowe.002
+    2300772: sypialnia szafa
+    2300774: sypialnia szafa drzwi
+    2300776: sypialnia szafa drzwi.001
+    2300778: "sypialnia w\u0142\u0105cznik \u015Bwiat\u0142a"
+    2300780: "sypialnia zas\u0142ony"
+    2300782: "sypialnia zas\u0142ony.001"
+    2300784: "sypialnia zas\u0142ony.002"
+    2300786: "sypialnia \u0142\xF3zko"
+    2300788: sypialnia. sufit
+    2300790: sypialnia. sufit.001
+    2300792: "sypialnia.panel zas\u0142on"
+    2300794: sypialniaokna tarasowe.001
+    2300796: "szafa drzwi lewe g\xF3rne"
+    2300798: "szafa drzwi lewe g\xF3rne.001"
+    2300800: szafa drzwi prawe
+    2300802: "szafa drzwi prawe.g\xF3rne"
+    2300804: "szafa drzwi prawe.g\xF3rne.001"
+    2300806: "szafa przedpok\xF3j.001"
+    2300808: "szafka wisz\u0105ca.001"
+    2300810: szklanka 0
+    2300812: szklanka 0.001
+    2300814: szklanka 1
+    2300816: szklanka 1.001
+    2300818: szklanka 2
+    2300820: szklanka 2.001
+    2300822: szklanka 3
+    2300824: szklanka 3.001
+    2300826: szklanka 4
+    2300828: szklanka 4.001
+    2300830: szklanka 5
+    2300832: szklanka 5.001
+    2300834: szlanka 04
+    2300836: szlanka 04.001
+    2300838: szuflada .001
+    2300840: szuflada okno.001
+    2300842: tabletop.002
+    2300844: tabletop.003
+    2300846: toothbrus2
+    2300848: zlew.001
+    2300850: "\u0142azienka  umywalka"
+    2300852: "\u0142azienka drzwi"
+    2300854: "\u0142azienka drzwi.001"
+    2300856: "\u0142azienka krzese\u0142ko"
+    2300858: "\u0142azienka krzese\u0142kopod prysznic"
+    2300860: "\u0142azienka lustro"
+    2300862: "\u0142azienka okna tarasowe.003"
+    2300864: "\u0142azienka oparcie przy toalecie"
+    2300866: "\u0142azienka pasta"
+    2300868: "\u0142azienka prysznic pochwyty"
+    2300870: "\u0142azienka r\u0119cznik"
+    2300872: "\u0142azienka sufit \u015Bwiat\u0142o"
+    2300874: "\u0142azienka szczotka toaletowa"
+    2300876: "\u0142azienka toilet"
+    2300878: "\u0142azienka uchwyt boczny L"
+    2300880: "\u0142azienka uchwyt pionowy"
+    3300000: 19 Kitchen
+    3300002: 1:1:6
+    3300004: 1:1:6.001
+    3300006: 1:2:6
+    3300008: 1:3:6
+    3300010: 1:4:6
+    3300012: '20 Tivoli '
+    3300014: 2:1
+    3300016: 2:1.004
+    3300018: 2:1.005
+    3300020: 2:10:6
+    3300022: 2:1:6
+    3300024: 2:1:6.001
+    3300026: 2:2:6
+    3300028: 2:2:6.001
+    3300030: 2:3:6
+    3300032: 2:4:6
+    3300034: 2:5:6
+    3300036: 2:6:6
+    3300038: 2:7:6
+    3300040: 2:8:6
+    3300042: 3:1:6
+    3300044: 3:2:6
+    3300046: 3:4:6
+    3300048: apple01
+    3300050: apple02
+    3300052: apple03
+    3300054: apple04
+    3300056: apple05
+    3300058: apple06
+    3300060: apple07
+    3300062: apple08
+    3300064: apple09
+    3300066: apple10
+    3300068: apple11
+    3300070: apple_003
+    3300072: apple_004
+    3300074: apple_005
+    3300076: apple_006
+    3300078: apple_007
+    3300080: apple_008
+    3300082: apple_009
+    3300084: apple_01
+    3300086: apple_010
+    3300088: apple_011
+    3300090: apple_012
+    3300092: apple_013
+    3300094: apple_014
+    3300096: apple_015
+    3300098: apple_016
+    3300100: apple_017
+    3300102: apple_018
+    3300104: apple_019
+    3300106: apple_02
+    3300108: apple_020
+    3300110: apple_023
+    3300112: arch49_031
+    3300114: arch49_032
+    3300116: armrest.000
+    3300118: armrest.001
+    3300120: armrest.004
+    3300122: backrest_2.000
+    3300124: backrest_2.001
+    3300126: backrest_2.004
+    3300128: "blat sp\xF3d.001"
+    3300130: bogre1
+    3300132: bogre2
+    3300134: bogre3
+    3300136: bogre4
+    3300138: bogres tal
+    3300140: bottom
+    3300142: Cube
+    3300144: Cube.001
+    3300146: Cube.002
+    3300148: Cube.003
+    3300150: Cube.004
+    3300152: Cube.005
+    3300154: Cube.006
+    3300156: Cube.007
+    3300158: Cube.008
+    3300160: Cube.009
+    3300162: Cube.010
+    3300164: Cube.011
+    3300166: cup
+    3300168: Cylinder.000
+    3300170: Cylinder.001
+    3300172: Cylinder.002
+    3300174: Cylinder.003
+    3300176: Cylinder.004
+    3300178: Cylinder.005
+    3300180: Cylinder.006
+    3300182: Cylinder.007
+    3300184: Cylinder.008
+    3300186: Cylinder.009
+    3300188: Cylinder.010
+    3300190: Cylinder.011
+    3300192: Cylinder04
+    3300194: Cylinder04.001
+    3300196: Cylinder04.002
+    3300198: drzwi.006
+    3300200: drzwi.007
+    3300202: drzwi.008
+    3300204: drzwi.009
+    3300206: drzwi.010
+    3300208: drzwi.011
+    3300210: etykieta.001
+    3300212: etykieta.002
+    3300214: fruktovnic
+    3300216: kubek
+    3300218: kuchenka.001
+    3300220: kuchnia blat
+    3300222: kuchnia cargo
+    3300224: kuchnia cargo szuflada
+    3300226: kuchnia cargo.001
+    3300228: kuchnia cargo.002
+    3300230: kuchnia cargo.003
+    3300232: kuchnia deska do krojenia
+    3300234: "kuchnia g\xF3rny zabudowa"
+    3300236: kuchnia laterze
+    3300238: "kuchnia szafka g\xF3ra.001"
+    3300240: "kuchnia szafka g\xF3ra.002"
+    3300242: "kuchnia szafka g\xF3rna.001"
+    3300244: "kuchnia szafka wysz\u0105ca.001"
+    3300246: kuchnia szafka zabudowa.001
+    3300248: kuchnia szuflada.002
+    3300250: kuchnia talerze
+    3300252: kuchnia talerze.001
+    3300254: kuchnia talerze.002
+    3300256: "kuchnia w\u0142\u0105cznik \u015Bwiat\u0142a"
+    3300258: "kuchnia zafka g\xF3ra.003"
+    3300260: kuchnia zuflada.003
+    3300262: Layer_11zb
+    3300264: leg
+    3300266: legs.000
+    3300268: legs.001
+    3300270: legs.005
+    3300272: legs.007
+    3300274: legs.010
+    3300276: Line016.001
+    3300278: Line016.002
+    3300280: Line018.001
+    3300282: Line018.002
+    3300284: me1.002
+    3300286: me1.003
+    3300288: me1.004
+    3300290: me1.1
+    3300292: me10.10
+    3300294: me11.11
+    3300296: me12.12
+    3300298: me13.13
+    3300300: me14.14
+    3300302: me15.15
+    3300304: me16.16
+    3300306: me2.001
+    3300308: me2.003
+    3300310: me2.2
+    3300312: me3.002
+    3300314: me3.3
+    3300316: me4.4
+    3300318: me6.6
+    3300320: me8.8
+    3300322: me9.9
+    3300324: "modu\u0142.box"
+    3300326: "modu\u0142.box.002"
+    3300328: "modu\u0142.box.004"
+    3300330: "modu\u0142.box.005"
+    3300332: "modu\u0142.box.006"
+    3300334: "modu\u0142.box.007"
+    3300336: "modu\u0142.box.009"
+    3300338: "modu\u0142.box.011"
+    3300340: "modu\u0142.box.012"
+    3300342: "modu\u0142.box.013"
+    3300344: "modu\u0142.box.014"
+    3300346: "modu\u0142.box.015"
+    3300348: "modu\u0142.panel \u015Bcienny.001"
+    3300350: "modu\u0142.szuflada. d\xF3\u0142"
+    3300352: "modu\u0142.szuflada. d\xF3\u0142.002"
+    3300354: "modu\u0142.szuflada. d\xF3\u0142.006"
+    3300356: "modu\u0142.szuflada. d\xF3\u0142.009"
+    3300358: "modu\u0142.szuflada. d\xF3\u0142.013"
+    3300360: "modu\u0142.szuflada. d\xF3\u0142.014"
+    3300362: "modu\u0142.szuflada. d\xF3\u0142.015"
+    3300364: "modu\u0142.szuflada.gora"
+    3300366: "modu\u0142.szuflada.gora.002"
+    3300368: "modu\u0142.szuflada.gora.006"
+    3300370: "modu\u0142.szuflada.gora.009"
+    3300372: "modu\u0142.szuflada.gora.013"
+    3300374: "modu\u0142.szuflada.gora.014"
+    3300376: "modu\u0142.szuflada.gora.015"
+    3300378: Obj_000049
+    3300380: Obj_000049.001
+    3300382: Obj_000049.002
+    3300384: Object001.001
+    3300386: Object001.002
+    3300388: Object01
+    3300390: Object01.001
+    3300392: Object01.002
+    3300394: Object02
+    3300396: pads
+    3300398: panel.003
+    3300400: panel.004
+    3300402: panel.005
+    3300404: piekarnik w sordku.001
+    3300406: piekarnik.001
+    3300408: Plane
+    3300410: Plane.000
+    3300412: Plane.001
+    3300414: Plane.002
+    3300416: Plane.003
+    3300418: Plane.004
+    3300420: Plane.005
+    3300422: Plane.006
+    3300424: Plane.007
+    3300426: Plane.008
+    3300428: Plane.009
+    3300430: Plane.010
+    3300432: Plane.011
+    3300434: Plane.012
+    3300436: Plane.013
+    3300438: Plane.014
+    3300440: Plane.015
+    3300442: Plane.016
+    3300444: Plane.017
+    3300446: Plane.018
+    3300448: Plane.019
+    3300450: Plane.020
+    3300452: Plane.021
+    3300454: Plane.022
+    3300456: Plane.023
+    3300458: Plane.024
+    3300460: Plane.025
+    3300462: Plane.026
+    3300464: Plane.027
+    3300466: Plane.028
+    3300468: Plane.029
+    3300470: Plane.030
+    3300472: Plane.031
+    3300474: Plane.032
+    3300476: Plane.033
+    3300478: Plane.034
+    3300480: Plane.053
+    3300482: plate_04
+    3300484: plate_04.001
+    3300486: plate_04.002
+    3300488: podajnik papieru
+    3300490: "pod\u0142oga prysznic"
+    3300492: "pod\u0142oga sypialnia"
+    3300494: "pod\u0142oga \u0142azienka"
+    3300496: "pod\u0142oga.kuchnia"
+    3300498: "pod\u0142oga.salon"
+    3300500: portfel saszetka
+    3300502: "przepok\xF3j drzwi"
+    3300504: "p\xF3\u0142ka"
+    3300506: "p\xF3\u0142ka.001"
+    3300508: "p\xF3\u0142ka.002"
+    3300510: "p\xF3\u0142ka.003"
+    3300512: "p\xF3\u0142ka.004"
+    3300514: "p\xF3\u0142ka.005"
+    3300516: "p\xF3\u0142ka.006"
+    3300518: "p\xF3\u0142ka.007"
+    3300520: "p\xF3\u0142ka.008"
+    3300522: "p\xF3\u0142ka.009"
+    3300524: "p\xF3\u0142ka.010"
+    3300526: salon alembik
+    3300528: salon alembik.001
+    3300530: salon alembik.002
+    3300532: salon alembik.003
+    3300534: salon alembik.004
+    3300536: salon alembik.005
+    3300538: salon alembik.006
+    3300540: salon alembik.007
+    3300542: salon alembik.008
+    3300544: salon alembik.009
+    3300546: salon alembik.010
+    3300548: salon alembik.011
+    3300550: salon alembik.012
+    3300552: salon alembik.013
+    3300554: salon alembik.014
+    3300556: salon alembik.015
+    3300558: salon alembik.016
+    3300560: salon alembik.017
+    3300562: salon alembik.018
+    3300564: "salon alembikokr\u0105g\u0142y"
+    3300566: "salon alembikokr\u0105g\u0142y.001"
+    3300568: "salon alembikokr\u0105g\u0142y.002"
+    3300570: "salon alembikokr\u0105g\u0142y.003"
+    3300572: "salon alembikokr\u0105g\u0142y.004"
+    3300574: "salon alembikokr\u0105g\u0142y.005"
+    3300576: "salon alembikokr\u0105g\u0142y.006"
+    3300578: "salon alembikokr\u0105g\u0142y.007"
+    3300580: "salon ksi\u0105\u017Cki"
+    3300582: "salon ksi\u0105\u017Cki.001"
+    3300584: salon lampa
+    3300586: "salon listwa zas\u0142ony"
+    3300588: salon okna tarasowe
+    3300590: salon okna tarasowe.004
+    3300592: salon szafka .000
+    3300594: salon szafka .001
+    3300596: salon szafka .002
+    3300598: salon szafka .003
+    3300600: salon szafka .004
+    3300602: salon szafka .005
+    3300604: salon szafka .006
+    3300606: salon szafka .007
+    3300608: salon szafka .008
+    3300610: salon szafka .009
+    3300612: salon szafka .010
+    3300614: salon szafka .011
+    3300616: salon szafka .012
+    3300618: salon szafka .013
+    3300620: salon szafka .014
+    3300622: salon szafka .015
+    3300624: salon szafka .016
+    3300626: salon szafka .017
+    3300628: salon szafka .018
+    3300630: salon szafka .019
+    3300632: salon szafka .020
+    3300634: salon szafka .021
+    3300636: salon szafka .022
+    3300638: salon szafka .023
+    3300640: salon szafka .024
+    3300642: salon szafka .025
+    3300644: salon szafka .026
+    3300646: salon szafka .027
+    3300648: salon szafka .028
+    3300650: salon szafka .029
+    3300652: salon szafka .030
+    3300654: salon szafka .031
+    3300656: salon szafka .032
+    3300658: salon szafka .blat
+    3300660: salon szafka .blat.001
+    3300662: salon szafka .blat.002
+    3300664: salon szafka .blat.003
+    3300666: salon szafka .blat.005
+    3300668: salon szafka .blat.006
+    3300670: salon szafka .blat.007
+    3300672: "salon szafka pod rega\u0142em"
+    3300674: salon tv
+    3300676: "salon w\u0142\u0105cznik \u015Bwiat\u0142\u0105"
+    3300678: "salon zas\u0142ony"
+    3300680: "salon zas\u0142ony.001"
+    3300682: "salon, zas\u0142ona za \u0142\xF3zkiem"
+    3300684: salon.biurko
+    3300686: salon.sufit jadalnia
+    3300688: "salon.sufit, k\u0105cik nad sof\u0105"
+    3300690: salon.sufit. miejsce pracy
+    3300692: salon.sufit.000
+    3300694: salon.sufit.002
+    3300696: salon.sufit.003
+    3300698: salon.sufit.004
+    3300700: sciany mieszkania
+    3300702: sciany mieszkania.kuchnia
+    3300704: sciany mieszkania.lazienka
+    3300706: sciany mieszkania.lazienka.001
+    3300708: sciany mieszkania.salon
+    3300710: sciany mieszkania.sypialnia
+    3300712: sciany mieszkania.sypialnia.001
+    3300714: seat.000
+    3300716: seat.001
+    3300718: seat.004
+    3300720: seat.005
+    3300722: spodek
+    3300724: sub01
+    3300726: sub02
+    3300728: sub02.002
+    3300730: sub02.003
+    3300732: sub02.004
+    3300734: sub03
+    3300736: sufit
+    3300738: support.000
+    3300740: support.001
+    3300742: support.005
+    3300744: support.007
+    3300746: support.008
+    3300748: support.011
+    3300750: sypialnia drzwi
+    3300752: sypialnia drzwi.001
+    3300754: sypialnia drzwi.002
+    3300756: sypialnia drzwi.003
+    3300758: sypialnia drzwi.004
+    3300760: sypialnia drzwi.005
+    3300762: sypialnia drzwi.006
+    3300764: sypialnia drzwi.007
+    3300766: sypialnia drzwi.008
+    3300768: "sypialnia ksi\u0105\u017Cki"
+    3300770: sypialnia okna tarasowe.002
+    3300772: sypialnia szafa
+    3300774: sypialnia szafa drzwi
+    3300776: sypialnia szafa drzwi.001
+    3300778: "sypialnia w\u0142\u0105cznik \u015Bwiat\u0142a"
+    3300780: "sypialnia zas\u0142ony"
+    3300782: "sypialnia zas\u0142ony.001"
+    3300784: "sypialnia zas\u0142ony.002"
+    3300786: "sypialnia \u0142\xF3zko"
+    3300788: sypialnia. sufit
+    3300790: sypialnia. sufit.001
+    3300792: "sypialnia.panel zas\u0142on"
+    3300794: sypialniaokna tarasowe.001
+    3300796: "szafa drzwi lewe g\xF3rne"
+    3300798: "szafa drzwi lewe g\xF3rne.001"
+    3300800: szafa drzwi prawe
+    3300802: "szafa drzwi prawe.g\xF3rne"
+    3300804: "szafa drzwi prawe.g\xF3rne.001"
+    3300806: "szafa przedpok\xF3j.001"
+    3300808: "szafka wisz\u0105ca.001"
+    3300810: szklanka 0
+    3300812: szklanka 0.001
+    3300814: szklanka 1
+    3300816: szklanka 1.001
+    3300818: szklanka 2
+    3300820: szklanka 2.001
+    3300822: szklanka 3
+    3300824: szklanka 3.001
+    3300826: szklanka 4
+    3300828: szklanka 4.001
+    3300830: szklanka 5
+    3300832: szklanka 5.001
+    3300834: szlanka 04
+    3300836: szlanka 04.001
+    3300838: szuflada .001
+    3300840: szuflada okno.001
+    3300842: tabletop.002
+    3300844: tabletop.003
+    3300846: toothbrus2
+    3300848: zlew.001
+    3300850: "\u0142azienka  umywalka"
+    3300852: "\u0142azienka drzwi"
+    3300854: "\u0142azienka drzwi.001"
+    3300856: "\u0142azienka krzese\u0142ko"
+    3300858: "\u0142azienka krzese\u0142kopod prysznic"
+    3300860: "\u0142azienka lustro"
+    3300862: "\u0142azienka okna tarasowe.003"
+    3300864: "\u0142azienka oparcie przy toalecie"
+    3300866: "\u0142azienka pasta"
+    3300868: "\u0142azienka prysznic pochwyty"
+    3300870: "\u0142azienka r\u0119cznik"
+    3300872: "\u0142azienka sufit \u015Bwiat\u0142o"
+    3300874: "\u0142azienka szczotka toaletowa"
+    3300876: "\u0142azienka toilet"
+    3300878: "\u0142azienka uchwyt boczny L"
+    3300880: "\u0142azienka uchwyt pionowy"
+    4300000: szklanka 5.001
+    4300002: szklanka 4.001
+    4300004: szklanka 3.001
+    4300006: szklanka 2.001
+    4300008: szklanka 1.001
+    4300010: szlanka 04.001
+    4300012: szklanka 0.001
+    4300014: apple01
+    4300016: apple02
+    4300018: apple03
+    4300020: apple04
+    4300022: apple05
+    4300024: apple06
+    4300026: apple07
+    4300028: apple08
+    4300030: apple09
+    4300032: apple10
+    4300034: apple11
+    4300036: sub01
+    4300038: sub02
+    4300040: sub03
+    4300042: Cylinder04
+    4300044: Object01.002
+    4300046: Object01.001
+    4300048: 19 Kitchen
+    4300050: plate_04.002
+    4300052: bogres tal
+    4300054: bogre1
+    4300056: bogre4
+    4300058: bogre3
+    4300060: bogre2
+    4300062: kuchnia talerze
+    4300064: kuchnia deska do krojenia
+    4300066: Plane.053
+    4300068: '20 Tivoli '
+    4300070: Object01
+    4300072: Object02
+    4300074: portfel saszetka
+    4300076: arch49_031
+    4300078: arch49_032
+    4300080: etykieta.001
+    4300082: Line018.001
+    4300084: Line016.001
+    4300086: Object001.001
+    4300088: Cylinder04.001
+    4300090: cup
+    4300092: toothbrus2
+    4300094: "\u0142azienka pasta"
+    4300096: "\u0142azienka r\u0119cznik"
+    4300098: kubek
+    4300100: spodek
+    4300102: apple_01
+    4300104: apple_02
+    4300106: fruktovnic
+    4300108: apple_003
+    4300110: apple_004
+    4300112: apple_005
+    4300114: apple_006
+    4300116: apple_007
+    4300118: apple_008
+    4300120: apple_009
+    4300122: apple_010
+    4300124: apple_011
+    4300126: apple_012
+    4300128: apple_013
+    4300130: apple_014
+    4300132: apple_015
+    4300134: apple_016
+    4300136: apple_017
+    4300138: apple_018
+    4300140: apple_019
+    4300142: apple_020
+    4300144: apple_023
+    4300146: sypialnia szafa
+    4300148: sypialnia szafa drzwi.001
+    4300150: "szafa drzwi prawe.g\xF3rne.001"
+    4300152: "szafa drzwi lewe g\xF3rne.001"
+    4300154: "p\xF3\u0142ka.001"
+    4300156: "p\xF3\u0142ka.007"
+    4300158: "p\xF3\u0142ka.008"
+    4300160: "p\xF3\u0142ka.009"
+    4300162: "p\xF3\u0142ka.010"
+    4300164: "salon listwa zas\u0142ony"
+    4300166: salon szafka .032
+    4300168: salon szafka .031
+    4300170: Plane.034
+    4300172: salon szafka .030
+    4300174: "\u0142azienka lustro"
+    4300176: 1:1:6.001
+    4300178: 1:2:6
+    4300180: 1:3:6
+    4300182: 1:4:6
+    4300184: "\u0142azienka szczotka toaletowa"
+    4300186: 1:1:6
+    4300188: "\u0142azienka prysznic pochwyty"
+    4300190: 2:1:6
+    4300192: 2:2:6
+    4300194: 2:3:6
+    4300196: 2:4:6
+    4300198: 2:5:6
+    4300200: 2:6:6
+    4300202: 2:7:6
+    4300204: 2:8:6
+    4300206: 2:10:6
+    4300208: "\u0142azienka  umywalka"
+    4300210: "\u0142azienka uchwyt boczny L"
+    4300212: me1.003
+    4300214: me2.003
+    4300216: me3.002
+    4300218: "\u0142azienka uchwyt pionowy"
+    4300220: podajnik papieru
+    4300222: 2:1:6.001
+    4300224: 2:2:6.001
+    4300226: 3:1:6
+    4300228: 3:2:6
+    4300230: 3:4:6
+    4300232: "\u0142azienka oparcie przy toalecie"
+    4300234: me1.002
+    4300236: me2.001
+    4300238: "\u0142azienka toilet"
+    4300240: me1.004
+    4300242: "\u0142azienka krzese\u0142ko"
+    4300244: me1.1
+    4300246: me2.2
+    4300248: me3.3
+    4300250: me4.4
+    4300252: me6.6
+    4300254: me8.8
+    4300256: me9.9
+    4300258: me10.10
+    4300260: me11.11
+    4300262: me12.12
+    4300264: me13.13
+    4300266: me14.14
+    4300268: me15.15
+    4300270: me16.16
+    4300272: "\u0142azienka krzese\u0142kopod prysznic"
+    4300274: "p\xF3\u0142ka"
+    4300276: "p\xF3\u0142ka.002"
+    4300278: "p\xF3\u0142ka.003"
+    4300280: "p\xF3\u0142ka.004"
+    4300282: "p\xF3\u0142ka.005"
+    4300284: szafa drzwi prawe
+    4300286: "p\xF3\u0142ka.006"
+    4300288: "szafa drzwi lewe g\xF3rne"
+    4300290: "szafa drzwi prawe.g\xF3rne"
+    4300292: "szafa przedpok\xF3j.001"
+    4300294: support.005
+    4300296: legs.005
+    4300298: seat.004
+    4300300: pads
+    4300302: support.007
+    4300304: tabletop.002
+    4300306: bottom
+    4300308: leg
+    4300310: "salon zas\u0142ony"
+    4300312: salon.sufit. miejsce pracy
+    4300314: salon.sufit.004
+    4300316: "salon.sufit, k\u0105cik nad sof\u0105"
+    4300318: salon.sufit.003
+    4300320: salon.sufit jadalnia
+    4300322: salon.sufit.002
+    4300324: salon lampa
+    4300326: salon okna tarasowe
+    4300328: armrest.001
+    4300330: backrest_2.001
+    4300332: legs.001
+    4300334: seat.001
+    4300336: support.001
+    4300338: tabletop.003
+    4300340: support.011
+    4300342: legs.010
+    4300344: salon.biurko
+    4300346: salon tv
+    4300348: "modu\u0142.box.015"
+    4300350: "modu\u0142.szuflada. d\xF3\u0142.015"
+    4300352: "modu\u0142.szuflada.gora.015"
+    4300354: "salon alembikokr\u0105g\u0142y.007"
+    4300356: salon alembik.013
+    4300358: 2:1.005
+    4300360: salon alembik.008
+    4300362: salon alembik.001
+    4300364: 2:1
+    4300366: "salon ksi\u0105\u017Cki"
+    4300368: Layer_11zb
+    4300370: "salon alembikokr\u0105g\u0142y.006"
+    4300372: "modu\u0142.panel \u015Bcienny.001"
+    4300374: "salon szafka pod rega\u0142em"
+    4300376: Plane
+    4300378: salon szafka .blat.003
+    4300380: salon szafka .002
+    4300382: salon szafka .020
+    4300384: salon szafka .blat.002
+    4300386: salon szafka .001
+    4300388: Obj_000049.001
+    4300390: Cube.007
+    4300392: Cylinder.003
+    4300394: salon szafka .018
+    4300396: salon szafka .000
+    4300398: Plane.021
+    4300400: sypialnia. sufit
+    4300402: sypialnia. sufit.001
+    4300404: salon szafka .blat.001
+    4300406: salon szafka .021
+    4300408: salon szafka .blat
+    4300410: salon szafka .016
+    4300412: Obj_000049
+    4300414: Cube
+    4300416: Cylinder.005
+    4300418: salon szafka .019
+    4300420: Plane.018
+    4300422: "sypialnia.panel zas\u0142on"
+    4300424: "salon, zas\u0142ona za \u0142\xF3zkiem"
+    4300426: "sypialnia \u0142\xF3zko"
+    4300428: sub02.002
+    4300430: sub02.003
+    4300432: sub02.004
+    4300434: "salon w\u0142\u0105cznik \u015Bwiat\u0142\u0105"
+    4300436: Plane.003
+    4300438: Plane.004
+    4300440: Plane.002
+    4300442: Plane.001
+    4300444: sypialnia drzwi
+    4300446: sypialnia drzwi.001
+    4300448: sypialnia drzwi.002
+    4300450: Plane.016
+    4300452: Plane.014
+    4300454: Plane.011
+    4300456: Plane.012
+    4300458: Plane.015
+    4300460: sciany mieszkania
+    4300462: sufit
+    4300464: "pod\u0142oga prysznic"
+    4300466: "pod\u0142oga \u0142azienka"
+    4300468: "pod\u0142oga sypialnia"
+    4300470: "pod\u0142oga.kuchnia"
+    4300472: "pod\u0142oga.salon"
+    4300474: sciany mieszkania.salon
+    4300476: sciany mieszkania.sypialnia
+    4300478: sciany mieszkania.lazienka
+    4300480: sciany mieszkania.lazienka.001
+    4300482: sciany mieszkania.sypialnia.001
+    4300484: sciany mieszkania.kuchnia
+    4300486: "\u0142azienka drzwi"
+    4300488: sypialnia drzwi.004
+    4300490: sypialnia drzwi.003
+    4300492: "\u0142azienka drzwi.001"
+    4300494: sypialnia drzwi.008
+    4300496: sypialnia drzwi.007
+    4300498: "przepok\xF3j drzwi"
+    4300500: sypialnia drzwi.006
+    4300502: sypialnia drzwi.005
+    4300504: "sypialnia w\u0142\u0105cznik \u015Bwiat\u0142a"
+    4300506: Plane.007
+    4300508: Plane.006
+    4300510: Plane.005
+    4300512: Plane.000
+    4300514: "kuchnia w\u0142\u0105cznik \u015Bwiat\u0142a"
+    4300516: Plane.013
+    4300518: Plane.010
+    4300520: Plane.009
+    4300522: Plane.008
+    4300524: "sypialnia zas\u0142ony"
+    4300526: "sypialnia zas\u0142ony.001"
+    4300528: "sypialnia zas\u0142ony.002"
+    4300530: salon szafka .blat.007
+    4300532: salon szafka .blat.006
+    4300534: salon szafka .012
+    4300536: salon szafka .011
+    4300538: salon szafka .010
+    4300540: salon szafka .009
+    4300542: salon szafka .008
+    4300544: Plane.028
+    4300546: Cube.011
+    4300548: Cylinder.011
+    4300550: Obj_000049.002
+    4300552: sypialniaokna tarasowe.001
+    4300554: sypialnia okna tarasowe.002
+    4300556: "\u0142azienka okna tarasowe.003"
+    4300558: salon okna tarasowe.004
+    4300560: "\u0142azienka sufit \u015Bwiat\u0142o"
+    4300562: salon.sufit.000
+    4300564: "sypialnia ksi\u0105\u017Cki"
+    4300566: Cylinder04.002
+    4300568: Object001.002
+    4300570: etykieta.002
+    4300572: Line016.002
+    4300574: Line018.002
+    4300576: kuchnia blat
+    4300578: "blat sp\xF3d.001"
+    4300580: kuchenka.001
+    4300582: szuflada .001
+    4300584: szuflada okno.001
+    4300586: zlew.001
+    4300588: kuchnia cargo.003
+    4300590: kuchnia cargo
+    4300592: kuchnia cargo szuflada
+    4300594: kuchnia cargo.002
+    4300596: kuchnia cargo.001
+    4300598: "kuchnia g\xF3rny zabudowa"
+    4300600: panel.005
+    4300602: panel.004
+    4300604: panel.003
+    4300606: piekarnik.001
+    4300608: piekarnik w sordku.001
+    4300610: "kuchnia szafka g\xF3ra.001"
+    4300612: "kuchnia zafka g\xF3ra.003"
+    4300614: "kuchnia szafka g\xF3ra.002"
+    4300616: "kuchnia szafka g\xF3rna.001"
+    4300618: "kuchnia szafka wysz\u0105ca.001"
+    4300620: drzwi.011
+    4300622: drzwi.010
+    4300624: drzwi.009
+    4300626: drzwi.008
+    4300628: drzwi.007
+    4300630: drzwi.006
+    4300632: "szafka wisz\u0105ca.001"
+    4300634: kuchnia szafka zabudowa.001
+    4300636: kuchnia zuflada.003
+    4300638: kuchnia szuflada.002
+    6400000: 19 Kitchen
+    6400002: 1:1:6
+    6400004: 1:1:6.001
+    6400006: 1:2:6
+    6400008: 1:3:6
+    6400010: 1:4:6
+    6400012: '20 Tivoli '
+    6400014: 2:1
+    6400016: 2:1.004
+    6400018: 2:1.005
+    6400020: 2:10:6
+    6400022: 2:1:6
+    6400024: 2:1:6.001
+    6400026: 2:2:6
+    6400028: 2:2:6.001
+    6400030: 2:3:6
+    6400032: 2:4:6
+    6400034: 2:5:6
+    6400036: 2:6:6
+    6400038: 2:7:6
+    6400040: 2:8:6
+    6400042: 3:1:6
+    6400044: 3:2:6
+    6400046: 3:4:6
+    6400048: apple01
+    6400050: apple02
+    6400052: apple03
+    6400054: apple04
+    6400056: apple05
+    6400058: apple06
+    6400060: apple07
+    6400062: apple08
+    6400064: apple09
+    6400066: apple10
+    6400068: apple11
+    6400070: apple_003
+    6400072: apple_004
+    6400074: apple_005
+    6400076: apple_006
+    6400078: apple_007
+    6400080: apple_008
+    6400082: apple_009
+    6400084: apple_01
+    6400086: apple_010
+    6400088: apple_011
+    6400090: apple_012
+    6400092: apple_013
+    6400094: apple_014
+    6400096: apple_015
+    6400098: apple_016
+    6400100: apple_017
+    6400102: apple_018
+    6400104: apple_019
+    6400106: apple_02
+    6400108: apple_020
+    6400110: apple_023
+    6400112: arch49_031
+    6400114: arch49_032
+    6400116: armrest.000
+    6400118: armrest.001
+    6400120: armrest.004
+    6400122: backrest_2.000
+    6400124: backrest_2.001
+    6400126: backrest_2.004
+    6400128: "blat sp\xF3d.001"
+    6400130: bogre1
+    6400132: bogre2
+    6400134: bogre3
+    6400136: bogre4
+    6400138: bogres tal
+    6400140: bottom
+    6400142: Cube
+    6400144: Cube.001
+    6400146: Cube.002
+    6400148: Cube.003
+    6400150: Cube.004
+    6400152: Cube.005
+    6400154: Cube.006
+    6400156: Cube.007
+    6400158: Cube.008
+    6400160: Cube.009
+    6400162: Cube.010
+    6400164: Cube.011
+    6400166: cup
+    6400168: Cylinder.000
+    6400170: Cylinder.001
+    6400172: Cylinder.002
+    6400174: Cylinder.003
+    6400176: Cylinder.004
+    6400178: Cylinder.005
+    6400180: Cylinder.006
+    6400182: Cylinder.007
+    6400184: Cylinder.008
+    6400186: Cylinder.009
+    6400188: Cylinder.010
+    6400190: Cylinder.011
+    6400192: Cylinder04
+    6400194: Cylinder04.001
+    6400196: Cylinder04.002
+    6400198: drzwi.006
+    6400200: drzwi.007
+    6400202: drzwi.008
+    6400204: drzwi.009
+    6400206: drzwi.010
+    6400208: drzwi.011
+    6400210: etykieta.001
+    6400212: etykieta.002
+    6400214: fruktovnic
+    6400216: kubek
+    6400218: kuchenka.001
+    6400220: kuchnia blat
+    6400222: kuchnia cargo
+    6400224: kuchnia cargo szuflada
+    6400226: kuchnia cargo.001
+    6400228: kuchnia cargo.002
+    6400230: kuchnia cargo.003
+    6400232: kuchnia deska do krojenia
+    6400234: "kuchnia g\xF3rny zabudowa"
+    6400236: kuchnia laterze
+    6400238: "kuchnia szafka g\xF3ra.001"
+    6400240: "kuchnia szafka g\xF3ra.002"
+    6400242: "kuchnia szafka g\xF3rna.001"
+    6400244: "kuchnia szafka wysz\u0105ca.001"
+    6400246: kuchnia szafka zabudowa.001
+    6400248: kuchnia szuflada.002
+    6400250: kuchnia talerze
+    6400252: kuchnia talerze.001
+    6400254: kuchnia talerze.002
+    6400256: "kuchnia w\u0142\u0105cznik \u015Bwiat\u0142a"
+    6400258: "kuchnia zafka g\xF3ra.003"
+    6400260: kuchnia zuflada.003
+    6400262: Layer_11zb
+    6400264: leg
+    6400266: legs.000
+    6400268: legs.001
+    6400270: legs.005
+    6400272: legs.007
+    6400274: legs.010
+    6400276: Line016.001
+    6400278: Line016.002
+    6400280: Line018.001
+    6400282: Line018.002
+    6400284: me1.002
+    6400286: me1.003
+    6400288: me1.004
+    6400290: me1.1
+    6400292: me10.10
+    6400294: me11.11
+    6400296: me12.12
+    6400298: me13.13
+    6400300: me14.14
+    6400302: me15.15
+    6400304: me16.16
+    6400306: me2.001
+    6400308: me2.003
+    6400310: me2.2
+    6400312: me3.002
+    6400314: me3.3
+    6400316: me4.4
+    6400318: me6.6
+    6400320: me8.8
+    6400322: me9.9
+    6400324: "modu\u0142.box"
+    6400326: "modu\u0142.box.002"
+    6400328: "modu\u0142.box.004"
+    6400330: "modu\u0142.box.005"
+    6400332: "modu\u0142.box.006"
+    6400334: "modu\u0142.box.007"
+    6400336: "modu\u0142.box.009"
+    6400338: "modu\u0142.box.011"
+    6400340: "modu\u0142.box.012"
+    6400342: "modu\u0142.box.013"
+    6400344: "modu\u0142.box.014"
+    6400346: "modu\u0142.box.015"
+    6400348: "modu\u0142.panel \u015Bcienny.001"
+    6400350: "modu\u0142.szuflada. d\xF3\u0142"
+    6400352: "modu\u0142.szuflada. d\xF3\u0142.002"
+    6400354: "modu\u0142.szuflada. d\xF3\u0142.006"
+    6400356: "modu\u0142.szuflada. d\xF3\u0142.009"
+    6400358: "modu\u0142.szuflada. d\xF3\u0142.013"
+    6400360: "modu\u0142.szuflada. d\xF3\u0142.014"
+    6400362: "modu\u0142.szuflada. d\xF3\u0142.015"
+    6400364: "modu\u0142.szuflada.gora"
+    6400366: "modu\u0142.szuflada.gora.002"
+    6400368: "modu\u0142.szuflada.gora.006"
+    6400370: "modu\u0142.szuflada.gora.009"
+    6400372: "modu\u0142.szuflada.gora.013"
+    6400374: "modu\u0142.szuflada.gora.014"
+    6400376: "modu\u0142.szuflada.gora.015"
+    6400378: Obj_000049
+    6400380: Obj_000049.001
+    6400382: Obj_000049.002
+    6400384: Object001.001
+    6400386: Object001.002
+    6400388: Object01
+    6400390: Object01.001
+    6400392: Object01.002
+    6400394: Object02
+    6400396: pads
+    6400398: panel.003
+    6400400: panel.004
+    6400402: panel.005
+    6400404: piekarnik w sordku.001
+    6400406: piekarnik.001
+    6400408: Plane
+    6400410: Plane.000
+    6400412: Plane.001
+    6400414: Plane.002
+    6400416: Plane.003
+    6400418: Plane.004
+    6400420: Plane.005
+    6400422: Plane.006
+    6400424: Plane.007
+    6400426: Plane.008
+    6400428: Plane.009
+    6400430: Plane.010
+    6400432: Plane.011
+    6400434: Plane.012
+    6400436: Plane.013
+    6400438: Plane.014
+    6400440: Plane.015
+    6400442: Plane.016
+    6400444: Plane.017
+    6400446: Plane.018
+    6400448: Plane.019
+    6400450: Plane.020
+    6400452: Plane.021
+    6400454: Plane.022
+    6400456: Plane.023
+    6400458: Plane.024
+    6400460: Plane.025
+    6400462: Plane.026
+    6400464: Plane.027
+    6400466: Plane.028
+    6400468: Plane.029
+    6400470: Plane.030
+    6400472: Plane.031
+    6400474: Plane.032
+    6400476: Plane.033
+    6400478: Plane.034
+    6400480: Plane.053
+    6400482: plate_04
+    6400484: plate_04.001
+    6400486: plate_04.002
+    6400488: podajnik papieru
+    6400490: "pod\u0142oga prysznic"
+    6400492: "pod\u0142oga sypialnia"
+    6400494: "pod\u0142oga \u0142azienka"
+    6400496: "pod\u0142oga.kuchnia"
+    6400498: "pod\u0142oga.salon"
+    6400500: portfel saszetka
+    6400502: "przepok\xF3j drzwi"
+    6400504: "p\xF3\u0142ka"
+    6400506: "p\xF3\u0142ka.001"
+    6400508: "p\xF3\u0142ka.002"
+    6400510: "p\xF3\u0142ka.003"
+    6400512: "p\xF3\u0142ka.004"
+    6400514: "p\xF3\u0142ka.005"
+    6400516: "p\xF3\u0142ka.006"
+    6400518: "p\xF3\u0142ka.007"
+    6400520: "p\xF3\u0142ka.008"
+    6400522: "p\xF3\u0142ka.009"
+    6400524: "p\xF3\u0142ka.010"
+    6400526: salon alembik
+    6400528: salon alembik.001
+    6400530: salon alembik.002
+    6400532: salon alembik.003
+    6400534: salon alembik.004
+    6400536: salon alembik.005
+    6400538: salon alembik.006
+    6400540: salon alembik.007
+    6400542: salon alembik.008
+    6400544: salon alembik.009
+    6400546: salon alembik.010
+    6400548: salon alembik.011
+    6400550: salon alembik.012
+    6400552: salon alembik.013
+    6400554: salon alembik.014
+    6400556: salon alembik.015
+    6400558: salon alembik.016
+    6400560: salon alembik.017
+    6400562: salon alembik.018
+    6400564: "salon alembikokr\u0105g\u0142y"
+    6400566: "salon alembikokr\u0105g\u0142y.001"
+    6400568: "salon alembikokr\u0105g\u0142y.002"
+    6400570: "salon alembikokr\u0105g\u0142y.003"
+    6400572: "salon alembikokr\u0105g\u0142y.004"
+    6400574: "salon alembikokr\u0105g\u0142y.005"
+    6400576: "salon alembikokr\u0105g\u0142y.006"
+    6400578: "salon alembikokr\u0105g\u0142y.007"
+    6400580: "salon ksi\u0105\u017Cki"
+    6400582: "salon ksi\u0105\u017Cki.001"
+    6400584: salon lampa
+    6400586: "salon listwa zas\u0142ony"
+    6400588: salon okna tarasowe
+    6400590: salon okna tarasowe.004
+    6400592: salon szafka .000
+    6400594: salon szafka .001
+    6400596: salon szafka .002
+    6400598: salon szafka .003
+    6400600: salon szafka .004
+    6400602: salon szafka .005
+    6400604: salon szafka .006
+    6400606: salon szafka .007
+    6400608: salon szafka .008
+    6400610: salon szafka .009
+    6400612: salon szafka .010
+    6400614: salon szafka .011
+    6400616: salon szafka .012
+    6400618: salon szafka .013
+    6400620: salon szafka .014
+    6400622: salon szafka .015
+    6400624: salon szafka .016
+    6400626: salon szafka .017
+    6400628: salon szafka .018
+    6400630: salon szafka .019
+    6400632: salon szafka .020
+    6400634: salon szafka .021
+    6400636: salon szafka .022
+    6400638: salon szafka .023
+    6400640: salon szafka .024
+    6400642: salon szafka .025
+    6400644: salon szafka .026
+    6400646: salon szafka .027
+    6400648: salon szafka .028
+    6400650: salon szafka .029
+    6400652: salon szafka .030
+    6400654: salon szafka .031
+    6400656: salon szafka .032
+    6400658: salon szafka .blat
+    6400660: salon szafka .blat.001
+    6400662: salon szafka .blat.002
+    6400664: salon szafka .blat.003
+    6400666: salon szafka .blat.005
+    6400668: salon szafka .blat.006
+    6400670: salon szafka .blat.007
+    6400672: "salon szafka pod rega\u0142em"
+    6400674: salon tv
+    6400676: "salon w\u0142\u0105cznik \u015Bwiat\u0142\u0105"
+    6400678: "salon zas\u0142ony"
+    6400680: "salon zas\u0142ony.001"
+    6400682: "salon, zas\u0142ona za \u0142\xF3zkiem"
+    6400684: salon.biurko
+    6400686: salon.sufit jadalnia
+    6400688: "salon.sufit, k\u0105cik nad sof\u0105"
+    6400690: salon.sufit. miejsce pracy
+    6400692: salon.sufit.000
+    6400694: salon.sufit.002
+    6400696: salon.sufit.003
+    6400698: salon.sufit.004
+    6400700: sciany mieszkania
+    6400702: sciany mieszkania.kuchnia
+    6400704: sciany mieszkania.lazienka
+    6400706: sciany mieszkania.lazienka.001
+    6400708: sciany mieszkania.salon
+    6400710: sciany mieszkania.sypialnia
+    6400712: sciany mieszkania.sypialnia.001
+    6400714: seat.000
+    6400716: seat.001
+    6400718: seat.004
+    6400720: seat.005
+    6400722: spodek
+    6400724: sub01
+    6400726: sub02
+    6400728: sub02.002
+    6400730: sub02.003
+    6400732: sub02.004
+    6400734: sub03
+    6400736: sufit
+    6400738: support.000
+    6400740: support.001
+    6400742: support.005
+    6400744: support.007
+    6400746: support.008
+    6400748: support.011
+    6400750: sypialnia drzwi
+    6400752: sypialnia drzwi.001
+    6400754: sypialnia drzwi.002
+    6400756: sypialnia drzwi.003
+    6400758: sypialnia drzwi.004
+    6400760: sypialnia drzwi.005
+    6400762: sypialnia drzwi.006
+    6400764: sypialnia drzwi.007
+    6400766: sypialnia drzwi.008
+    6400768: "sypialnia ksi\u0105\u017Cki"
+    6400770: sypialnia okna tarasowe.002
+    6400772: sypialnia szafa
+    6400774: sypialnia szafa drzwi
+    6400776: sypialnia szafa drzwi.001
+    6400778: "sypialnia w\u0142\u0105cznik \u015Bwiat\u0142a"
+    6400780: "sypialnia zas\u0142ony"
+    6400782: "sypialnia zas\u0142ony.001"
+    6400784: "sypialnia zas\u0142ony.002"
+    6400786: "sypialnia \u0142\xF3zko"
+    6400788: sypialnia. sufit
+    6400790: sypialnia. sufit.001
+    6400792: "sypialnia.panel zas\u0142on"
+    6400794: sypialniaokna tarasowe.001
+    6400796: "szafa drzwi lewe g\xF3rne"
+    6400798: "szafa drzwi lewe g\xF3rne.001"
+    6400800: szafa drzwi prawe
+    6400802: "szafa drzwi prawe.g\xF3rne"
+    6400804: "szafa drzwi prawe.g\xF3rne.001"
+    6400806: "szafa przedpok\xF3j.001"
+    6400808: "szafka wisz\u0105ca.001"
+    6400810: szklanka 0
+    6400812: szklanka 0.001
+    6400814: szklanka 1
+    6400816: szklanka 1.001
+    6400818: szklanka 2
+    6400820: szklanka 2.001
+    6400822: szklanka 3
+    6400824: szklanka 3.001
+    6400826: szklanka 4
+    6400828: szklanka 4.001
+    6400830: szklanka 5
+    6400832: szklanka 5.001
+    6400834: szlanka 04
+    6400836: szlanka 04.001
+    6400838: szuflada .001
+    6400840: szuflada okno.001
+    6400842: tabletop.002
+    6400844: tabletop.003
+    6400846: toothbrus2
+    6400848: zlew.001
+    6400850: "\u0142azienka  umywalka"
+    6400852: "\u0142azienka drzwi"
+    6400854: "\u0142azienka drzwi.001"
+    6400856: "\u0142azienka krzese\u0142ko"
+    6400858: "\u0142azienka krzese\u0142kopod prysznic"
+    6400860: "\u0142azienka lustro"
+    6400862: "\u0142azienka okna tarasowe.003"
+    6400864: "\u0142azienka oparcie przy toalecie"
+    6400866: "\u0142azienka pasta"
+    6400868: "\u0142azienka prysznic pochwyty"
+    6400870: "\u0142azienka r\u0119cznik"
+    6400872: "\u0142azienka sufit \u015Bwiat\u0142o"
+    6400874: "\u0142azienka szczotka toaletowa"
+    6400876: "\u0142azienka toilet"
+    6400878: "\u0142azienka uchwyt boczny L"
+    6400880: "\u0142azienka uchwyt pionowy"
+    10800000: Sun
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 12 - Default
+    second: {fileID: 2100000, guid: c61b14bd2076dfd4fbfbaeb8a807dc19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 18 - Default
+    second: {fileID: 2100000, guid: e54cd9b389cea37409136a8d1c41001c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 3iLleather White
+    second: {fileID: 2100000, guid: 652fb1ed098a4e14eb212b2169a9dc74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black_Plastic_Ma
+    second: {fileID: 2100000, guid: 59d95f71735ba2143a64f046bf2a1d89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ceramiks y 2.001
+    second: {fileID: 2100000, guid: 09f75c7f80906ef4cafa144eb6f35842, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ceramiks y 2.002
+    second: {fileID: 2100000, guid: 0be337c9d7d5e7a43af485022a9f11b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GDLM2_M_39357554.001
+    second: {fileID: 2100000, guid: 506b2e2fbbae96e4180b211a25985a8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: 642c2ee1c99490047aa6a6f37178beba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass.001
+    second: {fileID: 2100000, guid: 48022a7d6b9fff14b8da7480fd6e34b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass.002
+    second: {fileID: 2100000, guid: 8298b07c3605c6f4aa435eefada48d0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass.003
+    second: {fileID: 2100000, guid: 89c180936eeafd243b080d44b8859ad1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass.004
+    second: {fileID: 2100000, guid: 2bddba65848451946882c4b1af1c2b86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kruzki
+    second: {fileID: 2100000, guid: 62d6f445531aa4f4b91ddbdf62a5e202, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leather LS
+    second: {fileID: 2100000, guid: 913d9504f1d6e0e4bab08d2b5f791120, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 9f560fcbfbe377b41a865004f3322a7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #13'
+    second: {fileID: 2100000, guid: b4d9b8a22530b094eb706bcd8d67cd7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #189'
+    second: {fileID: 2100000, guid: 552f436ebfd6b3a499bf03c39917f41f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #190'
+    second: {fileID: 2100000, guid: 4505ed85c21b3884f86300bcbc0621ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #191'
+    second: {fileID: 2100000, guid: 256f026ce4f18a3419097dc31a39b238, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #193'
+    second: {fileID: 2100000, guid: 53d587b0c1b20e841a2b9f6689ddccde, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #194'
+    second: {fileID: 2100000, guid: 327a2688f6d017a4abdb9abf4888323e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #195'
+    second: {fileID: 2100000, guid: 29afd436e59c8ab48b4e4dfc396f2db3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #196'
+    second: {fileID: 2100000, guid: a57ccb2e7ddf266468a1460dc5d90584, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #197'
+    second: {fileID: 2100000, guid: cc3bd6a5f1369fb4cab4ef29986b6e4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #198'
+    second: {fileID: 2100000, guid: 41df8b122e4a6224ea89e7d902fef911, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #199'
+    second: {fileID: 2100000, guid: 060f2c71699be8949a84ae74e150abb5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #41.001'
+    second: {fileID: 2100000, guid: 613bf540bd76b6540bbc16276e9af6fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #41.002'
+    second: {fileID: 2100000, guid: 8b80e3e6aa40135428c3e9f0d99c566d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #43.001'
+    second: {fileID: 2100000, guid: a9fa6f41b79b7fa448152f3807490197, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #43.002'
+    second: {fileID: 2100000, guid: d4878fcc9621d7f4e8f8754657a7ef3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #55.001'
+    second: {fileID: 2100000, guid: 032486e9d49b2f34da8f227517a31c01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #55.002'
+    second: {fileID: 2100000, guid: a00068cada2539e4e8a9d50e68467e70, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #67'
+    second: {fileID: 2100000, guid: 90e64df65f3a0324db74fc238ba431cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #68'
+    second: {fileID: 2100000, guid: 65dcf3d57ae16b84d984c03a8435b75f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Misc-Water.003
+    second: {fileID: 2100000, guid: 0a0c7b26364a77344b3e83b9ad043680, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Misc-Water.004
+    second: {fileID: 2100000, guid: ff42b544b2f764a48a6d139e6b504766, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: b409fc70036f0f143a92ccffa632619d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Standard_5
+    second: {fileID: 2100000, guid: 8971e780f922d9a48b4324de1216efae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vlevet
+    second: {fileID: 2100000, guid: dac2895c1e10aeb49b5a2df617baec0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _______________.001
+    second: {fileID: 2100000, guid: bdbf38fc4ea2c43419adcd3bb17432c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: balkon panele
+    second: {fileID: 2100000, guid: 9bd79ab7718698441b5439107c2bb871, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: books 1
+    second: {fileID: 2100000, guid: 60640f4c68d69774cbf817cf5212a7f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: books 1.001
+    second: {fileID: 2100000, guid: adb015cf458620e4393537c19863e27e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: broun
+    second: {fileID: 2100000, guid: 66630cf7717db6e46bffaede2f477c9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chrom5
+    second: {fileID: 2100000, guid: f22b3e5cd12fdfe4296b653b86802c5c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cover 1
+    second: {fileID: 2100000, guid: 191be4513e321004996c9fa298f99708, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cover 1-2
+    second: {fileID: 2100000, guid: 29cb43bb47340f94b9225cd7b9b59f63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cover 1-2.001
+    second: {fileID: 2100000, guid: fa679ad83fc56734db4b52e5c5559067, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cover 1.001
+    second: {fileID: 2100000, guid: e961536ab2d14ee439d3e5f4947d6f7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cup
+    second: {fileID: 2100000, guid: a2c9d18f1038e1a4aa9673ee5eaa03de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: drewno
+    second: {fileID: 2100000, guid: 996791fdba5f09548811dfe2fe6492d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: drzwi uchwyty
+    second: {fileID: 2100000, guid: 8b108466025905a42b18430d0528c93d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass popelov
+    second: {fileID: 2100000, guid: 4e96e8fcd89ab1b44ad938a1523b00ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass.001
+    second: {fileID: 2100000, guid: 48022a7d6b9fff14b8da7480fd6e34b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass.002
+    second: {fileID: 2100000, guid: 8298b07c3605c6f4aa435eefada48d0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: green
+    second: {fileID: 2100000, guid: 3c1d8a7d157bdfb4e8aa8985c6a6dbf4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: green.001
+    second: {fileID: 2100000, guid: c4aacfa00a226d54e936d00527c96e04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kolor
+    second: {fileID: 2100000, guid: b65475c3e213ed44f8d10c774b9be7d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kuchnia.b
+    second: {fileID: 2100000, guid: 1621556a4e534654794d85a8159f5991, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kuchnia.b.002
+    second: {fileID: 2100000, guid: c71e7b071c9e74243ae15b8403218799, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kuchnia.sz1.002
+    second: {fileID: 2100000, guid: 1fbf7d06057d3574a8e86964e482756d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kuchnia.sz2.002
+    second: {fileID: 2100000, guid: cd16d41b47c621e499a33db8a58261a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ma1
+    second: {fileID: 2100000, guid: 25b5b57af26940646bdd9514f6af4294, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ma1.002
+    second: {fileID: 2100000, guid: 7b8a0778683f06b4fa41133d2e17c879, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ma2.001
+    second: {fileID: 2100000, guid: e5c617985f80306469c072bf347308a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat48.000
+    second: {fileID: 2100000, guid: ae3a9172953a9a5498832b85697a5928, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat48.001
+    second: {fileID: 2100000, guid: 6338c1bfeadf0124da821908241ab153, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat48.002
+    second: {fileID: 2100000, guid: eece819401ec5604ca85a198801b7008, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal.001
+    second: {fileID: 2100000, guid: 7c09e01993d4b344cba2c09640786b3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: obicie
+    second: {fileID: 2100000, guid: 30e5b78de0d9c994290f56b824fa3e47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "pod\u0142aga kuchnia"
+    second: {fileID: 2100000, guid: 041f198b2b5912d4c8fb97f95bb5588d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "pod\u0142oga balkon"
+    second: {fileID: 2100000, guid: 6d62df5b7c413fd418d77ab047e20e4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "pod\u0142oga salon"
+    second: {fileID: 2100000, guid: e591241b066d29f4ab8aad8901e5341c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "pod\u0142oga sypialnia"
+    second: {fileID: 2100000, guid: 0d5c9ff48162704489884d1ac304cb76, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "pod\u0142oga \u0142azienka"
+    second: {fileID: 2100000, guid: 1ce35103423677648b006ffbbd2db391, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "pod\u0142oga \u0142azienka prysznic"
+    second: {fileID: 2100000, guid: fee9d34190c4623448979bfcc2a108df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: porcelana
+    second: {fileID: 2100000, guid: 978b0408dfe636a49a79f3a8b9b46f42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: red.001
+    second: {fileID: 2100000, guid: 99923ff2be5b2234da5aaad8145f2b74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: salon lampa klosz
+    second: {fileID: 2100000, guid: 4a931a58ba8eb5841a15f9e04cdfde0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "salon swiat\u0142o zimne"
+    second: {fileID: 2100000, guid: 1cd1ea087a9200e4fb6fdd0c2b9b8357, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: salon szafka rtv
+    second: {fileID: 2100000, guid: 99e55abedec9d9948ba02724e2dc9033, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "salon \u015Bwiat\u0142o ciep\u0142e"
+    second: {fileID: 2100000, guid: 4646ba785a51fd34a8be8f23ce7aaec9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: side.001
+    second: {fileID: 2100000, guid: 0f6f2446781a3de41a6e8252cb9caad8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: st_wood.001
+    second: {fileID: 2100000, guid: 35ea01a87d07ed84691b52fef140e27c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: standart metal.001
+    second: {fileID: 2100000, guid: 873a6ac05a76cfd409521e5cc203f864, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sufit
+    second: {fileID: 2100000, guid: c17556392f3539d4a9569c3fa3e5c411, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "swiat\u0142o sypialnia"
+    second: {fileID: 2100000, guid: 9f8557e2b7852634cb49278f3e9975d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "swiat\u0142o sypialnia zas\u0142ony"
+    second: {fileID: 2100000, guid: af47442f5d1441e4996428e378d56430, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sypialnia sufit gwiazdy
+    second: {fileID: 2100000, guid: f84357fae7c756b45a53c8b67690ace9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "szk\u0142o"
+    second: {fileID: 2100000, guid: fed5c5643a0e4e54a8522340585da130, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tv
+    second: {fileID: 2100000, guid: af9d9ba53801b9d4fb1aac4abce81396, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: w  birch.002
+    second: {fileID: 2100000, guid: d760c92e3aecedf449cdaaeaedd47666, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: w black
+    second: {fileID: 2100000, guid: 59a89c409aacb5a41ae5f26a0c0baa6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire_115115115
+    second: {fileID: 2100000, guid: 1625bf5ce59eeb8499f44248e957e160, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood solid.019
+    second: {fileID: 2100000, guid: 330db33cbf09cce49a02cf213e129c68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "zas\u0142ony"
+    second: {fileID: 2100000, guid: 07ed90b6846cd5c4ca8cf8561dcc7193, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u0142azienka kolor"
+    second: {fileID: 2100000, guid: b3bd9570ece544d448507ec1d0ee00f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u0142azienka lustro"
+    second: {fileID: 2100000, guid: 2d25c755c1da72140ab851f55331e5db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u0142azienka porcelanka"
+    second: {fileID: 2100000, guid: 04e17a19c5d0c6d4db1893ebae4fd921, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u0142azienka uchwyty"
+    second: {fileID: 2100000, guid: da83843ee8b929e40a5005aa5095d573, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u0142azienka \u015Bwiat\u0142o"
+    second: {fileID: 2100000, guid: 2796d2175a67cfe45a879498b8738d98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u015Bciana ca\u0142o\u015B\u0107"
+    second: {fileID: 2100000, guid: 9271ee50d460a7643a508fb3e86381a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u015Bciana sypialnia"
+    second: {fileID: 2100000, guid: 414458bf73d89d24d931e22a864b25e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u015Bciany kuchnia"
+    second: {fileID: 2100000, guid: caf72fd9392f2e441aa012471a017a09, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u015Bciany salon i przedpok\xF3j"
+    second: {fileID: 2100000, guid: 7a9c1702bf3be5c479034d43e25fce66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u015Bciany sypialnia okno"
+    second: {fileID: 2100000, guid: 290936471cd61184d9db80f4bf12b07e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u015Bciany \u0142azienka"
+    second: {fileID: 2100000, guid: 2c5fd60e146ecd045aa6b528cf6efff9, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

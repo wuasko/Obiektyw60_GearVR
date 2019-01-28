@@ -1,0 +1,354 @@
+fileFormatVersion: 2
+guid: d28f2691456fa004286cb0728e4a7d9f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 2:1
+    100002: 2:1.004
+    100004: 2:1.005
+    100006: Layer_11zb
+    100008: "modu\u0142.box"
+    100010: "modu\u0142.box.002"
+    100012: "modu\u0142.box.004"
+    100014: "modu\u0142.box.005"
+    100016: "modu\u0142.box.006"
+    100018: "modu\u0142.box.007"
+    100020: "modu\u0142.box.009"
+    100022: "modu\u0142.box.011"
+    100024: "modu\u0142.box.012"
+    100026: "modu\u0142.box.013"
+    100028: "modu\u0142.box.014"
+    100030: "modu\u0142.box.015"
+    100032: "modu\u0142.panel \u015Bcienny.001"
+    100034: "modu\u0142.szuflada. d\xF3\u0142"
+    100036: "modu\u0142.szuflada. d\xF3\u0142.002"
+    100038: "modu\u0142.szuflada. d\xF3\u0142.006"
+    100040: "modu\u0142.szuflada. d\xF3\u0142.009"
+    100042: "modu\u0142.szuflada. d\xF3\u0142.013"
+    100044: "modu\u0142.szuflada. d\xF3\u0142.014"
+    100046: "modu\u0142.szuflada. d\xF3\u0142.015"
+    100048: "modu\u0142.szuflada.gora"
+    100050: "modu\u0142.szuflada.gora.002"
+    100052: "modu\u0142.szuflada.gora.006"
+    100054: "modu\u0142.szuflada.gora.009"
+    100056: "modu\u0142.szuflada.gora.013"
+    100058: "modu\u0142.szuflada.gora.014"
+    100060: "modu\u0142.szuflada.gora.015"
+    100062: salon alembik
+    100064: salon alembik.001
+    100066: salon alembik.002
+    100068: salon alembik.003
+    100070: salon alembik.004
+    100072: salon alembik.005
+    100074: salon alembik.006
+    100076: salon alembik.007
+    100078: salon alembik.008
+    100080: salon alembik.009
+    100082: salon alembik.010
+    100084: salon alembik.011
+    100086: salon alembik.012
+    100088: salon alembik.013
+    100090: salon alembik.014
+    100092: salon alembik.015
+    100094: salon alembik.016
+    100096: salon alembik.017
+    100098: salon alembik.018
+    100100: "salon alembikokr\u0105g\u0142y"
+    100102: "salon alembikokr\u0105g\u0142y.001"
+    100104: "salon alembikokr\u0105g\u0142y.002"
+    100106: "salon alembikokr\u0105g\u0142y.003"
+    100108: "salon alembikokr\u0105g\u0142y.004"
+    100110: "salon alembikokr\u0105g\u0142y.005"
+    100112: "salon alembikokr\u0105g\u0142y.006"
+    100114: "salon alembikokr\u0105g\u0142y.007"
+    100116: "salon ksi\u0105\u017Cki"
+    100118: "salon ksi\u0105\u017Cki.001"
+    100120: //RootNode
+    400000: 2:1
+    400002: 2:1.004
+    400004: 2:1.005
+    400006: Layer_11zb
+    400008: "modu\u0142.box"
+    400010: "modu\u0142.box.002"
+    400012: "modu\u0142.box.004"
+    400014: "modu\u0142.box.005"
+    400016: "modu\u0142.box.006"
+    400018: "modu\u0142.box.007"
+    400020: "modu\u0142.box.009"
+    400022: "modu\u0142.box.011"
+    400024: "modu\u0142.box.012"
+    400026: "modu\u0142.box.013"
+    400028: "modu\u0142.box.014"
+    400030: "modu\u0142.box.015"
+    400032: "modu\u0142.panel \u015Bcienny.001"
+    400034: "modu\u0142.szuflada. d\xF3\u0142"
+    400036: "modu\u0142.szuflada. d\xF3\u0142.002"
+    400038: "modu\u0142.szuflada. d\xF3\u0142.006"
+    400040: "modu\u0142.szuflada. d\xF3\u0142.009"
+    400042: "modu\u0142.szuflada. d\xF3\u0142.013"
+    400044: "modu\u0142.szuflada. d\xF3\u0142.014"
+    400046: "modu\u0142.szuflada. d\xF3\u0142.015"
+    400048: "modu\u0142.szuflada.gora"
+    400050: "modu\u0142.szuflada.gora.002"
+    400052: "modu\u0142.szuflada.gora.006"
+    400054: "modu\u0142.szuflada.gora.009"
+    400056: "modu\u0142.szuflada.gora.013"
+    400058: "modu\u0142.szuflada.gora.014"
+    400060: "modu\u0142.szuflada.gora.015"
+    400062: salon alembik
+    400064: salon alembik.001
+    400066: salon alembik.002
+    400068: salon alembik.003
+    400070: salon alembik.004
+    400072: salon alembik.005
+    400074: salon alembik.006
+    400076: salon alembik.007
+    400078: salon alembik.008
+    400080: salon alembik.009
+    400082: salon alembik.010
+    400084: salon alembik.011
+    400086: salon alembik.012
+    400088: salon alembik.013
+    400090: salon alembik.014
+    400092: salon alembik.015
+    400094: salon alembik.016
+    400096: salon alembik.017
+    400098: salon alembik.018
+    400100: "salon alembikokr\u0105g\u0142y"
+    400102: "salon alembikokr\u0105g\u0142y.001"
+    400104: "salon alembikokr\u0105g\u0142y.002"
+    400106: "salon alembikokr\u0105g\u0142y.003"
+    400108: "salon alembikokr\u0105g\u0142y.004"
+    400110: "salon alembikokr\u0105g\u0142y.005"
+    400112: "salon alembikokr\u0105g\u0142y.006"
+    400114: "salon alembikokr\u0105g\u0142y.007"
+    400116: "salon ksi\u0105\u017Cki"
+    400118: "salon ksi\u0105\u017Cki.001"
+    400120: //RootNode
+    2100000: drewno
+    2100002: "salon swiat\u0142o zimne"
+    2100004: KOLOR_
+    2100006: "szk\u0142o"
+    2100008: Misc-Water.004
+    2100010: Misc-Water.003
+    2100012: books 1
+    2100014: cover 1-2
+    2100016: cover 1
+    2100018: Material
+    2100020: "\u015Bciany salon i przedpok\xF3j"
+    2300000: 2:1
+    2300002: 2:1.004
+    2300004: 2:1.005
+    2300006: Layer_11zb
+    2300008: "modu\u0142.box"
+    2300010: "modu\u0142.box.002"
+    2300012: "modu\u0142.box.004"
+    2300014: "modu\u0142.box.005"
+    2300016: "modu\u0142.box.006"
+    2300018: "modu\u0142.box.007"
+    2300020: "modu\u0142.box.009"
+    2300022: "modu\u0142.box.011"
+    2300024: "modu\u0142.box.012"
+    2300026: "modu\u0142.box.013"
+    2300028: "modu\u0142.box.014"
+    2300030: "modu\u0142.box.015"
+    2300032: "modu\u0142.panel \u015Bcienny.001"
+    2300034: "modu\u0142.szuflada. d\xF3\u0142"
+    2300036: "modu\u0142.szuflada. d\xF3\u0142.002"
+    2300038: "modu\u0142.szuflada. d\xF3\u0142.006"
+    2300040: "modu\u0142.szuflada. d\xF3\u0142.009"
+    2300042: "modu\u0142.szuflada. d\xF3\u0142.013"
+    2300044: "modu\u0142.szuflada. d\xF3\u0142.014"
+    2300046: "modu\u0142.szuflada. d\xF3\u0142.015"
+    2300048: "modu\u0142.szuflada.gora"
+    2300050: "modu\u0142.szuflada.gora.002"
+    2300052: "modu\u0142.szuflada.gora.006"
+    2300054: "modu\u0142.szuflada.gora.009"
+    2300056: "modu\u0142.szuflada.gora.013"
+    2300058: "modu\u0142.szuflada.gora.014"
+    2300060: "modu\u0142.szuflada.gora.015"
+    2300062: salon alembik
+    2300064: salon alembik.001
+    2300066: salon alembik.002
+    2300068: salon alembik.003
+    2300070: salon alembik.004
+    2300072: salon alembik.005
+    2300074: salon alembik.006
+    2300076: salon alembik.007
+    2300078: salon alembik.008
+    2300080: salon alembik.009
+    2300082: salon alembik.010
+    2300084: salon alembik.011
+    2300086: salon alembik.012
+    2300088: salon alembik.013
+    2300090: salon alembik.014
+    2300092: salon alembik.015
+    2300094: salon alembik.016
+    2300096: salon alembik.017
+    2300098: salon alembik.018
+    2300100: "salon alembikokr\u0105g\u0142y"
+    2300102: "salon alembikokr\u0105g\u0142y.001"
+    2300104: "salon alembikokr\u0105g\u0142y.002"
+    2300106: "salon alembikokr\u0105g\u0142y.003"
+    2300108: "salon alembikokr\u0105g\u0142y.004"
+    2300110: "salon alembikokr\u0105g\u0142y.005"
+    2300112: "salon alembikokr\u0105g\u0142y.006"
+    2300114: "salon alembikokr\u0105g\u0142y.007"
+    2300116: "salon ksi\u0105\u017Cki"
+    2300118: "salon ksi\u0105\u017Cki.001"
+    3300000: 2:1
+    3300002: 2:1.004
+    3300004: 2:1.005
+    3300006: Layer_11zb
+    3300008: "modu\u0142.box"
+    3300010: "modu\u0142.box.002"
+    3300012: "modu\u0142.box.004"
+    3300014: "modu\u0142.box.005"
+    3300016: "modu\u0142.box.006"
+    3300018: "modu\u0142.box.007"
+    3300020: "modu\u0142.box.009"
+    3300022: "modu\u0142.box.011"
+    3300024: "modu\u0142.box.012"
+    3300026: "modu\u0142.box.013"
+    3300028: "modu\u0142.box.014"
+    3300030: "modu\u0142.box.015"
+    3300032: "modu\u0142.panel \u015Bcienny.001"
+    3300034: "modu\u0142.szuflada. d\xF3\u0142"
+    3300036: "modu\u0142.szuflada. d\xF3\u0142.002"
+    3300038: "modu\u0142.szuflada. d\xF3\u0142.006"
+    3300040: "modu\u0142.szuflada. d\xF3\u0142.009"
+    3300042: "modu\u0142.szuflada. d\xF3\u0142.013"
+    3300044: "modu\u0142.szuflada. d\xF3\u0142.014"
+    3300046: "modu\u0142.szuflada. d\xF3\u0142.015"
+    3300048: "modu\u0142.szuflada.gora"
+    3300050: "modu\u0142.szuflada.gora.002"
+    3300052: "modu\u0142.szuflada.gora.006"
+    3300054: "modu\u0142.szuflada.gora.009"
+    3300056: "modu\u0142.szuflada.gora.013"
+    3300058: "modu\u0142.szuflada.gora.014"
+    3300060: "modu\u0142.szuflada.gora.015"
+    3300062: salon alembik
+    3300064: salon alembik.001
+    3300066: salon alembik.002
+    3300068: salon alembik.003
+    3300070: salon alembik.004
+    3300072: salon alembik.005
+    3300074: salon alembik.006
+    3300076: salon alembik.007
+    3300078: salon alembik.008
+    3300080: salon alembik.009
+    3300082: salon alembik.010
+    3300084: salon alembik.011
+    3300086: salon alembik.012
+    3300088: salon alembik.013
+    3300090: salon alembik.014
+    3300092: salon alembik.015
+    3300094: salon alembik.016
+    3300096: salon alembik.017
+    3300098: salon alembik.018
+    3300100: "salon alembikokr\u0105g\u0142y"
+    3300102: "salon alembikokr\u0105g\u0142y.001"
+    3300104: "salon alembikokr\u0105g\u0142y.002"
+    3300106: "salon alembikokr\u0105g\u0142y.003"
+    3300108: "salon alembikokr\u0105g\u0142y.004"
+    3300110: "salon alembikokr\u0105g\u0142y.005"
+    3300112: "salon alembikokr\u0105g\u0142y.006"
+    3300114: "salon alembikokr\u0105g\u0142y.007"
+    3300116: "salon ksi\u0105\u017Cki"
+    3300118: "salon ksi\u0105\u017Cki.001"
+    4300000: "modu\u0142.box.015"
+    4300002: "modu\u0142.szuflada. d\xF3\u0142.015"
+    4300004: "modu\u0142.szuflada.gora.015"
+    4300006: "salon alembikokr\u0105g\u0142y.007"
+    4300008: salon alembik.013
+    4300010: 2:1.005
+    4300012: salon alembik.008
+    4300014: salon alembik.001
+    4300016: 2:1
+    4300018: "salon ksi\u0105\u017Cki"
+    4300020: Layer_11zb
+    4300022: "salon alembikokr\u0105g\u0142y.006"
+    4300024: "modu\u0142.panel \u015Bcienny.001"
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
